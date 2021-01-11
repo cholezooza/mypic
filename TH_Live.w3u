@@ -36,6 +36,18 @@
 "playInNatPlayer": "true"
 },	
 {
+"name":"TNN สำรอง 1",
+"image":"https://i.postimg.cc/XNCZRb5H/sd-tnn.png",
+"url":"https://www.tnnthailand.com/live",
+"referer": "https://www.tnnthailand.com/live"
+},	
+{
+"name":"TNN สำรอง 2",
+"image":"https://i.postimg.cc/XNCZRb5H/sd-tnn.png",
+"url":"https://www.tnnthailand.com/live",
+"playInNatPlayer": "true"
+},	
+{
 "name":"NEW TV",
 "image":"https://i.postimg.cc/hvTfTLgW/sd-new.png",
 "url":"https://cdn6.goprimetime.info/feed/newtv/index.m3u8",
