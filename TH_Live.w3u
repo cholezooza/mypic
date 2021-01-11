@@ -1,7 +1,7 @@
 {
-"name": "Thai Digital TV",
-"author": "whoami",
-"image": "https://i.postimg.cc/NFxLdRJ3/SW-Stream-TV.png",
+"name": "Thai TV Live",
+"author": "WHOAMI",
+"image": "https://i.postimg.cc/NGzgGbyP/icon.png",
 "url": "https://doona.cf/TH_Live.w3u",
 "info": "", "stations": 
 [ 
@@ -108,7 +108,7 @@
 "playInNatPlayer": "true"
 },	
 {
-"name":"7HD",
+"name":"7 HD",
 "image":"https://i.postimg.cc/9fmFz3rh/hd-ch7.png",
 "url":" https://edge6a.v2h-cdn.com/m2i1/7HD.stream_720p/chunklist.m3u8",
 "playInNatPlayer": "true"
