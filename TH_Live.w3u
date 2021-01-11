@@ -170,7 +170,7 @@
 {
 "name":"Amarin TV สำรอง",
 "image":"https://i.postimg.cc/wTNBGcSS/hd-amarin.png",
-"url":"https://cdn6.goprimetime.info//feed//ch7hd//index.m3u8",
+"url":"https://cdn6.goprimetime.info//feed//chamarin//index.m3u8",
 "playInNatPlayer": "true"
 },	
 {
@@ -208,6 +208,12 @@
 "image":"https://i.postimg.cc/GhHnyzxZ/Mangorn.png",
 "url":"https://tv.trueid.net/embed/Mangorn",
 "referrer": "https://tv.trueid.net/live/"
+},
+{
+"name":"มังกร (สำรอง)",
+"image":"https://i.postimg.cc/GhHnyzxZ/Mangorn.png",
+"url":"https://tv.trueid.net/embed/Mangorn",
+"playInNatPlayer": "true"
 }]
 
 },	
