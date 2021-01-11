@@ -9,7 +9,7 @@
 "name":"TV5HD",
 "image":"https://i.postimg.cc/sg9gVffm/hd-ch5.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"referrer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"TV5HD สำรอง",
@@ -21,7 +21,7 @@
 "name":"NBT2HD",
 "image":"https://i.postimg.cc/T2LmTbzc/hd-nbt.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/sd-nbt.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"referrer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"NBT2HD สำรอง",
@@ -33,7 +33,7 @@
 "name":"Thai PBS",
 "image":"https://i.postimg.cc/0yxJGBbt/hd-tpbs.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/hd-tpbs.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"referrer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"TPTV",
@@ -63,7 +63,7 @@
 "name":"NEW TV สำรอง",
 "image":"https://i.postimg.cc/hvTfTLgW/sd-new.png",
 "url":"https://www.liveballsod.com/tv-online/ch012/",
-"referer": "https://www.liveballsod.com/tv-online/"
+"referrer": "https://www.liveballsod.com/tv-online/"
 },	
 {
 "name":"Nation TV",
@@ -141,7 +141,7 @@
 "name":"Thairath TV",
 "image":"https://i.postimg.cc/hPVddBPz/hd-thairath.png",
 "url":"https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8",
-"referer": "https://www.thairath.co.th/tv/live/"
+"referrer": "https://www.thairath.co.th/tv/live/"
 },	
 {
 "name":"Thairath TV สำรอง",
@@ -165,7 +165,7 @@
 "name":"Amarin TV",
 "image":"https://i.postimg.cc/wTNBGcSS/hd-amarin.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"referrer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Amarin TV สำรอง",
@@ -195,7 +195,7 @@
 "name":"PPTV สำรอง",
 "image":"https://i.postimg.cc/HWqMnxH1/hd-pptv.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/hd-pptv.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"referrer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"ALTV",
@@ -207,7 +207,7 @@
 "name":"มังกร",
 "image":"https://i.postimg.cc/GhHnyzxZ/Mangorn.png",
 "url":"https://tv.trueid.net/embed/Mangorn",
-"playInNatPlayer": "true"
+"referrer": "https://tv.trueid.net/live/"
 }]
 
 },	
