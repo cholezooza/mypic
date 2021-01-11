@@ -3,25 +3,25 @@
 "author": "WHOAMI",
 "image": "https://i.postimg.cc/NGzgGbyP/icon.png",
 "url": "https://doona.cf/TH_Live.w3u",
-"info": "", "stations": 
+"info": "", "Section A": 
 [ 
 {
 "name":"TV5HD",
 "image":"https://i.postimg.cc/sg9gVffm/hd-ch5.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"NBT2HD",
 "image":"https://i.postimg.cc/T2LmTbzc/hd-nbt.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/sd-nbt.stream/chunks.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Thai PBS",
 "image":"https://i.postimg.cc/0yxJGBbt/hd-tpbs.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/hd-tpbs.stream/chunks.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"TPTV",
