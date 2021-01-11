@@ -1,1 +1,131 @@
+{
+"name": "Thai Digital TV",
+"author": "whoami",
+"image": "https://i.postimg.cc/NFxLdRJ3/SW-Stream-TV.png",
+"url": "https://doona.cf/TH_Live.w3u",
+"info": "", "stations": 
+[ 
+{
+"name":"TV5HD",
+"image":"https://i.postimg.cc/sg9gVffm/hd-ch5.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"NBT2HD",
+"image":"https://i.postimg.cc/T2LmTbzc/hd-nbt.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-nbt.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Thai PBS",
+"image":"https://i.postimg.cc/0yxJGBbt/hd-tpbs.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-tpbs.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"TPTV",
+"image":"https://i.postimg.cc/xTVkY4y0/tptv.png",
+"url":"http://49.231.66.85:1935/live/tptv/playlist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"TNN",
+"image":"https://i.postimg.cc/XNCZRb5H/sd-tnn.png",
+"url":"https://cdn6.goprimetime.info/feed/chtnn/index.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"NEW TV",
+"image":"https://i.postimg.cc/hvTfTLgW/sd-new.png",
+"url":"https://cdn6.goprimetime.info/feed/newtv/index.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Nation TV",
+"image":"https://i.postimg.cc/d1zhhWbj/sd-nation.png",
+"url":"https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Workpoint TV",
+"image":"https://i.postimg.cc/6Qp2g4Vn/hd-workpoint.png",
+"url":"https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True4U",
+"image":"https://i.postimg.cc/N0C9cGbV/sd-24u.png",
+"url":"https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"GMM 25",
+"image":"https://i.postimg.cc/FRffstBK/sd-gmm.png",
+"url":"https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"8 HD",
+"image":"https://i.postimg.cc/yNL6ZfZS/hd-ch8.png",
+"url":"https://cdn6.goprimetime.info/feed/ch8/index.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Mono 29",
+"image":"https://i.postimg.cc/NLvQcSWZ/hd-mono.png",
+"url":"https://cdn6.goprimetime.info/feed/chmono29/index.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"MCOT HD",
+"image":"https://i.postimg.cc/2yZCgrX4/hd-mcot.png",
+"url":"https://edge6a.v2h-cdn.com/m2i3/McotHD.stream_720p/chunklist_w42999247.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"ONE",
+"image":"https://i.postimg.cc/vBDYLWr2/hd-gmmone.png",
+"url":"https://edge6a.v2h-cdn.com/m2i1/OneHD.stream_720p/chunklist_w1227011495.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Thairath TV",
+"image":"https://i.postimg.cc/hPVddBPz/hd-thairath.png",
+"url":"https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"3 HD",
+"image":"https://i.postimg.cc/P5kqsvHN/hd-ch3.png",
+"url":"https://edge6a.v2h-cdn.com/m2i1/3HD.stream_720p/chunklist_w1106671850.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Amarin TV",
+"image":"https://i.postimg.cc/wTNBGcSS/hd-amarin.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"7HD",
+"image":"https://i.postimg.cc/9fmFz3rh/hd-ch7.png",
+"url":" https://edge6a.v2h-cdn.com/m2i1/7HD.stream_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"PPTV",
+"image":"https://i.postimg.cc/HWqMnxH1/hd-pptv.png",
+"url":"https://edge6a.v2h-cdn.com/m2i1/PPTV.stream_720p/chunklist_w1363920702.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"ALTV",
+"image":"https://i.postimg.cc/Hk2869MT/altv.png",
+"url":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+"playInNatPlayer": "true"
+}]
 
+},	
+]
+}
