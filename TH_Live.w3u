@@ -36,7 +36,7 @@
 "playInNatPlayer": "true"
 },	
 {
-"name":"TNN สำรอง 1",
+"name":"TNN สำรอง",
 "image":"https://i.postimg.cc/XNCZRb5H/sd-tnn.png",
 "url":"https://www.tnnthailand.com/live",
 "playInNatPlayer": "true"
@@ -48,7 +48,7 @@
 "playInNatPlayer": "true"
 },	
 {
-"name":"NEW TV สำรอง 1",
+"name":"NEW TV สำรอง",
 "image":"https://i.postimg.cc/hvTfTLgW/sd-new.png",
 "url":"https://www.liveballsod.com/tv-online/ch012/",
 "referer": "https://www.liveballsod.com/tv-online/"
@@ -117,7 +117,7 @@
 "name":"Amarin TV",
 "image":"https://i.postimg.cc/wTNBGcSS/hd-amarin.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/chunks.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"7 HD",
@@ -130,6 +130,12 @@
 "image":"https://i.postimg.cc/HWqMnxH1/hd-pptv.png",
 "url":"https://edge6a.v2h-cdn.com/m2i1/PPTV.stream_720p/chunklist_w1363920702.m3u8",
 "playInNatPlayer": "true"
+},	
+{
+"name":"PPTV สำรอง",
+"image":"https://i.postimg.cc/HWqMnxH1/hd-pptv.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-pptv.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"ALTV",
