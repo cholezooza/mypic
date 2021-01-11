@@ -93,7 +93,7 @@
 "name":"Thairath TV",
 "image":"https://i.postimg.cc/hPVddBPz/hd-thairath.png",
 "url":"https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://www.thairath.co.th/tv/live/"
 },	
 {
 "name":"3 HD",
