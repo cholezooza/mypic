@@ -51,7 +51,7 @@
 "name":"NEW TVสำรอง 1",
 "image":"https://i.postimg.cc/hvTfTLgW/sd-new.png",
 "url":"https://www.newtv.co.th/m/live/",
-"playInNatPlayer": "true"
+"referer": "https://www.newtv.co.th/live"
 },	
 {
 "name":"Nation TV",
