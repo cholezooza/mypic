@@ -202,6 +202,12 @@
 "image":"https://i.postimg.cc/Hk2869MT/altv.png",
 "url":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
 "playInNatPlayer": "true"
+},
+{
+"name":"มังกร",
+"image":"https://i.postimg.cc/GhHnyzxZ/Mangorn.png",
+"url":"https://tv.trueid.net/embed/Mangorn",
+"playInNatPlayer": "true"
 }]
 
 },	
