@@ -13,10 +13,24 @@
 "playInNatPlayer": "true"
 },
 {
+"name":"True Premier League 1",
+"image":"https://i.postimg.cc/DZrnWwNN/epl-1.png",
+"url":"https://ball365.co/channel/?id=epl1",
+"referer": "https://ball365.co/",
+"playInNatPlayer": "true"
+},
+{
 "name":"True Premier League 2",
 "image":"https://i.postimg.cc/cCTWm50M/epl-2.png",
 "url":"https://doomovie.com/live/premier-football-hd-2",
 "referer": "https://www.doomovie.com/",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Premier League 2",
+"image":"https://i.postimg.cc/cCTWm50M/epl-2.png",
+"url":"https://ball365.co/channel/?id=epl2",
+"referer": "https://ball365.co/",
 "playInNatPlayer": "true"
 },
 {
@@ -27,10 +41,24 @@
 "playInNatPlayer": "true"
 },
 {
+"name":"True Sport HD 1",
+"image":"https://i.postimg.cc/wMkzhcTZ/truesport-hd.png",
+"url":"https://ball365.co/channel/?id=truesporthd",
+"referer": "https://ball365.co/",
+"playInNatPlayer": "true"
+},
+{
 "name":"True Sport HD 2",
 "image":"https://i.postimg.cc/JzDTr8ts/true-sport-hd2.png",
 "url":"https://doomovie.com/live/sport-hd-2",
 "referer": "https://www.doomovie.com/",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Sport HD 2",
+"image":"https://i.postimg.cc/JzDTr8ts/true-sport-hd2.png",
+"url":"https://ball365.co/channel/?id=truesporthd2",
+"referer": "https://ball365.co/",
 "playInNatPlayer": "true"
 },
 {
@@ -41,9 +69,23 @@
 "playInNatPlayer": "true"
 },
 {
+"name":"True Sport HD 3",
+"image":"https://i.postimg.cc/kgDwgm10/true-sport-hd3.png",
+"url":"https://ball365.co/channel/?id=truesporthd3",
+"referer": "https://ball365.co/",
+"playInNatPlayer": "true"
+},
+{
 "name":"True Sport HD 4",
 "image":"https://i.postimg.cc/9fnDXP7t/true-sport-hd4.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport4.stream/playlist.m3u8",
+"referer": "https://www.doofootball.com/",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Sport HD 4",
+"image":"https://i.postimg.cc/9fnDXP7t/true-sport-hd4.png",
+"url":"http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8",
 "referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
@@ -55,10 +97,24 @@
 "playInNatPlayer": "true"
 },
 {
+"name":"True Sport 2",
+"image":"https://i.postimg.cc/ZnwV7Dgz/true-sport-2.png",
+"url":"https://ball365.co/channel/?id=truesport2",
+"referer": "https://ball365.co/",
+"playInNatPlayer": "true"
+},
+{
 "name":"True Sport 5",
 "image":"https://i.postimg.cc/Y9sYtYHc/truesport-5.png",
 "url":"https://doomovie.com/live/sport-5",
 "referer": "https://www.doomovie.com/",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Sport 5",
+"image":"https://i.postimg.cc/Y9sYtYHc/truesport-5.png",
+"url":"https://ball365.co/channel/?id=truesport5",
+"referer": "https://ball365.co/",
 "playInNatPlayer": "true"
 },
 {
@@ -69,10 +125,24 @@
 "playInNatPlayer": "true"
 },
 {
+"name":"True Sport 6",
+"image":"https://i.postimg.cc/dV585zxt/truesport-6.png",
+"url":"https://ball365.co/channel/?id=truesport6",
+"referer": "https://ball365.co/",
+"playInNatPlayer": "true"
+},
+{
 "name":"True Sport 7",
 "image":"https://i.postimg.cc/rFj54PRq/truesport-7.png",
 "url":"https://streaming.livescorethai.net/iptv/sd-tsport7.stream/chunks.m3u8",
 "referer": "https://streaming.livescorethai.net",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Sport 7",
+"image":"https://i.postimg.cc/rFj54PRq/truesport-7.png",
+"url":"https://ball365.co/channel/?id=truesport7",
+"referer": "https://ball365.co/",
 "playInNatPlayer": "true"
 }]
 
