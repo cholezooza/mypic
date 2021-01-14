@@ -87,6 +87,13 @@
 "playInNatPlayer": "true"
 },	
 {
+"name":"Workpoint TV สำรอง",
+"image":"https://i.postimg.cc/6Qp2g4Vn/hd-workpoint.png",
+"url":"https://bettopfivemovie.com/workpoint-tv",
+"referer": "https://bettopfivemovie.com/",
+"playInNatPlayer": "true"
+},	
+{
 "name":"True4U",
 "image":"https://i.postimg.cc/N0C9cGbV/sd-24u.png",
 "url":"https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
@@ -103,6 +110,13 @@
 "name":"GMM 25",
 "image":"https://i.postimg.cc/FRffstBK/sd-gmm.png",
 "url":"https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"GMM 25 สำรอง",
+"image":"https://i.postimg.cc/FRffstBK/sd-gmm.png",
+"url":"https://doomovielive.b-cdn.net/sd-gmmchannel_480/index.m3u8",
+"referer": "https://doomovie.com/",
 "playInNatPlayer": "true"
 },	
 {
