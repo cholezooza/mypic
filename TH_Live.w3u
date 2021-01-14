@@ -84,6 +84,12 @@
 "playInNatPlayer": "true"
 },	
 {
+"name":"True4U (สำรอง)",
+"image":"https://tv.trueid.net/embed/true4u?autoplay=yes&nopageview=yes",
+"referer": "https://tv.trueid.net/",
+"playInNatPlayer": "true"
+},	
+{
 "name":"GMM 25",
 "image":"https://i.postimg.cc/FRffstBK/sd-gmm.png",
 "url":"https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
