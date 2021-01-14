@@ -2,7 +2,7 @@
 "name": "Thai TV Live",
 "author": "WHOAMI",
 "image": "https://i.postimg.cc/k4HByNzc/true.png",
-"url": "https://doona.cf/TH_Live.w3u",
+"url": "http://doona.cf/TH_Live.w3u",
 "info": "", "stations": 
 [ 
 {
@@ -71,6 +71,12 @@
 "name":"Nation TV",
 "image":"https://i.postimg.cc/d1zhhWbj/sd-nation.png",
 "url":"https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
+"playInNatPlayer": "true"
+{
+"name":"Nation TV สำรอง",
+"image":"https://i.postimg.cc/d1zhhWbj/sd-nation.png",
+"url":"https://tv.trueid.net/embed/nationtv",
+"referer": "https://tv.trueid.net/",
 "playInNatPlayer": "true"
 },	
 {
@@ -225,6 +231,7 @@
 "url":"https://doomovie.com/live/film-hd",
 "referer": "https://doomovie.com/live/"
 },
+
 
 
 ]
