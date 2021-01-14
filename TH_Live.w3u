@@ -50,7 +50,8 @@
 {
 "name":"TNN สำรอง",
 "image":"https://i.postimg.cc/XNCZRb5H/sd-tnn.png",
-"url":"https://www.tnnthailand.com/live",
+"url":"https://tv.trueid.net/embed/tnn16",
+"referer": "https://tv.trueid.net/",
 "playInNatPlayer": "true"
 },	
 {
@@ -62,8 +63,9 @@
 {
 "name":"NEW TV สำรอง",
 "image":"https://i.postimg.cc/hvTfTLgW/sd-new.png",
-"url":"https://www.liveballsod.com/tv-online/ch012/",
-"referer": "https://www.liveballsod.com/tv-online/"
+"url":"https://tv.trueid.net/embed/newtv",
+"referer": "https://tv.trueid.net/",
+"playInNatPlayer": "true"
 },	
 {
 "name":"Nation TV",
@@ -84,8 +86,8 @@
 "playInNatPlayer": "true"
 },	
 {
-"name":"True4U_(สำรอง)",
-"image":"https://i.postimg.cc/N0C9cGbV/sd-24u.png",
+"name":"True4U สำรอง",
+"image":https://i.postimg.cc/N0C9cGbV/sd-24u.png",
 "url":"https://tv.trueid.net/embed/true4u",
 "referer": "https://tv.trueid.net/",
 "playInNatPlayer": "true"
@@ -214,7 +216,8 @@
 "name":"มังกร",
 "image":"https://i.postimg.cc/GhHnyzxZ/Mangorn.png",
 "url":"https://tv.trueid.net/embed/Mangorn",
-"referer": "https://tv.trueid.net/live/"
+"referer": "https://tv.trueid.net/",
+"playInNatPlayer": "true"
 },
 {
 "name":"True HD Film",
