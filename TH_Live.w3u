@@ -206,16 +206,14 @@
 {
 "name":"มังกร",
 "image":"https://i.postimg.cc/GhHnyzxZ/Mangorn.png",
-"url":"https://tv.trueid.net/embed/Mangorn",
+"url":"https://tv.trueid.net/embed/Mangorn?nopageview=yes&autoplay=yes,
 "referer": "https://tv.trueid.net/live/",
-"playInNatPlayer": "true"
 },
 {
 "name":"True HD Film",
 "image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Fc79f82bf-b9b7-441c-9eed-8186d44e58f3.png&w=100&h=74",
-"url":"https://doomovie.com/live/film-hd",
-"referer": "https://doomovie.com/",
-"playInNatPlayer": "true"
+"url":"https://doomovie.com/live/film-hd?autoplay=yes&nopageview=yes",
+"referer": "https://doomovie.com/live/",
 }]
 
 },	
