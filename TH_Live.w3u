@@ -86,7 +86,7 @@
 {
 "name":"True4U (สำรอง)",
 "image":https://i.postimg.cc/N0C9cGbV/sd-24u.png",
-"url":"https://tv.trueid.net/embed/true4u?autoplay=yes&nopageview=yes",
+"url":"https://tv.trueid.net/embed/true4u",
 "referer": "https://tv.trueid.net/",
 "playInNatPlayer": "true"
 },	
