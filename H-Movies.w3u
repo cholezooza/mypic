@@ -1,1 +1,24 @@
+{
+"name": "Movies Day Off",
+"author": "WHOAMI",
+"image": "https://i.postimg.cc/CKNKzYRR/h-movies.png",
+"url": "http://doona.cf/H-Movies.w3u",
+"info": "", "stations": 
+[ 
+{
+"name":"เฮ้ยลูกพี่ นี่ลูกพ่อ",
+"image":"https://www.doomovie-hd.com/assets/movie_poster/4/462acaec9f443b75b2c178680f7a2f4c.jpg",
+"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/c67a034bcf3ac9766be683fa1257c6e2/c67a034bcf3ac9766be683fa1257c6e2.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},
+{
+"name":"Outside the Wire (2021) สมรภูมินอกลวดหนาม",
+"image":"https://www.doomovie-hd.com/assets/movie_poster/1/172ed2a74ce8526cfe98ea5568508958.jpg",
+"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/98dc714266251bd5c26ace8027d65085/98dc714266251bd5c26ace8027d65085.m3u8",
+"referer": "https://www.doomovie-hd.com/"
 
+}]
+
+},	
+]
+}
