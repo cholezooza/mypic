@@ -8,7 +8,8 @@
 {
 "name":"7HD",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-"url":"https://aisplay.ais.co.th/portal/live/?vid=5abdd28daae73161cb8ef446","playInNatPlayer": "true",
+"url":"https://aisplay.ais.co.th/portal/live/?vid=5abdd28daae73161cb8ef446",
+"playInNatPlayer": "true",
 "referer": "https://aisplay.ais.co.th/portal/"
 },
 {
@@ -21,7 +22,8 @@
 {
 "name":"Thairath TV",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-"url":"https://aisplay.ais.co.th/portal/live/?vid=595924c3aae7312c00c6fcd9","playInNatPlayer": "true",
+"url":"https://aisplay.ais.co.th/portal/live/?vid=595924c3aae7312c00c6fcd9",
+"playInNatPlayer": "true",
 "referer": "https://aisplay.ais.co.th/portal/"
 
 }]
