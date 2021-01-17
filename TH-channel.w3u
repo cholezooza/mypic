@@ -90,13 +90,13 @@
 "playInNatPlayer": "true"
 }
 {
-"name":"Thairath TV",
+"name":"ThairathTV",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
 "url":"http://27.254.130.61/live01/ch9.m3u8?p=st",
 "playInNatPlayer": "true"
 },
 {
-"name":"3 HD",
+"name":"3HD",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
 "url":"https://edge6a.v2h-cdn.com/m2i1/3HD.stream_720p/playlist.m3u8",
 "playInNatPlayer": "true"
@@ -108,13 +108,13 @@
 "playInNatPlayer": "true"
 },
 {
-"name":"7 HD",
+"name":"7HD",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png",
 "url":"http://27.254.130.61/live01/ch1.m3u8?p=st",
 "playInNatPlayer": "true"
 },
 {
-"name":"PPTV ",
+"name":"PPTV",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
 "url":"http://27.254.130.61/live01/ch2.m3u8?p=st",
 "playInNatPlayer": "true"
