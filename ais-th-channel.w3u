@@ -8,23 +8,23 @@
 {
 "name":"7HD",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-"url":"https://aisplay.ais.co.th/portal/live/?vid=5abdd28daae73161cb8ef446",
+"url":"https://www.doomovie-hd.com/?r=tv_view&id=3",
 "playInNatPlayer": "true",
-"referer": "https://aisplay.ais.co.th/portal/"
+"referer": "https://www.doomovie-hd.com/"
 },
 {
 "name":"8HD",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
-"url":"https://aisplay.ais.co.th/portal/live/?vid=597b85fd7ed5a24e45c3ab10",
+"url":"https://www.doomovie-hd.com/?r=tv_view&id=4",
 "playInNatPlayer": "true",
-"referer": "https://aisplay.ais.co.th/portal/"
+"referer": "https://www.doomovie-hd.com/"
 },
 {
 "name":"Thairath TV",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-"url":"https://aisplay.ais.co.th/portal/live/?vid=595924c3aae7312c00c6fcd9",
+"url":"https://www.doomovie-hd.com/?r=tv_view&id=2",
 "playInNatPlayer": "true",
-"referer": "https://aisplay.ais.co.th/portal/"
+"referer": "https://www.doomovie-hd.com/"
 
 }]
 
