@@ -1,0 +1,359 @@
+{
+"name": "Thai Digital TV",
+"author": "Cholezooza",
+"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201001_092306.png",
+"url": "https://raw.githubusercontent.com/cholezooza/Logo_beINSPORTS/main/WS-TH-DGTV.w3u",
+"groups": [
+
+{
+"name": " TV 5 HD",
+"image": "https://www.liveballsod.com/api/table/icon/5hd.png",
+"url": "https://www.liveballsod.com/tv-online/ch005/",
+"referer": "https://www.liveballsod.com"
+},
+{
+"name": "TV 5HD",  
+"image": "https://www.liveballsod.com/api/table/icon/5hd.png",  
+"url": "https://tubtoeball.net/broadcast-live/?schid=76153",
+"playInNatPlayer": "true"
+},
+{
+"name": " NBT 2 HD",
+"image": "https://www.liveballsod.com/api/table/icon/nbt.png",
+"url": "https://www.liveballsod.com/tv-online/ch011/",
+"referer": "https://www.liveballsod.com"
+},
+{
+"name": " True4U",
+"image": "https://www.liveballsod.com/api/table/icon/True4U.png",
+"url": "https://www.liveballsod.com/tv-online/ch020/",
+"referer": "https://www.liveballsod.com"
+},
+{
+"name": " 3 HD",
+"image": "https://www.liveballsod.com/api/table/icon/3hd.png",
+"url": "https://www.liveballsod.com/tv-online/ch001/",
+"referer": "https://www.liveballsod.com"
+},
+{
+"name": " 7 HD",
+"image": "https://www.liveballsod.com/api/table/icon/3hd.png",
+"url": "https://www.liveballsod.com/tv-online/ch007/",
+"referer": "https://www.liveballsod.com"
+},
+{
+"name": " MCOTHD",
+"image": "https://www.liveballsod.com/api/table/icon/mcothd.png",
+"url": "https://www.liveballsod.com/tv-online/ch009/",
+"referer": "https://www.liveballsod.com"
+},
+{
+"name": "Thairath TV",
+"image": "https://www.liveballsod.com/api/table/icon/ThairathTV.png",
+"url": "https://www.liveballsod.com/tv-online/ch010/",
+"referer": "https://www.liveballsod.com"
+},
+{
+"name": "One",
+"image": "https://www.liveballsod.com/api/table/icon/one.png",
+"url": "https://www.liveballsod.com/tv-online/ch021/",
+"referer": "https://www.liveballsod.com"
+},
+{
+"name": "Thairath TV",
+"image": "https://www.liveballsod.com/api/table/icon/WorkpointTV.png",
+"url": "https://www.liveballsod.com/tv-online/ch006/",
+"referer": "https://www.liveballsod.com"
+},
+{
+"name": "GMM TV",
+"image": "https://www.liveballsod.com/api/table/icon/gmm.png",
+"url": "https://www.liveballsod.com/tv-online/ch017/",
+"referer": "https://www.liveballsod.com"
+},
+{
+"name": "NationTV",
+"image": "https://www.liveballsod.com/api/table/icon/nation.png",
+"url": "https://www.liveballsod.com/tv-online/ch022/",
+"referer": "https://www.liveballsod.com"
+},
+{
+"name": "AmarinTV",
+"image": "https://www.liveballsod.com/api/table/icon/amarin.png",
+"url": "https://www.liveballsod.com/tv-online/ch023",
+"referer": "https://www.liveballsod.com"
+},
+{
+"name": "CH 8",
+"image": "https://www.liveballsod.com/api/table/icon/8.png",
+"url": "https://www.liveballsod.com/tv-online/ch019/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "New TV",
+"image": "https://www.liveballsod.com/api/table/icon/newtv.png",
+"url": "https://www.liveballsod.com/tv-online/ch012/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "TNN",
+"image": "https://www.liveballsod.com/api/table/icon/TNN24.png",
+"url": "https://www.liveballsod.com/tv-online/ch021/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "PPTVHD",
+"image": "https://www.liveballsod.com/api/table/icon/pptvhd.png",
+"url": "https://www.liveballsod.com/tv-online/ch004/",
+"referer": "https://www.liveballsod.com"
+},
+{
+"name": "TPTV",
+"image": "https://www.234.in.th/images/2020/11/20/Rounded_20201119_085533.png",
+"url": "http://49.231.66.85:1935/live/tptv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ALTV4",
+"image": "https://www.234.in.th/images/2020/11/17/Rounded_20201117_143034.png",
+"url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+"referer": "https://www.thaipbs.or.th/"
+},
+}
+"name": "Bein Sports 1",
+"image": "https://www.liveballsod.com/api/table/icon/beINSports1.png",
+"url": "https://www.liveballsod.com/tv-online/ch026/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Bein Sports 2",
+"image": "https://www.liveballsod.com/api/table/icon/beINSports2.png",
+"url": "https://www.liveballsod.com/tv-online/ch027/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Canal 11",
+"image": "https://www.liveballsod.com/api/table/icon/ch394.png"",
+"url": "https://www.liveballsod.com/tv-online/ch394/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Ziggo Sport",
+"image": "https://www.liveballsod.com/api/table/icon/ch353.png"",
+"url": "https://www.liveballsod.com/tv-online/ch353/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "GOL TV",
+"image": "https://www.liveballsod.com/api/table/icon/ch283.png"",
+"url": "https://www.liveballsod.com/tv-online/ch283/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Sport TV 1",
+"image": "https://www.liveballsod.com/api/table/icon/ch093.png"",
+"url": "https://www.liveballsod.com/tv-online/ch093/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Sport TV 2",
+"image": "https://www.liveballsod.com/api/table/icon/ch094.png"",
+"url": "https://www.liveballsod.com/tv-online/ch094/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Sport TV 3",
+"image": "https://www.liveballsod.com/api/table/icon/ch095.png"",
+"url": "https://www.liveballsod.com/tv-online/ch095/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Sport TV 4",
+"image": "https://www.liveballsod.com/api/table/icon/ch096.png"",
+"url": "https://www.liveballsod.com/tv-online/ch096/",
+"referer": "https://www.liveballsod.com"
+},
+"name": "Sport TV 4",
+"image": "https://www.liveballsod.com/api/table/icon/ch096.png"",
+"url": "https://www.liveballsod.com/tv-online/ch096/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Free Sport UK",
+"image": "https://www.liveballsod.com/api/table/icon/ch392.png"",
+"url": "https://www.liveballsod.com/tv-online/ch392/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Bein Sports 2 Au",
+"image": "https://www.liveballsod.com/api/table/icon/ch388.png"",
+"url": "https://www.liveballsod.com/tv-online/ch394/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Telekom Sport 1",
+"image": "https://www.liveballsod.com/api/table/icon/ch385.png"",
+"url": "https://www.liveballsod.com/tv-online/ch385/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "True Premier 1",
+"image": "https://www.liveballsod.com/api/table/icon/ch373.png"",
+"url": "https://www.liveballsod.com/tv-online/ch373/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "True Premier 2",
+"image": "https://www.liveballsod.com/api/table/icon/ch374.png"",
+"url": "https://www.liveballsod.com/tv-online/ch373/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "True Sport HD 1",
+"image": "https://www.liveballsod.com/api/table/icon/2sporthd1.png"",
+"url": "https://www.liveballsod.com/tv-online/ch032/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "True Sport HD 2",
+"image": "https://www.liveballsod.com/api/table/icon/2sporthd2.png"",
+"url": "https://www.liveballsod.com/tv-online/ch033/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "True Sport HD 3,
+"image": "https://www.liveballsod.com/api/table/icon/2sporthd3.png"",
+"url": "https://www.liveballsod.com/tv-online/ch034/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "True Sport 2",
+"image": "https://www.liveballsod.com/api/table/icon/TrueSport2.png"",
+"url": "https://www.liveballsod.com/tv-online/ch037/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "True Sport 5",
+"image": "https://www.liveballsod.com/api/table/icon/TrueSport5.png"",
+"url": "https://www.liveballsod.com/tv-online/ch039/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "True Sport 6",
+"image": "https://www.liveballsod.com/api/table/icon/TrueSport6.png"",
+"url": "https://www.liveballsod.com/tv-online/ch040/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "True Sport 7",
+"image": "https://www.liveballsod.com/api/table/icon/TrueSport7.png"",
+"url": "https://www.liveballsod.com/tv-online/ch041/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Fox Sport 1",
+"image": "https://www.liveballsod.com/api/table/icon/FoxSport1.png"",
+"url": "https://www.liveballsod.com/tv-online/ch045/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Fox Sport 2",
+"image": "https://www.liveballsod.com/api/table/icon/FoxSport2.png"",
+"url": "https://www.liveballsod.com/tv-online/ch046/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Fox Sport 3",
+"image": "https://www.liveballsod.com/api/table/icon/FoxSport3.png"",
+"url": "https://www.liveballsod.com/tv-online/ch047/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "BT Sport EAPN",
+"image": "https://www.liveballsod.com/api/table/icon/BTSportESPN.png"",
+"url": "https://www.liveballsod.com/tv-online/ch091/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "BT Sport 1",
+"image": "https://www.liveballsod.com/api/table/icon/BTSport1HD.png"",
+"url": "https://www.liveballsod.com/tv-online/ch088/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "BT Sport 2",
+"image": "https://www.liveballsod.com/api/table/icon/BTSport2HD.png"",
+"url": "https://www.liveballsod.com/tv-online/ch089/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "BT Sport 3",
+"image": "https://www.liveballsod.com/api/table/icon/BTSport3HD.png"",
+"url": "https://www.liveballsod.com/tv-online/ch090/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Digital Sport 3",
+"image": "https://www.liveballsod.com/api/table/icon/ch361.png"",
+"url": "https://www.liveballsod.com/tv-online/ch361/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Digital Sport 4",
+"image": "https://www.liveballsod.com/api/table/icon/ch362.png"",
+"url": "https://www.liveballsod.com/tv-online/ch362/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Arena Sport 1",
+"image": "https://www.liveballsod.com/api/table/icon/ch287.png"",
+"url": "https://www.liveballsod.com/tv-online/ch287/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Arena Sport 2",
+"image": "https://www.liveballsod.com/api/table/icon/ch286.png"",
+"url": "https://www.liveballsod.com/tv-online/ch286/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Arena Sport 3",
+"image": "https://www.liveballsod.com/api/table/icon/ch289.png"",
+"url": "https://www.liveballsod.com/tv-online/ch289/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Arena Sport 4",
+"image": "https://www.liveballsod.com/api/table/icon/ch365.png"",
+"url": "https://www.liveballsod.com/tv-online/ch365/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Sport Club HD 1",
+"image": "https://www.liveballsod.com/api/table/icon/ch345.png"",
+"url": "https://www.liveballsod.com/tv-online/ch345/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Sport Club HD 2",
+"image": "https://www.liveballsod.com/api/table/icon/ch346.png"",
+"url": "https://www.liveballsod.com/tv-online/ch346/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Sport Club HD 3",
+"image": "https://www.liveballsod.com/api/table/icon/ch314.png"",
+"url": "https://www.liveballsod.com/tv-online/ch314/",
+"referer": "https://www.liveballsod.com"
+},
+}
+"name": "Sport Club HD 3",
+"image": "https://www.liveballsod.com/api/table/icon/ch347.png"",
+"url": "https://www.liveballsod.com/tv-online/ch347/",
+"referer": "https://www.liveballsod.com"
+},
+
+
+
+]
+}
