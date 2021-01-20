@@ -58,7 +58,7 @@
 "name": "Saving Private Ryan(1998)",
 "image": "https://cdn-img.movieclub.tv/img_movies_vertical/1568275203_saving-private-ryan_cover.jpg",
 "url":"http://bit.ly/ryanmovies",
-"playInNatPlayer": "true"
+"referer": "https://all-movie.tv/"
 
 }]
 
