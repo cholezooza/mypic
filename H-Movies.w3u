@@ -37,9 +37,16 @@
 },
 {
 "name":"มนุษย์ล่องหน",
-"image":"https://123hd-movie.com/nxt-content/uploads/20200623/57193ee164f8a44a9c7cb3712b2c11d7_273x402.jpg",
+"image":"https://cdn-img.movieclub.tv/img_movies_vertical/1609649309_1.jpg",
 "url":"https://we-play.tv/watching/movie/the-invisible-man-2020",
-"referer": "https://we-play.tv/"
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name":"สุภาพบุรุษสดขั้ว",
+"image":"https://123hd-movie.com/nxt-content/uploads/20200623/57193ee164f8a44a9c7cb3712b2c11d7_273x402.jpg",
+"url":"https://cache-movie.all-movie.tv/hls/content/nas06/mvc/M/Asia/What_Happened_to_Mr_Cha_2021/What_Happened_to_Mr_Cha_ST.mp4/index.m3u8?st=pMDdeDTEEBI_EKhDACbiKw&e=1611203286&u=AllMovie",
+"referer": "https://all-movie.tv/"
 },
 {
 "name":"Outside the Wire (2021) สมรภูมินอกลวดหนาม",
