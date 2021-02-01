@@ -82,14 +82,13 @@
 {
 "name":"True Sport HD 1",
 "image":"https://i.postimg.cc/wMkzhcTZ/truesport-hd.png",
-"url":"https://www.doo2you.com/true-sport-hd-1/",
-"referer": "https://www.doo2you.com/",
-"playInNatPlayer": "true"
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/playlist.m3u8"
 },
 {
 "name":"True Sport HD 1",
 "image":"https://i.postimg.cc/wMkzhcTZ/truesport-hd.png",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/playlist.m3u8"
+"url":"https://bettopfivemovie.com/true-sport-hd1",
+"referer": "https://bettopfivemovie.com/"
 },
 {
 "name":"True Sport HD 1",
@@ -107,8 +106,7 @@
 "name":"True Sport HD 2",
 "image":"https://i.postimg.cc/JzDTr8ts/true-sport-hd2.png",
 "url":"https://bettopfivemovie.com/true-sport-hd2",
-"referer": "https://bettopfivemovie.com/",
-"playInNatPlayer": "true"
+"referer": "https://bettopfivemovie.com/"
 },
 {
 "name":"True Sport HD 2",
@@ -126,8 +124,7 @@
 "name":"True Sport HD 3",
 "image":"https://i.postimg.cc/kgDwgm10/true-sport-hd3.png",
 "url":"https://bettopfivemovie.com/true-sport-hd3",
-"referer": "https://bettopfivemovie.com/",
-"playInNatPlayer": "true"
+"referer": "https://bettopfivemovie.com/"
 },
 {
 "name":"True Sport HD 3",
@@ -145,8 +142,7 @@
 "name":"True Sport HD 4",
 "image":"https://i.postimg.cc/9fnDXP7t/true-sport-hd4.png",
 "url":"https://bettopfivemovie.com/true-sport-hd4",
-"referer": "https://bettopfivemovie.com/",
-"playInNatPlayer": "true"
+"referer": "https://bettopfivemovie.com/"
 },
 {
 "name":"True Sport HD 4",
@@ -164,8 +160,7 @@
 "name":"True Sport 2",
 "image":"https://i.postimg.cc/ZnwV7Dgz/true-sport-2.png",
 "url":"https://bettopfivemovie.com/truesport-2",
-"referer": "https://bettopfivemovie.com/",
-"playInNatPlayer": "true"
+"referer": "https://bettopfivemovie.com/"
 },
 {
 "name":"True Sport 2",
@@ -183,8 +178,7 @@
 "name":"True Sport 5",
 "image":"https://i.postimg.cc/Y9sYtYHc/truesport-5.png",
 "url":"https://bettopfivemovie.com/truesport-5",
-"referer": "https://bettopfivemovie.com/",
-"playInNatPlayer": "true"
+"referer": "https://bettopfivemovie.com/"
 },
 {
 "name":"True Sport 5",
@@ -202,8 +196,7 @@
 "name":"True Sport 6",
 "image":"https://i.postimg.cc/dV585zxt/truesport-6.png",
 "url":"https://bettopfivemovie.com/truesport-6",
-"referer": "https://bettopfivemovie.com/",
-"playInNatPlayer": "true"
+"referer": "https://bettopfivemovie.com/"
 },
 {
 "name":"True Sport 6",
@@ -221,8 +214,7 @@
 "name":"True Sport 7",
 "image":"https://i.postimg.cc/rFj54PRq/truesport-7.png",
 "url":"https://bettopfivemovie.com/truesport-7",
-"referer": "https://bettopfivemovie.com/",
-"playInNatPlayer": "true"
+"referer": "https://bettopfivemovie.com/"
 },
 {
 "name":"True Sport 7",
@@ -273,8 +265,7 @@
 "name":"SPORT TV 5",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2021/01/hd-sporttv5.jpg",
 "url":"https://bettopfivemovie.com/sport-tv-5",
-"referer": "https://bettopfivemovie.com/",
-"playInNatPlayer": "true"
+"referer": "https://bettopfivemovie.com/"
 },
 {
 "name": "ASTRO SPORT",  
