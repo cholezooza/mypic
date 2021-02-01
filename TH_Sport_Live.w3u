@@ -8,8 +8,8 @@
 {
 "name":"True Premier League 1",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
-"url":"https://freetvdd.com/กีฬา/true-premier-football/",
-"referer": "https://freetvdd.com/",
+"url":"https://www.doo2you.com/true-premier-hd-1/",
+"referer": "https://www.doo2you.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -29,8 +29,8 @@
 {
 "name":"True Premier League 2",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl2.jpg",
-"url":"https://freetvdd.com/กีฬา/true-premier-football-hd-2-2/",
-"referer": "https://freetvdd.com/",
+"url":"https://www.doo2you.com/true-premier-hd-2/",
+"referer": "https://www.doo2you.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -50,8 +50,8 @@
 {
 "name":"True Premier League 3",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl3.jpg",
-"url":"https://freetvdd.com/กีฬา/true-premier-football-hd-2/",
-"referer": "https://freetvdd.com/",
+"url":"https://www.doo2you.com/true-premier-hd-3/",
+"referer": "https://www.doo2you.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -64,8 +64,8 @@
 {
 "name":"True Premier League 4",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl4.jpg",
-"url":"https://freetvdd.com/กีฬา/true-premier-football-hd-3/",
-"referer": "https://freetvdd.com/",
+"url":"https://www.doo2you.com/true-premier-hd-4/",
+"referer": "https://www.doo2you.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -78,8 +78,8 @@
 {
 "name":"True Premier League 5",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl5.jpg",
-"url":"https://freetvdd.com/กีฬา/true-premier-football-hd-5/",
-"referer": "https://freetvdd.com/",
+"url":"https://www.doo2you.com/true-premier-hd-5/",
+"referer": "https://www.doo2you.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -92,8 +92,8 @@
 {
 "name":"True Sport HD 1",
 "image":"https://i.postimg.cc/wMkzhcTZ/truesport-hd.png",
-"url":"https://freetvdd.com/กีฬา/true-sport-hd-1-th/",
-"referer": "https://freetvdd.com/",
+"url":"https://www.doo2you.com/true-sport-hd-1/",
+"referer": "https://www.doo2you.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -113,8 +113,8 @@
 {
 "name":"True Sport HD 2",
 "image":"https://i.postimg.cc/JzDTr8ts/true-sport-hd2.png",
-"url":"https://freetvdd.com/กีฬา/true-sport-hd-2-th/",
-"referer": "https://freetvdd.com/",
+"url":"https://www.doo2you.com/true-sport-hd-2/",
+"referer": "https://www.doo2you.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -134,8 +134,8 @@
 {
 "name":"True Sport HD 3",
 "image":"https://i.postimg.cc/kgDwgm10/true-sport-hd3.png",
-"url":"https://freetvdd.com/กีฬา/true-sport-hd-3-th/",
-"referer": "https://freetvdd.com/",
+"url":"https://www.doo2you.com/true-sport-hd-3/",
+"referer": "https://www.doo2you.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -155,8 +155,8 @@
 {
 "name":"True Sport HD 4",
 "image":"https://i.postimg.cc/9fnDXP7t/true-sport-hd4.png",
-"url":"https://freetvdd.com/กีฬา/true-sport-hd-4-th/",
-"referer": "https://freetvdd.com/",
+"url":"https://www.doo2you.com/true-sport-hd-4/",
+"referer": "https://www.doo2you.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -197,8 +197,8 @@
 {
 "name":"True Sport 5",
 "image":"https://i.postimg.cc/Y9sYtYHc/truesport-5.png",
-"url":"https://freetvdd.com/กีฬา/true-sport-5-th/",
-"referer": "https://freetvdd.com/",
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-tsport5.stream/playlist.m3u8",
+"referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -239,8 +239,8 @@
 {
 "name":"True Sport 7",
 "image":"https://i.postimg.cc/rFj54PRq/truesport-7.png",
-"url":"https://freetvdd.com/กีฬา/true-sport-7-th/",
-"referer": "https://freetvdd.com/",
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-tsport7.stream/playlist.m3u8",
+"referer": "https://www.doofootball.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -317,29 +317,25 @@
 "name": "ASTRO SPORT",  
 "image": "https://234.in.th/images/2021/01/01/811_300.png",  
 "url": "https://bettopfivemovie.com/astro-supersport-1-hd",
-"referer": "https://bettopfivemovie.com/",
-"playInNatPlayer": "true"
+"referer": "https://bettopfivemovie.com/"
 },
 {
 "name": "ASTRO SPORT 2",  
 "image": "https://234.in.th/images/2021/01/01/812_300.png",  
 "url": "https://bettopfivemovie.com/astro-supersport-2-hd",
-"referer": "https://bettopfivemovie.com/",
-"playInNatPlayer": "true"
+"referer": "https://bettopfivemovie.com/"
 },
 {
 "name": "ASTRO SPORT 3",  
 "image": "https://234.in.th/images/2021/01/01/813_300.png",  
 "url": "https://bettopfivemovie.com/astro-supersport-3-hd",
-"referer": "https://bettopfivemovie.com/",
-"playInNatPlayer": "true"
+"referer": "https://bettopfivemovie.com/"
 },
 {
 "name": "ASTRO SPORT 4",  
 "image": "https://234.in.th/images/2021/01/01/814_300.png",  
 "url": "https://bettopfivemovie.com/astro-supersport-4-hd",
-"referer": "https://bettopfivemovie.com/",
-"playInNatPlayer": "true"
+"referer": "https://bettopfivemovie.com/"
 }]
 
 },	
