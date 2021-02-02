@@ -1,0 +1,117 @@
+{
+   "name": "English Premier",
+   "author":"Someone",       
+   "url": "http://doona.cf/EPL.w3u",
+   "image": "https://cdn.freelogovectors.net/svg06/epl-premierleague-logo.svg",
+   "info": " Feb-01-2021",
+   "groups": [   
+      {
+         "name": "ฟุตบอลอังกฤษ",
+         "image": "https://cdn.freelogovectors.net/svg06/epl-premierleague-logo.svg",       
+         "stations": [
+            {
+              "name": "epl1",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",
+                "url": "https://beinsport.biz/live/epl-1/"       
+             },
+            {
+              "name": "epl2",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png",
+                "url": "https://beinsport.biz/live/epl-2/"       
+             },
+            {
+              "name": "epl3",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
+                "url": "https://beinsport.biz/live/epl-3/"       
+             },
+    {
+              "name": "epl4",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",
+                "url": "https://beinsport.biz/live/epl-4/"       
+             },
+    {
+              "name": "epl5",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",
+                "url": "https://beinsport.biz/live/epl-5/"       
+             },
+    
+    {
+              "name": "epl1",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",
+                "url": "https://www.ballsoi8.com/live/?ch=epl1"       
+             },
+            {
+              "name": "epl2",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png",
+                "url": "https://www.ballsoi8.com/live/?ch=epl2"       
+             },
+            {
+              "name": "epl3",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
+                "url": "https://www.ballsoi8.com/live/?ch=epl3"       
+             },
+    {
+              "name": "epl4",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",
+                "url": "https://www.ballsoi8.com/live/?ch=epl4"       
+             },
+    {
+              "name": "epl5",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",
+                "url": "https://www.ballsoi8.com/live/?ch=epl5"       
+             },
+    {
+              "name": "epl1",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",
+                "url": "https://www.doomovie-hd.com/?r=tv_view&id=151"       
+             },
+            {
+              "name": "epl2",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png",
+                "url": "https://www.doomovie-hd.com/?r=tv_view&id=152"       
+             },
+            {
+              "name": "epl3",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
+                "url": "https://www.doomovie-hd.com/?r=tv_view&id=153"       
+             },
+    {
+              "name": "epl4",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",
+                "url": "https://www.doomovie-hd.com/?r=tv_view&id=154"       
+             },
+    {
+              "name": "epl5",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",
+                "url": "https://www.doomovie-hd.com/?r=tv_view&id=155"       
+             },
+    {
+              "name": "epl1",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",
+                "url": "https://freetvdd.com/กีฬา/true-premier-football"       
+             },
+            {
+              "name": "epl2",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png",
+                "url": "https://freetvdd.com/กีฬา/true-premier-football-hd-2-2"       
+             },
+            {
+              "name": "epl3",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
+                "url": "https://freetvdd.com/กีฬา/true-premier-football-hd-2"       
+             },
+    {
+              "name": "epl4",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",
+                "url": "https://freetvdd.com/กีฬา/true-premier-football-hd-3"       
+             },
+    {
+              "name": "epl5",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",
+                "url": "https://freetvdd.com/กีฬา/true-premier-football-hd-5"       
+             }
+    
+          ]
+        }
+     ]
+  }
