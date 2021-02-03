@@ -321,9 +321,21 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "ASTRO SPORT 1",  
+"image": "https://i.postimg.cc/VNMvgVtN/831-300.png",  
+"url": "http://thaicable.myftp.org:8000/live/infosat/2020/9.ts",
+"playInNatPlayer": "true"
+},
+{
 "name": "ASTRO SPORT 2",  
 "image": "https://i.postimg.cc/9MhMnYPY/832-300.png",  
 "url": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SPORT 2",  
+"image": "https://i.postimg.cc/9MhMnYPY/832-300.png",  
+"url": "http://thaicable.myftp.org:8000/live/infosat/2020/10.ts",
 "playInNatPlayer": "true"
 },
 {
@@ -333,9 +345,21 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "ASTRO SPORT 3",  
+"image": "https://i.postimg.cc/4dQdkHBk/833-300.png",  
+"url": "http://thaicable.myftp.org:8000/live/infosat/2020/11.ts",
+"playInNatPlayer": "true"
+},
+{
 "name": "ASTRO SPORT 4",  
 "image": "https://i.postimg.cc/L54sH4bq/834-300.png",  
 "url": "http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SPORT 4",  
+"image": "https://i.postimg.cc/L54sH4bq/834-300.png",  
+"url": "http://thaicable.myftp.org:8000/live/infosat/2020/12.ts",
 "playInNatPlayer": "true"
 },
 {
