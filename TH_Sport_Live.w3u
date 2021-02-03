@@ -1,6 +1,6 @@
 {
 "name": "Thai Sport TV ",
-"author": "WHOAMI",
+"author": "@WHOAMI",
 "image": "https://i.postimg.cc/HnY7jZbS/image.jpg",
 "url": "https://doona.cf/TH_Sport_Live.w3u",
 "info": "", "stations": 
@@ -243,7 +243,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name":"FOX SPORT 1",
+"name":"FOX SPORT HD 1",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-foxsports1.jpg",
 "url":"https://bettopfivemovie.com/fox-sports-1",
 "referer": "https://bettopfivemovie.com/"
@@ -262,13 +262,13 @@
 },
 {
 "name":"BT SPORT 1 HD",
-"image":"https://overseer.blackboxsys.net/images/png/uk-btsport1hd.png",
+"image":"https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",
 "url":"https://www.doofree88.com/live/bt-sport-1-hd",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"BT SPORT 2 HD",
-"image":"https://overseer.blackboxsys.net/images/png/uk-btspor2hd.png",
+"image":"https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",
 "url":"https://www.doofree88.com/live/bt-sport-2-hd",
 "referer": "https://www.doofree88.com/"
 },
