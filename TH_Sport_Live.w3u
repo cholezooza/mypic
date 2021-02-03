@@ -8,27 +8,26 @@
 {
 "name":"True Premier League 1",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8"
+"url":"https://www.doofree88.com/live/premier-football-hd-1",
+"referer": "https://www.doofree88.com"
 },
 {
 "name":"True Premier League 1",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
 "url":"https://bettopfivemovie.com/true-premier-football-hd-1/",
-"referer": "https://bettopfivemovie.com/",
-"playInNatPlayer": "true"
+"referer": "https://bettopfivemovie.com/"
 },
 {
 "name":"True Premier League 1",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
 "url":"https://we-play.tv/watching/tv/true-premier-football-hd-1",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
+"referer": "https://we-play.tv/"
 },
 {
 "name":"True Premier League 2",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl2.jpg",
-"url":"http://103.208.24.234:1935/thaisport/epl-2.stream/chunklist.m3u8",
-"playInNatPlayer": "true"
+"url":"https://www.doofree88.com/live/premier-football-hd-2",
+"referer": "https://www.doofree88.com"
 },
 {
 "name":"True Premier League 2",
@@ -47,7 +46,8 @@
 {
 "name":"True Premier League 3",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl3.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/epl-3.stream/playlist.m3u8"
+"url":"https://www.doofree88.com/live/premier-football-hd-3",
+"referer": "https://www.doofree88.com"
 },
 {
 "name":"True Premier League 3",
@@ -59,7 +59,8 @@
 {
 "name":"True Premier League 4",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl4.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/epl-4.stream/playlist.m3u8"
+"url":"https://www.doofree88.com/live/premier-football-hd-4",
+"referer": "https://www.doofree88.com"
 },
 {
 "name":"True Premier League 4",
@@ -71,7 +72,8 @@
 {
 "name":"True Premier League 5",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl5.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/epl-5.stream/playlist.m3u8"
+"url":"https://www.doofree88.com/live/premier-football-hd-5",
+"referer": "https://www.doofree88.com"
 },
 {
 "name":"True Premier League 5",
@@ -83,7 +85,8 @@
 {
 "name":"True Sport HD 1",
 "image":"https://i.postimg.cc/wMkzhcTZ/truesport-hd.png",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/playlist.m3u8"
+"url":"https://www.doofree88.com/live/sport-hd-1",
+"referer": "https://www.doofree88.com"
 },
 {
 "name":"True Sport HD 1",
@@ -101,7 +104,8 @@
 {
 "name":"True Sport HD 2",
 "image":"https://i.postimg.cc/JzDTr8ts/true-sport-hd2.png",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport2.stream/playlist.m3u8"
+"url":"https://www.doofree88.com/live/sport-hd-2",
+"referer": "https://www.doofree88.com"
 },
 {
 "name":"True Sport HD 2",
@@ -119,7 +123,8 @@
 {
 "name":"True Sport HD 3",
 "image":"https://i.postimg.cc/kgDwgm10/true-sport-hd3.png",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/playlist.m3u8"
+"url":"https://www.doofree88.com/live/sport-hd-1",
+"referer": "https://www.doofree88.com"
 },
 {
 "name":"True Sport HD 3",
@@ -137,7 +142,8 @@
 {
 "name":"True Sport HD 4",
 "image":"https://i.postimg.cc/9fnDXP7t/true-sport-hd4.png",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport4.stream/playlist.m3u8"
+"url":"https://www.doofree88.com/live/sport-hd-1",
+"referer": "https://www.doofree88.com"
 },
 {
 "name":"True Sport HD 4",
@@ -148,14 +154,14 @@
 {
 "name":"True Sport HD 4",
 "image":"https://i.postimg.cc/9fnDXP7t/true-sport-hd4.png",
-"url":"http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8",
-"referer": "https://www.doofootball.com/",
-"playInNatPlayer": "true"
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport4.stream/playlist.m3u8",
+"referer": "https://www.doofootball.com/"
 },
 {
 "name":"True Sport 2",
 "image":"https://i.postimg.cc/ZnwV7Dgz/true-sport-2.png",
-"url":"https://doofootball.livestream-cdn.com/iptv/sd-tsport2.stream/playlist.m3u8"
+"url":"https://www.doofree88.com/live/sport-2",
+"referer": "https://www.doofootball.com/"
 },
 {
 "name":"True Sport 2",
@@ -220,8 +226,8 @@
 {
 "name":"True Sport 7",
 "image":"https://i.postimg.cc/rFj54PRq/truesport-7.png",
-"url":"https://we-play.tv/watching/tv/true-sports-7",
-"referer": "https://we-play.tv/",
+"url":"https://www.doofree88.com/live/sport-7",
+"referer": "https://www.doofree88.com/",
 "playInNatPlayer": "true"
 },
 {
@@ -233,14 +239,32 @@
 {
 "name":"FOX SPORT 2",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-foxsports2.jpg",
-"url":"https://bettopfivemovie.com/fox-sports-2",
-"referer": "https://bettopfivemovie.com/"
+"url":"https://www.doofree88.com/live/fox-sports-2",
+"referer": "https://www.doofree88.com/"
 },
 {
 "name":"FOX SPORT 3",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-foxsports3.jpg",
-"url":"https://bettopfivemovie.com/fox-sports-3",
-"referer": "https://bettopfivemovie.com/"
+"url":"https://www.doofree88.com/live/fox-sports-3",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"BT SPORT 1 HD",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-foxsports3.jpg",
+"url":"https://www.doofree88.com/live/bt-sport-1-hd",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"BT SPORT 2 HD",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-foxsports3.jpg",
+"url":"https://www.doofree88.com/live/bt-sport-2-hd",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"BT SPORT 3 HD",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-foxsports3.jpg",
+"url":"http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8",
+"referer": "https://www.doofootball.com/"
 },
 {
 "name":"SPORT TV 1",
