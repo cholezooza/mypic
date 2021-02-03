@@ -291,31 +291,6 @@
 "referer": "https://www.doofree88.com/"
 },
 {
-"name":"SPORT TV 1",
-"image":"https://bettopfivemovie.com/wp-content/uploads/2021/01/hd-sporttv1.jpg",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv1/playlist.m3u8"
-},
-{
-"name":"SPORT TV 2",
-"image":"https://bettopfivemovie.com/wp-content/uploads/2021/01/hd-sporttv2.jpg",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv2/playlist.m3u8"
-},
-{
-"name":"SPORT TV 3",
-"image":"https://bettopfivemovie.com/wp-content/uploads/2021/01/hd-sporttv3.jpg",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv3/playlist.m3u8"
-},
-{
-"name":"SPORT TV 4",
-"image":"https://bettopfivemovie.com/wp-content/uploads/2021/01/hd-sporttv4.jpg",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv4/playlist.m3u8"
-},
-{
-"name":"SPORT TV 5",
-"image":"https://bettopfivemovie.com/wp-content/uploads/2021/01/hd-sporttv5.jpg",
-"url":"https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8"
-},
-{
 "name":"Sky Sports Arena",
 "image":"https://overseer.blackboxsys.net/images/png/uk-skysports-arena.png",
 "url":"https://www.doofree88.com/live/sky-sports-arena",
@@ -362,6 +337,31 @@
 "image": "https://i.postimg.cc/L54sH4bq/834-300.png",  
 "url": "http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8",
 "playInNatPlayer": "true"
+},
+{
+"name":"SPORT TV 1",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2021/01/hd-sporttv1.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv1/playlist.m3u8"
+},
+{
+"name":"SPORT TV 2",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2021/01/hd-sporttv2.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv2/playlist.m3u8"
+},
+{
+"name":"SPORT TV 3",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2021/01/hd-sporttv3.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv3/playlist.m3u8"
+},
+{
+"name":"SPORT TV 4",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2021/01/hd-sporttv4.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv4/playlist.m3u8"
+},
+{
+"name":"SPORT TV 5",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2021/01/hd-sporttv5.jpg",
+"url":"https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8"
 }]
 
 },	
