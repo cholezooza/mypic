@@ -14,7 +14,7 @@
 {
 "name":"True Premier League 1",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
-"url":"https://bettopfivemovie.com/true-premier-football-hd-1/",
+"url":"http://thaicable.myftp.org:8000/live/infosat/2020/9.ts",
 "referer": "https://bettopfivemovie.com/"
 },
 {
@@ -27,7 +27,7 @@
 "name":"True Premier League 2",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl2.jpg",
 "url":"https://www.doofree88.com/live/premier-football-hd-2",
-"referer": "https://www.doofree88.com"
+"playInNatPlayer": "true"
 },
 {
 "name":"True Premier League 2",
@@ -227,7 +227,8 @@
 {
 "name":"True Sport 7",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport7.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/sd-tsport7.stream/playlist.m3u8"
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-tsport7.stream/chunks.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"True Sport 7",
@@ -245,8 +246,8 @@
 {
 "name":"FOX SPORT HD 1",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-foxsports1.jpg",
-"url":"https://bettopfivemovie.com/fox-sports-1",
-"referer": "https://bettopfivemovie.com/"
+"url":"https://www.doofree88.com/live/fox-sports-1",
+"referer": "https://www.doofree88.com/"
 },
 {
 "name":"FOX SPORT 2",
@@ -323,7 +324,7 @@
 {
 "name": "ASTRO SPORT 1",  
 "image": "https://i.postimg.cc/VNMvgVtN/831-300.png",  
-"url": "http://thaicable.myftp.org:8000/live/infosat/2020/9.ts",
+"url": "http://thaicable.myftp.org:8000/live/infosat/2020/10.ts",
 "playInNatPlayer": "true"
 },
 {
@@ -335,7 +336,7 @@
 {
 "name": "ASTRO SPORT 2",  
 "image": "https://i.postimg.cc/9MhMnYPY/832-300.png",  
-"url": "http://thaicable.myftp.org:8000/live/infosat/2020/10.ts",
+"url": "http://thaicable.myftp.org:8000/live/infosat/2020/11.ts",
 "playInNatPlayer": "true"
 },
 {
@@ -347,7 +348,7 @@
 {
 "name": "ASTRO SPORT 3",  
 "image": "https://i.postimg.cc/4dQdkHBk/833-300.png",  
-"url": "http://thaicable.myftp.org:8000/live/infosat/2020/11.ts",
+"url": "http://thaicable.myftp.org:8000/live/infosat/2020/12.ts",
 "playInNatPlayer": "true"
 },
 {
@@ -359,7 +360,7 @@
 {
 "name": "ASTRO SPORT 4",  
 "image": "https://i.postimg.cc/L54sH4bq/834-300.png",  
-"url": "http://thaicable.myftp.org:8000/live/infosat/2020/12.ts",
+"url": "http://thaicable.myftp.org:8000/live/infosat/2020/13.ts",
 "playInNatPlayer": "true"
 },
 {
@@ -386,6 +387,48 @@
 "name":"SPORT TV 5",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2021/01/hd-sporttv5.jpg",
 "url":"https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8"
+},
+{
+"name":"TV 3 SPORT",
+"image":"https://i-movie2u.com/wp-content/uploads/2020/02/tv3sport1.jpg",
+"url":"https://www.liveballsod.com/tv-online/ch106/",
+"referer": "https://www.liveballsod.com/"
+},
+{
+"name":"Skynet Sport 1",
+"image":"https://i-movie2u.com/wp-content/uploads/2020/02/skynet1.jpg",
+"url":"http://thaicable.myftp.org:8000/live/infosat/2020/8.ts",
+"playInNatPlayer": "true"
+},
+{
+"name":"Skynet Sport 4",
+"image":"https://i-movie2u.com/wp-content/uploads/2020/02/skynet2.jpg",
+"url":"http://thaicable.myftp.org:8000/live/infosat/2020/89.ts",
+"playInNatPlayer": "true"
+},
+{
+"name":"Ziggo Sport Select",
+"image":"https://i-movie2u.com/wp-content/uploads/2020/02/ziggoselect.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportselect/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Ziggo Sport Voetball",
+"image":"https://i-movie2u.com/wp-content/uploads/2020/02/ziggosport.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportvoetbal/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Telekom Sport 1",
+"image":"https://stvron.com/canale/512/telekom-sport-1.png",
+"url":"https://www.liveballsod.com/tv-online/ch385/",
+"referer": "https://www.liveballsod.com/"
+},
+{
+"name":"SPORT DIGITAL",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_b3rp6fsD6kGUooKWTQ-NfBnPxGfGcUhuxg&usqp=CAU",
+"url":"https://www.liveballsod.com/tv-online/ch292/",
+"referer": "https://www.liveballsod.com/"
 }]
 
 },	
