@@ -1,0 +1,579 @@
+{
+"name": "Thai Sport TV ",
+"author": "@WHOAMI",
+"image": "https://i.postimg.cc/HnY7jZbS/image.jpg",
+"url": "https://doona.cf/TH_Sport_Live.w3u",
+"info": "", "stations": 
+[ 
+{
+"name":"True Premier League 1",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
+"url":"https://www.doofree88.com/live/premier-football-hd-1",
+"referer": "https://www.doofree88.com"
+},
+{
+"name":"True Premier League 1",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
+"url":"https://www.liveballsod.com/tv-online/ch373/",
+"referer": "https://www.liveballsod.com/"
+},
+{
+"name":"True Premier League 1",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
+"url":"https://we-play.tv/watching/tv/true-premier-football-hd-1",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"True Premier League 2",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl2.jpg",
+"url":"https://www.doofree88.com/live/premier-football-hd-2",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Premier League 2",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl2.jpg",
+"url":"https://bettopfivemovie.com/true-premier-football-hd-2",
+"referer": "https://bettopfivemovie.com/",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Premier League 2",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl2.jpg",
+"url":"https://we-play.tv/watching/tv/true-premier-football-hd-2",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Premier League 3",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl3.jpg",
+"url":"https://www.doofree88.com/live/premier-football-hd-3",
+"referer": "https://www.doofree88.com"
+},
+{
+"name":"True Premier League 3",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl3.jpg",
+"url":"https://bettopfivemovie.com/true-premier-football-hd-3",
+"referer": "https://bettopfivemovie.com/",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Premier League 4",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl4.jpg",
+"url":"https://www.doofree88.com/live/premier-football-hd-4",
+"referer": "https://www.doofree88.com"
+},
+{
+"name":"True Premier League 4",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl4.jpg",
+"url":"https://bettopfivemovie.com/true-premier-football-hd-4",
+"referer": "https://bettopfivemovie.com/",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Premier League 5",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl5.jpg",
+"url":"https://www.doofree88.com/live/premier-football-hd-5",
+"referer": "https://www.doofree88.com"
+},
+{
+"name":"True Premier League 5",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl5.jpg",
+"url":"https://bettopfivemovie.com/true-premier-football-hd-5",
+"referer": "https://bettopfivemovie.com/",
+"playInNatPlayer": "true"
+},
+{
+"name":"BEIN SPORT 1 TH",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/epl-bein1.png",
+"url":"https://www.we-play.tv/watching/tv/bein-sports-1",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"BEIN SPORT 2 TH",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/epl-bein2.png",
+"url":"https://www.we-play.tv/watching/tv/bein-sports-2",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"True Sport HD 1",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport1.jpg",
+"url":"https://www.doofree88.com/live/sport-hd-1",
+"referer": "https://www.doofree88.com"
+},
+{
+"name":"True Sport HD 1",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport1.jpg",
+"url":"https://bettopfivemovie.com/true-sport-hd1",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name":"True Sport HD 1",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport1.jpg",
+"url":"https://we-play.tv/watching/tv/true-sports-hd",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Sport HD 2",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport2.jpg",
+"url":"https://www.doofree88.com/live/sport-hd-2",
+"referer": "https://www.doofree88.com"
+},
+{
+"name":"True Sport HD 2",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport2.jpg",
+"url":"https://bettopfivemovie.com/true-sport-hd2",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name":"True Sport HD 2",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport2.jpg",
+"url":"https://we-play.tv/watching/tv/true-sports-hd-2",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Sport HD 3",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport3.jpg",
+"url":"https://www.doofree88.com/live/sport-hd-1",
+"referer": "https://www.doofree88.com"
+},
+{
+"name":"True Sport HD 3",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport3.jpg",
+"url":"https://bettopfivemovie.com/true-sport-hd3",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name":"True Sport HD 3",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport3.jpg",
+"url":"https://we-play.tv/watching/tv/true-sports-hd-3",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Sport HD 4",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport4.jpg",
+"url":"https://www.doofree88.com/live/sport-hd-1",
+"referer": "https://www.doofree88.com"
+},
+{
+"name":"True Sport HD 4",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport4.jpg",
+"url":"https://bettopfivemovie.com/true-sport-hd4",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name":"True Sport HD 4",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport4.jpg",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-tsport4.stream/playlist.m3u8",
+"referer": "https://www.doofootball.com/"
+},
+{
+"name":"True Sport 2",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport2.jpg",
+"url":"https://www.doofree88.com/live/sport-2",
+"referer": "https://www.doofootball.com/"
+},
+{
+"name":"True Sport 2",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport2.jpg",
+"url":"https://bettopfivemovie.com/truesport-2",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name":"True Sport 2",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport2.jpg",
+"url":"https://we-play.tv/watching/tv/true-sports-2",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Sport 5",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport5.jpg",
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-tsport5.stream/playlist.m3u8"
+},
+{
+"name":"True Sport 5",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport5.jpg",
+"url":"https://bettopfivemovie.com/truesport-5",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name":"True Sport 5",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport5.jpg",
+"url":"https://we-play.tv/watching/tv/true-sports-5",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Sport 6",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport6.jpg",
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-tsport6.stream/playlist.m3u8"
+},
+{
+"name":"True Sport 6",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport6.jpg",
+"url":"https://bettopfivemovie.com/truesport-6",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name":"True Sport 6",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport6.jpg",
+"url":"https://we-play.tv/watching/tv/true-sports-6",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Sport 7",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport7.jpg",
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-tsport7.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"True Sport 7",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport7.jpg",
+"url":"https://bettopfivemovie.com/truesport-7",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name":"True Sport 7",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport7.jpg",
+"url":"https://www.doofree88.com/live/sport-7",
+"referer": "https://www.doofree88.com/",
+"playInNatPlayer": "true"
+},
+{
+"name":"FOX SPORT HD 1",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-foxsports1.jpg",
+"url":"https://www.doofree88.com/live/fox-sports-1",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"FOX SPORT 2",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-foxsports2.jpg",
+"url":"https://www.doofree88.com/live/fox-sports-2",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"FOX SPORT 3",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-foxsports3.jpg",
+"url":"https://www.doofree88.com/live/fox-sports-3",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"BT SPORT 1 HD",
+"image":"https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",
+"url":"https://www.doofree88.com/live/bt-sport-1-hd",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"BT SPORT 2 HD",
+"image":"https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",
+"url":"https://www.doofree88.com/live/bt-sport-2-hd",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"BT SPORT 3 HD",
+"image":"https://overseer.blackboxsys.net/images/png/uk-btsport3hd.png",
+"url":"http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8",
+"referer": "https://www.doofootball.com/"
+},
+{
+"name":"EURO SPORT 1 HD",
+"image":"https://www.doofree88.com/storage/live/EHym8OtlAt9b7pqIhetdRkgYC3GgkT0nPpwLJIFP.jpg",
+"url":"https://www.doofree88.com/live/eurosport",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"EURO SPORT 2 HD",
+"image":"https://www.doofree88.com/storage/live/feZtADfMONGDhlFUR9I4wTtSYTP33ZSG53bGI4YQ.jpg",
+"url":"https://www.doofree88.com/live/eurosport-2",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"Sky Sports Arena",
+"image":"https://overseer.blackboxsys.net/images/png/uk-skysports-arena.png",
+"url":"https://www.doofree88.com/live/sky-sports-arena",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"Sky Sports Football",
+"image":"https://overseer.blackboxsys.net/images/png/uk-skysports-football.png",
+"url":"https://www.doofree88.com/live/sky-sports-football",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"Sky Sports Mix",
+"image":"https://overseer.blackboxsys.net/images/png/uk-skysports-mix.png",
+"url":"https://www.doofree88.com/live/sky-sports-mix",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"Sky Sports Premier League",
+"image":"https://overseer.blackboxsys.net/images/png/uk-skysports-epl.png",
+"url":"https://www.doofree88.com/live/sky-sports-premier-league",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"Bein Sports 1 AR",
+"image":"https://i.postimg.cc/Rh7cfSgt/be-IN-SPORTS-1.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-1/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 2 AR",
+"image":"https://i.postimg.cc/xTQGQmd3/be-IN-SPORTS-2.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-2/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 3 AR",
+"image":"https://i.postimg.cc/28xQS5bR/be-IN-SPORTS-3.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-3/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 4 AR",
+"image":"https://i.postimg.cc/135pnZwg/be-IN-SPORTS-4.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-4/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 5 AR",
+"image":"https://i.postimg.cc/P5311FQS/be-IN-SPORTS-5.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-5/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 6 AR",
+"image":"https://i.postimg.cc/vm4fhLPb/be-IN-SPORTS-6.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-6/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 7 AR",
+"image":"https://i.postimg.cc/nz77bVbW/be-IN-SPORTS-7.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-7/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 8 AR",
+"image":"https://i.postimg.cc/sx4hxn29/be-IN-SPORTS-8.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-8/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 9 AR",
+"image":"https://api.cloud-streaming.com/images/channel-logo/tv-station--760.png",
+"url":"https://www.doo2you.com/bein-sport-arabia-9/",
+"referer": "https://www.doo2you.com/"
+},	
+{
+"name":"Bein Sports 10 AR",
+"image":"https://i.postimg.cc/KvmTwy99/be-IN-SPORTS-10.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein10.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
+},	
+{
+"name": "ASTRO SPORT 1",  
+"image": "https://i.postimg.cc/VNMvgVtN/831-300.png",  
+"url": "http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SPORT 1",  
+"image": "https://i.postimg.cc/VNMvgVtN/831-300.png",  
+"url": "https://bettopfivemovie.com/astro-supersport-1-hd/",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name": "ASTRO SPORT 2",  
+"image": "https://i.postimg.cc/9MhMnYPY/832-300.png",  
+"url": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SPORT 2",  
+"image": "https://i.postimg.cc/9MhMnYPY/832-300.png",  
+"url": "https://bettopfivemovie.com/astro-supersport-2-hd/",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name": "ASTRO SPORT 3",  
+"image": "https://i.postimg.cc/4dQdkHBk/833-300.png",  
+"url": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SPORT 3",  
+"image": "https://i.postimg.cc/4dQdkHBk/833-300.png",  
+"url": "https://bettopfivemovie.com/astro-supersport-3-hd/",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name": "ASTRO SPORT 4",  
+"image": "https://i.postimg.cc/L54sH4bq/834-300.png",  
+"url": "http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SPORT 4",  
+"image": "https://i.postimg.cc/L54sH4bq/834-300.png",  
+"url": "https://bettopfivemovie.com/astro-supersport-1-hd/",
+"referer": "https://bettopfivemovie.com/"
+},
+{
+"name":"SPORT TV 1",
+"image":"https://i.postimg.cc/L5cLmJ3g/SPORT-TV-1-HD.jpg",
+"url":"https://we-play.tv/watching/tv/sport-tv-1",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"SPORT TV 2",
+"image":"https://i.postimg.cc/1R2pGd1R/SPORT-TV-2-HD.jpg",
+"url":"https://we-play.tv/watching/tv/sport-tv-2",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"SPORT TV 3",
+"image":"https://i.postimg.cc/L5YjdtLM/SPORT-TV-3-HD.jpg",
+"url":"https://we-play.tv/watching/tv/sport-tv-3",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"SPORT TV 4",
+"image":"https://i.postimg.cc/rmY5YndJ/SPORT-TV-4-HD.jpg",
+"url":"https://we-play.tv/watching/tv/sport-tv-4",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"SPORT TV 5",
+"image":"https://i.postimg.cc/nzLv2bLr/SPORT-TV-5-HD.jpg",
+"url":"https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8"
+},
+{
+"name":"TV 3 SPORT",
+"image":"https://i-movie2u.com/wp-content/uploads/2020/02/tv3sport1.jpg",
+"url":"https://www.liveballsod.com/tv-online/ch106/",
+"referer": "https://www.liveballsod.com/"
+},
+{
+"name":"SK Sport 1",
+"image":"https://i.postimg.cc/grbXffGv/SPORT-KLUB-1-HD.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportklub1slovenia/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"SK Sport 2",
+"image":"https://i.postimg.cc/05F4BxJL/SPORT-KLUB-2-HD.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportklub2slovenia/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"SK Sport 3",
+"image":"://i.postimg.cc/dV2t05YV/skynet3.png",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportklub3slovenia/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"SK Sport 4",
+"image":"https://i.postimg.cc/NMLNdPGs/SPORT-KLUB-4-HD.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportklub4slovenia/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Ziggo Sport Select",
+"image":"https://i-movie2u.com/wp-content/uploads/2020/02/ziggoselect.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportselect/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Ziggo Sport Voetball",
+"image":"https://i-movie2u.com/wp-content/uploads/2020/02/ziggosport.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportvoetbal/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Telekom Sport 1",
+"image":"https://i.postimg.cc/662jRS1z/telekom-sport-channels.jpg",
+"url":"https://www.liveballsod.com/tv-online/ch385/",
+"referer": "https://www.liveballsod.com/"
+},
+{
+"name":"DIGITAL SPORT 1",
+"image":"https://i.postimg.cc/MKB1dYz7/digi-sport-1-hd.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"DIGITAL SPORT 2",
+"image":"https://i.postimg.cc/XY0dhyvT/digi-sport-2-hd.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"DIGITAL SPORT 3",
+"image":"https://i.postimg.cc/L8BLM6Yh/Digi-Sport-3-HD.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"DIGITAL SPORT 4",
+"image":"https://i.postimg.cc/TPdm2Mg0/Digi-Sport-4-HD.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"ARENA SPORT 1",
+"image":"https://i.postimg.cc/FKTS7Wx4/arena-sport-1.jpg",
+"url":"https://www.we-play.tv/watching/tv/arena-sport-1",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"ARENA SPORT 2",
+"image":"https://i.postimg.cc/ZR0d38fy/arena-sport-2.jpg",
+"url":"https://www.we-play.tv/watching/tv/arena-sport-2",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"ARENA SPORT 3",
+"image":"https://i.postimg.cc/FKkdGy5t/arena-sport-3.jpg",
+"url":"https://www.we-play.tv/watching/tv/arena-sport-3",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"ARENA SPORT 4",
+"image":"https://i.postimg.cc/wvPsk1P4/arena-sport-4.jpg",
+"url":"https://www.we-play.tv/watching/tv/arena-sport-4",
+"referer": "https://we-play.tv/"
+},
+{
+"name":"CANAL 11",
+"image":"https://i.postimg.cc/JhFgCW2D/canal11-01.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal11pt/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"VIESAT SPORT",
+"image":"https://i.postimg.cc/Y9VdZfj1/VIASAT-Sport-HD.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"UK FreeSports",
+"image":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"SPORT DIGITAL",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_b3rp6fsD6kGUooKWTQ-NfBnPxGfGcUhuxg&usqp=CAU",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportdigital/playlist.m3u8",
+"playInNatPlayer": "true"
+}]
+
+},	
+]
+}
+
