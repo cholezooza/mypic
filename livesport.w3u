@@ -491,6 +491,12 @@
 "playInNatPlayer": "true"
 },
 {
+"name":"UK FreeSports",
+"image":"https://i.postimg.cc/tC1bMpC6/uk-freesport.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name":"Ziggo Sport Select",
 "image":"https://i-movie2u.com/wp-content/uploads/2020/02/ziggoselect.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportselect/playlist.m3u8",
@@ -557,6 +563,12 @@
 "referer": "https://we-play.tv/"
 },
 {
+"name":"VIASAT SPORT",
+"image":"https://i.postimg.cc/Y9VdZfj1/VIASAT-Sport-HD.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name": "Canal 9",  
 "image": "https://i.postimg.cc/zB8ZYcKn/canal9.png",  
 "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal9denmark/playlist.m3u8",
@@ -566,18 +578,6 @@
 "name":"CANAL 11",
 "image":"https://i.postimg.cc/JhFgCW2D/canal11-01.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal11pt/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name":"VIASAT SPORT",
-"image":"https://i.postimg.cc/Y9VdZfj1/VIASAT-Sport-HD.jpg",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name":"UK FreeSports",
-"image":"https://i.postimg.cc/tC1bMpC6/uk-freesport.jpg",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
