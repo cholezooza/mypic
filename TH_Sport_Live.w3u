@@ -515,6 +515,12 @@
 "playInNatPlayer": "true"
 },
 {
+"name":"UK Premium Sport 1",
+"image":"https://i.postimg.cc/ZYf6kqDw/uk-premi-sport.jpg",
+"url":"https://ball8k.com/m/ch.php?stream=premiersports1",
+"referer": "https://ball8k.com"
+},
+{
 "name":"Ziggo Sport Select",
 "image":"https://i-movie2u.com/wp-content/uploads/2020/02/ziggoselect.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportselect/playlist.m3u8",
