@@ -553,26 +553,26 @@
 {
 "name":"ARENA SPORT 1",
 "image":"https://i.postimg.cc/FKTS7Wx4/arena-sport-1.jpg",
-"url":"https://www.we-play.tv/watching/tv/arena-sport-1",
-"referer": "https://we-play.tv/"
+"url":"https://www.doonung1234.com/match/view/10265/arenasport1serbia",
+"referer": "https://www.doonung1234.com/"
 },
 {
 "name":"ARENA SPORT 2",
 "image":"https://i.postimg.cc/ZR0d38fy/arena-sport-2.jpg",
-"url":"https://www.we-play.tv/watching/tv/arena-sport-2",
-"referer": "https://we-play.tv/"
+"url":"https://www.doonung1234.com/match/view/10265/arenasport2serbia",
+"referer": "https://www.doonung1234.com/"
 },
 {
 "name":"ARENA SPORT 3",
 "image":"https://i.postimg.cc/FKkdGy5t/arena-sport-3.jpg",
-"url":"https://www.we-play.tv/watching/tv/arena-sport-3",
-"referer": "https://we-play.tv/"
+"url":"https://www.doonung1234.com/match/view/10265/arenasport3serbia",
+"referer": "https://www.doonung1234.com/"
 },
 {
 "name":"ARENA SPORT 4",
 "image":"https://i.postimg.cc/wvPsk1P4/arena-sport-4.jpg",
-"url":"https://www.we-play.tv/watching/tv/arena-sport-4",
-"referer": "https://we-play.tv/"
+"url":"https://www.doonung1234.com/match/view/10265/arenasport4serbia",
+"referer": "https://www.doonung1234.com/"
 },
 {
 "name":"VIASAT SPORT",
@@ -590,6 +590,13 @@
 "name":"CANAL 11",
 "image":"https://i.postimg.cc/JhFgCW2D/canal11-01.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal11pt/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Nova Sport",
+"image":"https://i.postimg.cc/Wz8GJyf6/Nova-Sport-Bulgaria-logo.png",
+"url":"https://ball8k.com/m/ch.php?stream=novasport",
+"referer": "https://ball8k.com/",
 "playInNatPlayer": "true"
 },
 {
