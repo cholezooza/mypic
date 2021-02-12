@@ -456,8 +456,14 @@
 },
 {
 "name": "ELEVEN SPORT 1",  
-"image": "https://i.postimg.cc/tgpTg2Hz/elevensport1.jpg",  
+"image": "https://i.postimg.cc/1XyFPRcQ/eleven-1.jpg",  
 "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/elevensports1pt/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ELEVEN SPORT 2",  
+"image": "https://i.postimg.cc/CM4D7DSL/eleven-2.png",  
+"url": "http://77.54.145.209:81/play/a03d",
 "playInNatPlayer": "true"
 },
 {
@@ -553,26 +559,26 @@
 {
 "name":"ARENA SPORT 1",
 "image":"https://i.postimg.cc/FKTS7Wx4/arena-sport-1.jpg",
-"url":"https://www.doonung1234.com/match/view/10265/arenasport1serbia",
-"referer": "https://www.doonung1234.com/"
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport1serbia/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"ARENA SPORT 2",
 "image":"https://i.postimg.cc/ZR0d38fy/arena-sport-2.jpg",
-"url":"https://www.doonung1234.com/match/view/10265/arenasport2serbia",
-"referer": "https://www.doonung1234.com/"
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport2serbia/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"ARENA SPORT 3",
 "image":"https://i.postimg.cc/FKkdGy5t/arena-sport-3.jpg",
-"url":"https://www.doonung1234.com/match/view/10265/arenasport3serbia",
-"referer": "https://www.doonung1234.com/"
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport3serbia/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"ARENA SPORT 4",
 "image":"https://i.postimg.cc/wvPsk1P4/arena-sport-4.jpg",
-"url":"https://www.doonung1234.com/match/view/10265/arenasport4serbia",
-"referer": "https://www.doonung1234.com/"
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport4serbia/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"VIASAT SPORT",
