@@ -330,14 +330,14 @@
 {
 "name":"Bein Sports 1 AR",
 "image":"https://i.postimg.cc/rphSKqSg/beinsport1.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein1.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia1hd/playlist.m3u8",
+"playInNatPlayer": "true"
 },	
 {
 "name":"Bein Sports 2 AR",
 "image":"https://i.postimg.cc/1tfDFbBS/beinsport2.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein2.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia2hd/playlist.m3u8",
+"playInNatPlayer": "true"
 },	
 {
 "name":"Bein Sports 3 AR",
