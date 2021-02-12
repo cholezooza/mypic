@@ -1,5 +1,5 @@
 {
-"name": "Thai Sport TV V.2 ",
+"name": "Thai Sport TV ",
 "author": "@WHOAMI",
 "image": "https://i.postimg.cc/HnY7jZbS/image.jpg",
 "url": "https://doona.cf/livesport.w3u",
@@ -8,14 +8,14 @@
 {
 "name":"True Premier League 1",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
-"url":"https://www.doofree88.com/live/premier-football-hd-1",
+"url":"https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8",
 "referer": "https://www.doofree88.com"
 },
 {
 "name":"True Premier League 1",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
-"url":"https://www.liveballsod.com/tv-online/ch373/",
-"referer": "https://www.liveballsod.com/"
+"url":"https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8",
+"referer": "https://www.doo2you.com/"
 },
 {
 "name":"True Premier League 1",
@@ -318,56 +318,56 @@
 {
 "name":"Bein Sports 1 AR",
 "image":"http://logo.ddnb.tn/logochanel/111.png",
-"url":"https://www.doo2you.com/bein-sport-arabia-1/",
-"referer": "https://www.doo2you.com/"
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein1.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Bein Sports 2 AR",
 "image":"http://logo.ddnb.tn/logochanel/112.png",
-"url":"https://www.doo2you.com/bein-sport-arabia-2/",
-"referer": "https://www.doo2you.com/"
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein2.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Bein Sports 3 AR",
 "image":"http://logo.ddnb.tn/logochanel/113.png",
-"url":"https://www.doo2you.com/bein-sport-arabia-3/",
-"referer": "https://www.doo2you.com/"
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein3.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Bein Sports 4 AR",
 "image":"http://logo.ddnb.tn/logochanel/114.png",
-"url":"https://www.doo2you.com/bein-sport-arabia-4/",
-"referer": "https://www.doo2you.com/"
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein4.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Bein Sports 5 AR",
 "image":"http://logo.ddnb.tn/logochanel/115.png",
-"url":"https://www.doo2you.com/bein-sport-arabia-5/",
-"referer": "https://www.doo2you.com/"
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein5.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Bein Sports 6 AR",
 "image":"http://logo.ddnb.tn/logochanel/116.png",
-"url":"https://www.doo2you.com/bein-sport-arabia-6/",
-"referer": "https://www.doo2you.com/"
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein6.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Bein Sports 7 AR",
 "image":"http://logo.ddnb.tn/logochanel/117.png",
-"url":"https://www.doo2you.com/bein-sport-arabia-7/",
-"referer": "https://www.doo2you.com/"
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein7.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Bein Sports 8 AR",
 "image":"http://logo.ddnb.tn/logochanel/118.png",
-"url":"https://www.doo2you.com/bein-sport-arabia-8/",
-"referer": "https://www.doo2you.com/"
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein8.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Bein Sports 9 AR",
 "image":"http://logo.ddnb.tn/logochanel/510.png",
-"url":"https://www.doo2you.com/bein-sport-arabia-9/",
-"referer": "https://www.doo2you.com/"
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein9.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Bein Sports 10 AR",
@@ -376,16 +376,22 @@
 "referer": "https://www.doofootball.com/live/"
 },	
 {
-"name": "ASTRO SPORT 1",  
-"image": "https://i.postimg.cc/VNMvgVtN/831-300.png",  
-"url": "http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8",
+"name": "MU TV",  
+"image": "https://i.postimg.cc/cJhJtwxG/MUTV-logo.png",  
+"url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/mutv/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "LFC TV",  
+"image": "https://i.postimg.cc/50t2ByyY/LFC-TV-logo.png",  
+"url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/lfctv/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name": "ASTRO SPORT 1",  
 "image": "https://i.postimg.cc/VNMvgVtN/831-300.png",  
-"url": "https://bettopfivemovie.com/astro-supersport-1-hd/",
-"referer": "https://bettopfivemovie.com/"
+"url": "http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name": "ASTRO SPORT 2",  
@@ -394,34 +400,16 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "ASTRO SPORT 2",  
-"image": "https://i.postimg.cc/9MhMnYPY/832-300.png",  
-"url": "https://bettopfivemovie.com/astro-supersport-2-hd/",
-"referer": "https://bettopfivemovie.com/"
-},
-{
 "name": "ASTRO SPORT 3",  
 "image": "https://i.postimg.cc/4dQdkHBk/833-300.png",  
 "url": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
-"name": "ASTRO SPORT 3",  
-"image": "https://i.postimg.cc/4dQdkHBk/833-300.png",  
-"url": "https://bettopfivemovie.com/astro-supersport-3-hd/",
-"referer": "https://bettopfivemovie.com/"
-},
-{
 "name": "ASTRO SPORT 4",  
 "image": "https://i.postimg.cc/L54sH4bq/834-300.png",  
 "url": "http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8",
 "playInNatPlayer": "true"
-},
-{
-"name": "ASTRO SPORT 4",  
-"image": "https://i.postimg.cc/L54sH4bq/834-300.png",  
-"url": "https://bettopfivemovie.com/astro-supersport-1-hd/",
-"referer": "https://bettopfivemovie.com/"
 },
 {
 "name":"SPORT TV 1",
@@ -451,13 +439,26 @@
 "name":"SPORT TV 5",
 "image":"https://i.postimg.cc/nzLv2bLr/SPORT-TV-5-HD.jpg",
 "url":"https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
-"referer": "https://www.livedoomovie.com/"
+"referer": "https://www.livedoomovie.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "ELEVEN SPORT 1",  
+"image": "https://i.postimg.cc/tgpTg2Hz/elevensport1.jpg",  
+"url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/elevensports1pt/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"TV 3 SPORT",
 "image":"https://i-movie2u.com/wp-content/uploads/2020/02/tv3sport1.jpg",
-"url":"https://www.liveballsod.com/tv-online/ch106/",
-"referer": "https://www.liveballsod.com/"
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/tv3sport1/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "TV 3 MAX",  
+"image": "https://i.postimg.cc/j5kdZTn8/200px-TV3-Max-logo-2017.png",  
+"url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/tv3max/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"SK Sport 1",
@@ -556,6 +557,12 @@
 "referer": "https://we-play.tv/"
 },
 {
+"name": "Canal 9",  
+"image": "https://i.postimg.cc/zB8ZYcKn/canal9.png",  
+"url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal9denmark/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name":"CANAL 11",
 "image":"https://i.postimg.cc/JhFgCW2D/canal11-01.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal11pt/playlist.m3u8",
@@ -575,7 +582,7 @@
 },
 {
 "name":"SPORT DIGITAL",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_b3rp6fsD6kGUooKWTQ-NfBnPxGfGcUhuxg&usqp=CAU",
+"image":"https://i.postimg.cc/Y92JnD5j/sport-digit.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportdigital/playlist.m3u8",
 "playInNatPlayer": "true"
 }]
