@@ -322,6 +322,12 @@
 "referer": "https://www.doofree88.com/"
 },
 {
+"name":"Sky Sports Main Event",
+"image":"https://overseer.blackboxsys.net/images/png/uk-skysports-mainevent.png",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportmainevent/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name":"Bein Sports 1 AR",
 "image":"https://i.postimg.cc/rphSKqSg/beinsport1.jpg",
 "url":"https://doofootball.livestream-cdn.com/iptv/hd-bein1.stream/chunks.m3u8",
