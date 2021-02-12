@@ -246,31 +246,31 @@
 {
 "name":"FOX SPORT HD 1",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-foxsports1.jpg",
-"url":"https://www.doofree88.com/live/fox-sports-1",
+"url":"https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"FOX SPORT 2",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-foxsports2.jpg",
-"url":"https://www.doofree88.com/live/fox-sports-2",
+"url":"https://laos-tech-live.b-cdn.net/sd-foxsports2_480/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"FOX SPORT 3",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-foxsports3.jpg",
-"url":"https://www.doofree88.com/live/fox-sports-3",
+"url":"https://laos-tech-live.b-cdn.net/sd-foxsports3_480/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"BT SPORT 1 HD",
 "image":"https://i.postimg.cc/28tVZw2f/uk-btsport1hd.png",
-"url":"https://www.doofree88.com/live/bt-sport-1-hd",
+"url":"https://laos-tech-live.b-cdn.net/uk-btsport1hd_720/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"BT SPORT 2 HD",
 "image":"https://i.postimg.cc/W3s3vfb0/uk-btsport2hd.png",
-"url":"https://www.doofree88.com/live/bt-sport-2-hd",
+"url":"https://laos-tech-live.b-cdn.net/uk-btsport2hd_720/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
@@ -282,37 +282,43 @@
 {
 "name":"EURO SPORT 1 HD",
 "image":"https://i.postimg.cc/9FyQDhRy/uk-eurosport.png",
-"url":"https://www.doofree88.com/live/eurosport",
+"url":"https://laos-tech-live.b-cdn.net/uk-eurosport_480/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"EURO SPORT 2 HD",
 "image":"https://i.postimg.cc/05TN5QQ8/uk-eurosport2.png",
-"url":"https://www.doofree88.com/live/eurosport-2",
+"url":"https://laos-tech-live.b-cdn.net/uk-eurosport2_480/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"Sky Sports Arena",
 "image":"https://overseer.blackboxsys.net/images/png/uk-skysports-arena.png",
-"url":"https://www.doofree88.com/live/sky-sports-arena",
+"url":"https://laos-tech-live.b-cdn.net/uk-skysports-arena_720/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"Sky Sports Football",
 "image":"https://overseer.blackboxsys.net/images/png/uk-skysports-football.png",
-"url":"https://www.doofree88.com/live/sky-sports-football",
+"url":"https://laos-tech-live.b-cdn.net/uk-skysports-football_720/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"Sky Sports Mix",
 "image":"https://overseer.blackboxsys.net/images/png/uk-skysports-mix.png",
-"url":"https://www.doofree88.com/live/sky-sports-mix",
+"url":"https://laos-tech-live.b-cdn.net/uk-skysports-mix_480/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"Sky Sports Premier League",
 "image":"https://overseer.blackboxsys.net/images/png/uk-skysports-epl.png",
-"url":"https://www.doofree88.com/live/sky-sports-premier-league",
+https://laos-tech-live.b-cdn.net/uk-skysports-epl_720/index.m3u8",
+"referer": "https://www.doofree88.com/"
+},
+{
+"name":"Sky Sports F1",
+"image":"https://overseer.blackboxsys.net/images/png/uk-skysports-f1.png",
+"url":"https://laos-tech-live.b-cdn.net/uk-skysports-f1_720/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
