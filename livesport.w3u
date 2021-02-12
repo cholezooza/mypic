@@ -450,7 +450,8 @@
 {
 "name":"SPORT TV 5",
 "image":"https://i.postimg.cc/nzLv2bLr/SPORT-TV-5-HD.jpg",
-"url":"https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8"
+"url":"https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
+"referer": "https://www.livedoomovie.com/"
 },
 {
 "name":"TV 3 SPORT",
@@ -465,21 +466,27 @@
 "playInNatPlayer": "true"
 },
 {
-"name":"SK Sport 2",
-"image":"https://i.postimg.cc/05F4BxJL/SPORT-KLUB-2-HD.jpg",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportklub2slovenia/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name":"SK Sport 3",
-"image":"https://i.postimg.cc/0NVWdqsX/SPORT-KLUB-3-HD.jpg",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportklub3slovenia/playlist.m3u8",
-"playInNatPlayer": "true"
-},
-{
 "name":"SK Sport 4",
 "image":"https://i.postimg.cc/NMLNdPGs/SPORT-KLUB-4-HD.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportklub4slovenia/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Diema Sport",
+"image":"https://i.postimg.cc/5tcFQ3pR/Diema-Sport-HD-logo.png",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/diemasport1/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"C More Football",
+"image":"https://i.postimg.cc/65mZtwZw/cmore-football.jpg",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/cmorefootball/chunks.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"C More Live HD",
+"image":"https://i.postimg.cc/43zH69SN/cmore-live.png
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/cmorelivehd/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -497,8 +504,8 @@
 {
 "name":"Telekom Sport 1",
 "image":"https://i.postimg.cc/662jRS1z/telekom-sport-channels.jpg",
-"url":"https://www.liveballsod.com/tv-online/ch385/",
-"referer": "https://www.liveballsod.com/"
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/telekomsport1ro/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"DIGITAL SPORT 1",
@@ -555,7 +562,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name":"VIESAT SPORT",
+"name":"VIASAT SPORT",
 "image":"https://i.postimg.cc/Y9VdZfj1/VIASAT-Sport-HD.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8",
 "playInNatPlayer": "true"
@@ -563,7 +570,7 @@
 {
 "name":"UK FreeSports",
 "image":"https://i.postimg.cc/tC1bMpC6/uk-freesport.jpg",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
