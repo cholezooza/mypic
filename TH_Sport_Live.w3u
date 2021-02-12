@@ -414,26 +414,26 @@
 {
 "name":"SPORT TV 1",
 "image":"https://i.postimg.cc/L5cLmJ3g/SPORT-TV-1-HD.jpg",
-"url":"https://we-play.tv/watching/tv/sport-tv-1",
-"referer": "https://we-play.tv/"
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv1/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"SPORT TV 2",
 "image":"https://i.postimg.cc/1R2pGd1R/SPORT-TV-2-HD.jpg",
-"url":"https://we-play.tv/watching/tv/sport-tv-2",
-"referer": "https://we-play.tv/"
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv2/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"SPORT TV 3",
 "image":"https://i.postimg.cc/L5YjdtLM/SPORT-TV-3-HD.jpg",
-"url":"https://we-play.tv/watching/tv/sport-tv-3",
-"referer": "https://we-play.tv/"
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv3/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"SPORT TV 4",
 "image":"https://i.postimg.cc/rmY5YndJ/SPORT-TV-4-HD.jpg",
-"url":"https://we-play.tv/watching/tv/sport-tv-4",
-"referer": "https://we-play.tv/"
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv4/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"SPORT TV 5",
