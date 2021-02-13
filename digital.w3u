@@ -26,8 +26,8 @@
 {
 "name":"TPTV",
 "image":"https://i.postimg.cc/xTVkY4y0/tptv.png",
-"url":"http://49.231.66.85:1935/live/tptv/playlist.m3u8",
-"playInNatPlayer": "true"
+"url":"http://live.parliament.go.th/livestream/encoder3/playlist.m3u8",
+"referer": "http://live.parliament.go.th"
 },	
 {
 "name":"TNN16",
