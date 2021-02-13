@@ -75,13 +75,6 @@
 "referer": "https://www.doofree88.com"
 },
 {
-"name":"True Premier League 5",
-"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl5.jpg",
-"url":"https://bettopfivemovie.com/true-premier-football-hd-5",
-"referer": "https://bettopfivemovie.com/",
-"playInNatPlayer": "true"
-},
-{
 "name":"BEIN SPORT 1 TH",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/epl-bein1.png",
 "url":"https://www.we-play.tv/watching/tv/bein-sports-1",
@@ -102,12 +95,6 @@
 {
 "name":"True Sport HD 1",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport1.jpg",
-"url":"https://bettopfivemovie.com/true-sport-hd1",
-"referer": "https://bettopfivemovie.com/"
-},
-{
-"name":"True Sport HD 1",
-"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport1.jpg",
 "url":"https://we-play.tv/watching/tv/true-sports-hd",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
@@ -117,12 +104,6 @@
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport2.jpg",
 "url":"https://www.doofree88.com/live/sport-hd-2",
 "referer": "https://www.doofree88.com"
-},
-{
-"name":"True Sport HD 2",
-"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport2.jpg",
-"url":"https://bettopfivemovie.com/true-sport-hd2",
-"referer": "https://bettopfivemovie.com/"
 },
 {
 "name":"True Sport HD 2",
@@ -140,12 +121,6 @@
 {
 "name":"True Sport HD 3",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport3.jpg",
-"url":"https://bettopfivemovie.com/true-sport-hd3",
-"referer": "https://bettopfivemovie.com/"
-},
-{
-"name":"True Sport HD 3",
-"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport3.jpg",
 "url":"https://we-play.tv/watching/tv/true-sports-hd-3",
 "referer": "https://we-play.tv/",
 "playInNatPlayer": "true"
@@ -155,12 +130,6 @@
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport4.jpg",
 "url":"https://www.doofree88.com/live/sport-hd-1",
 "referer": "https://www.doofree88.com"
-},
-{
-"name":"True Sport HD 4",
-"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport4.jpg",
-"url":"https://bettopfivemovie.com/true-sport-hd4",
-"referer": "https://bettopfivemovie.com/"
 },
 {
 "name":"True Sport HD 4",
@@ -259,6 +228,36 @@
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-foxsports3.jpg",
 "url":"https://laos-tech-live.b-cdn.net/sd-foxsports3_480/index.m3u8",
 "referer": "https://www.doofree88.com/"
+},
+{
+"name":"NBA TV",
+"image":"https://i.postimg.cc/kgQPvXjH/poster1602704203.jpg",
+"url":"https://ballnaka.tv/ดูทีวีออนไลน์/nba",
+"referer": "https://ballnaka.tv/"
+},
+{
+"name":"NFL Network",
+"image":"https://i.postimg.cc/VN4y2ZPB/poster1602704214.jpg",
+"url":"https://ballnaka.tv/ดูทีวีออนไลน์/nfl",
+"referer": "https://ballnaka.tv/"
+},
+{
+"name":"MOTOR VISION",
+"image":"https://i.postimg.cc/LXXdSkHd/poster1602704220.jpg",
+"url":"https://ballnaka.tv/ดูทีวีออนไลน์/motor-vision",
+"referer": "https://ballnaka.tv/"
+},
+{
+"name":"TRUE TENNIS HD",
+"image":"https://i.postimg.cc/T3MXbWcm/poster1602704197.jpg",
+"url":"https://ballnaka.tv/ดูทีวีออนไลน์/tennis",
+"referer": "https://ballnaka.tv/"
+},
+{
+"name":"GOLF HD",
+"image":"https://i.postimg.cc/k57313zg/poster1602704208.jpg",
+"url":"https://ballnaka.tv/ดูทีวีออนไลน์/golf",
+"referer": "https://ballnaka.tv/"
 },
 {
 "name":"BT SPORT 1 HD",
