@@ -1,5 +1,5 @@
 {
-"name": "Thai Sport TV ",
+"name": "MIX SPORTS TV ",
 "author": "@WHOAMI",
 "image": "https://i.postimg.cc/HnY7jZbS/image.jpg",
 "url": "https://doona.cf/TH_Sport_Live.w3u",
@@ -24,10 +24,10 @@
 "referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
-"name":"True Premier League 1",
+"name":"True Premier League 1+",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
-"url":"https://ballnaka.tv/ดูทีวีออนไลน์/tpf1",
-"referer": "https://ballnaka.tv/"
+"url":"https://we-play.tv/watching/tv/true-premier-football-hd-1",
+"referer": "https://we-play.tv/tv/sports"
 },
 {
 "name":"True Premier League 2",
@@ -146,51 +146,32 @@
 {
 "name":"True Sport 2+",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport2.jpg",
-"url":"https://ballnaka.tv/ดูทีวีออนไลน์/tsp2",
-"referer": "https://ballnaka.tv/"
-},
-{
-"name":"True Sport 2",
-"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport2.jpg",
 "url":"https://we-play.tv/watching/tv/true-sports-2",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
+"referer": "https://we-play.tv/tv/sports"
 },
 {
 "name":"True Sport 5",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport5.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/sd-tsport5.stream/playlist.m3u8"
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-tsport5.stream/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"True Sport 5+",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport5.jpg",
-"url":"https://ballnaka.tv/ดูทีวีออนไลน์/tsp5",
-"referer": "https://ballnaka.tv/"
-},
-{
-"name":"True Sport 5",
-"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport5.jpg",
 "url":"https://we-play.tv/watching/tv/true-sports-5",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
+"referer": "https://we-play.tv/tv/sports"
 },
 {
 "name":"True Sport 6",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport6.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/sd-tsport6.stream/playlist.m3u8"
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-tsport6.stream/playlist.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"True Sport 6+",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport6.jpg",
-"url":"https://ballnaka.tv/ดูทีวีออนไลน์/tsp6",
-"referer": "https://ballnaka.tv/"
-},
-{
-"name":"True Sport 6",
-"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport6.jpg",
 "url":"https://we-play.tv/watching/tv/true-sports-6",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
+"referer": "https://we-play.tv/tv/sports"
 },
 {
 "name":"True Sport 7",
@@ -201,15 +182,8 @@
 {
 "name":"True Sport 7+",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport7.jpg",
-"url":"https://ballnaka.tv/ดูทีวีออนไลน์/tsp7",
-"referer": "https://ballnaka.tv/"
-},
-{
-"name":"True Sport 7",
-"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport7.jpg",
-"url":"https://www.doofree88.com/live/sport-7",
-"referer": "https://www.doofree88.com/",
-"playInNatPlayer": "true"
+"url":"https://we-play.tv/watching/tv/true-sports-7",
+"referer": "https://we-play.tv/tv/sports"
 },
 {
 "name":"FOX SPORT HD 1",
@@ -232,32 +206,32 @@
 {
 "name":"NBA TV",
 "image":"https://i.postimg.cc/kgQPvXjH/poster1602704203.jpg",
-"url":"https://ballnaka.tv/ดูทีวีออนไลน์/nba",
-"referer": "https://ballnaka.tv/"
+"url":"https://we-play.tv/watching/tv/nba-tv",
+"referer": "https://we-play.tv/tv/sports"
 },
 {
 "name":"NFL Network",
 "image":"https://i.postimg.cc/VN4y2ZPB/poster1602704214.jpg",
-"url":"https://ballnaka.tv/ดูทีวีออนไลน์/nfl",
-"referer": "https://ballnaka.tv/"
+"url":"https://we-play.tv/watching/tv/nfl-network",
+"referer": "https://we-play.tv/tv/sports"
 },
 {
 "name":"MOTOR VISION",
 "image":"https://i.postimg.cc/LXXdSkHd/poster1602704220.jpg",
-"url":"https://ballnaka.tv/ดูทีวีออนไลน์/motor-vision",
-"referer": "https://ballnaka.tv/"
+"url":"https://we-play.tv/watching/tv/motor-vision",
+"referer": "https://we-play.tv/tv/sports"
 },
 {
 "name":"TRUE TENNIS HD",
 "image":"https://i.postimg.cc/T3MXbWcm/poster1602704197.jpg",
-"url":"https://ballnaka.tv/ดูทีวีออนไลน์/tennis",
-"referer": "https://ballnaka.tv/"
+"url":"https://we-play.tv/watching/tv/true-tennis",
+"referer": "https://we-play.tv/tv/sports"
 },
 {
 "name":"GOLF HD",
 "image":"https://i.postimg.cc/k57313zg/poster1602704208.jpg",
-"url":"https://ballnaka.tv/ดูทีวีออนไลน์/golf",
-"referer": "https://ballnaka.tv/"
+"url":"https://we-play.tv/watching/tv/golf-channel",
+"referer": "https://we-play.tv/tv/sports"
 },
 {
 "name":"BT SPORT 1 HD",
@@ -275,7 +249,7 @@
 "name":"BT SPORT 3 HD",
 "image":"https://i.postimg.cc/cCb4fx7c/uk-btsport3hd.png",
 "url":"http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8",
-"referer": "https://www.doofootball.com/"
+"referer": "https://www.doofootball.com/live/"
 },
 {
 "name":"EURO SPORT 1 HD",
@@ -323,19 +297,19 @@
 "name":"Sky Sports Main Event",
 "image":"https://overseer.blackboxsys.net/images/png/uk-skysports-mainevent.png",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportmainevent/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"Bein Sports 1 AR",
 "image":"https://i.postimg.cc/rphSKqSg/beinsport1.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia1hd/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },	
 {
 "name":"Bein Sports 2 AR",
 "image":"https://i.postimg.cc/1tfDFbBS/beinsport2.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia2hd/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },	
 {
 "name":"Bein Sports 3 AR",
@@ -389,13 +363,13 @@
 "name": "MU TV",  
 "image": "https://i.postimg.cc/cJhJtwxG/MUTV-logo.png",  
 "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/mutv/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name": "LFC TV",  
 "image": "https://i.postimg.cc/50t2ByyY/LFC-TV-logo.png",  
 "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/lfctv/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name": "ASTRO SPORT 1",  
@@ -425,38 +399,37 @@
 "name":"SPORT TV 1",
 "image":"https://i.postimg.cc/L5cLmJ3g/SPORT-TV-1-HD.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv1/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"SPORT TV 2",
 "image":"https://i.postimg.cc/1R2pGd1R/SPORT-TV-2-HD.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv2/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"SPORT TV 3",
 "image":"https://i.postimg.cc/L5YjdtLM/SPORT-TV-3-HD.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv3/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"SPORT TV 4",
 "image":"https://i.postimg.cc/rmY5YndJ/SPORT-TV-4-HD.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv4/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"SPORT TV 5",
 "image":"https://i.postimg.cc/nzLv2bLr/SPORT-TV-5-HD.jpg",
 "url":"https://www.doomovie-hd.com/?r=tv_view&id=143",
-"referer": "https://www.livedoomovie.com/",
-"playInNatPlayer": "true"
+"referer": "https://www.livedoomovie.com/"
 },
 {
 "name": "ELEVEN SPORT 1",  
 "image": "https://i.postimg.cc/1XyFPRcQ/eleven-1.jpg",  
 "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/elevensports1pt/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name": "ELEVEN SPORT 2",  
@@ -468,141 +441,138 @@
 "name":"TV 3 SPORT",
 "image":"https://i-movie2u.com/wp-content/uploads/2020/02/tv3sport1.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/tv3sport1/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name": "TV 3 MAX",  
 "image": "https://i.postimg.cc/j5kdZTn8/200px-TV3-Max-logo-2017.png",  
 "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/tv3max/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"SK Sport 1",
 "image":"https://i.postimg.cc/grbXffGv/SPORT-KLUB-1-HD.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportklub1slovenia/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"SK Sport 4",
 "image":"https://i.postimg.cc/NMLNdPGs/SPORT-KLUB-4-HD.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportklub4slovenia/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"Diema Sport",
 "image":"https://i.postimg.cc/5tcFQ3pR/Diema-Sport-HD-logo.png",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/diemasport1/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"C More Football",
 "image":"https://i.postimg.cc/65mZtwZw/cmore-football.jpg",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/cmorefootball/chunks.m3u8",
-"playInNatPlayer": "true"
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/cmorefootball/chunks.m3u8"
 },
 {
 "name":"C More Live HD",
 "image":"https://i.postimg.cc/43zH69SN/cmore-live.png",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/cmorelivehd/playlist.m3u8",
-"referer": "https://xn--72c0aax6cd9aw3ducxk.com/",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"UK FreeSports",
 "image":"https://i.postimg.cc/tC1bMpC6/uk-freesport.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"UK PremiumSport 1",
 "image":"https://i.postimg.cc/ZYf6kqDw/uk-premi-sport.jpg",
 "url":"https://www.liveballsod.com/tv-online/ch380/",
-"referer": "https://www.liveballsod.com/tv-online/",
-"playInNatPlayer": "true"
+"referer": "https://www.liveballsod.com/tv-online/"
 },
 {
 "name":"Ziggo Sport Select",
 "image":"https://i-movie2u.com/wp-content/uploads/2020/02/ziggoselect.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportselect/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"Ziggo Sport Voetball",
 "image":"https://i-movie2u.com/wp-content/uploads/2020/02/ziggosport.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/ziggosportvoetbal/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"Telekom Sport 1",
 "image":"https://i.postimg.cc/662jRS1z/telekom-sport-channels.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/telekomsport1ro/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"DIGITAL SPORT 1",
 "image":"https://i.postimg.cc/MKB1dYz7/digi-sport-1-hd.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"DIGITAL SPORT 2",
 "image":"https://i.postimg.cc/XY0dhyvT/digi-sport-2-hd.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"DIGITAL SPORT 3",
 "image":"https://i.postimg.cc/L8BLM6Yh/Digi-Sport-3-HD.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"DIGITAL SPORT 4",
 "image":"https://i.postimg.cc/TPdm2Mg0/Digi-Sport-4-HD.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"ARENA SPORT 1",
 "image":"https://i.postimg.cc/FKTS7Wx4/arena-sport-1.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport1serbia/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"ARENA SPORT 2",
 "image":"https://i.postimg.cc/ZR0d38fy/arena-sport-2.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport2serbia/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"ARENA SPORT 3",
 "image":"https://i.postimg.cc/FKkdGy5t/arena-sport-3.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport3serbia/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"ARENA SPORT 4",
 "image":"https://i.postimg.cc/wvPsk1P4/arena-sport-4.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/arenasport4serbia/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"VIASAT SPORT",
 "image":"https://i.postimg.cc/Y9VdZfj1/VIASAT-Sport-HD.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name": "Canal 9",  
 "image": "https://i.postimg.cc/zB8ZYcKn/canal9.png",  
 "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal9denmark/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"CANAL 11",
 "image":"https://i.postimg.cc/JhFgCW2D/canal11-01.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal11pt/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 },
 {
 "name":"Nova Sport",
@@ -615,7 +585,7 @@
 "name":"SPORT DIGITAL",
 "image":"https://i.postimg.cc/Y92JnD5j/sport-digit.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportdigital/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
 }]
 
 },	
