@@ -1,0 +1,132 @@
+{
+"name": "Digital TV",
+"author": "@WHOAMI",
+"image": "https://i.postimg.cc/J4Nk3sf1/image.jpg",
+"url": "http://doona.cf/digital.w3u",
+"info": "", "stations": 
+[ 
+{
+"name":"TV5HD",
+"image":"https://i.postimg.cc/sg9gVffm/hd-ch5.png",
+"url":"https://bettopfivemovie.com/tv5hd1",
+"referer": "https://bettopfivemovie.com/tv-online/"
+},	
+{
+"name":"NBT2HD",
+"image":"https://i.postimg.cc/T2LmTbzc/hd-nbt.png",
+"url":"https://doofootball.livestream-cdn.com/iptv/sd-nbt.stream/chunks.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Thai PBS",
+"image":"https://i.postimg.cc/0yxJGBbt/hd-tpbs.png",
+"url":"https://bettopfivemovie.com/thaipbs",
+"referer": "https://bettopfivemovie.com/tv-online/"
+},	
+{
+"name":"TPTV",
+"image":"https://i.postimg.cc/xTVkY4y0/tptv.png",
+"url":"http://49.231.66.85:1935/live/tptv/playlist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"TNN16",
+"image":"https://i.postimg.cc/XNCZRb5H/sd-tnn.png",
+"url":"https://edge6a.v2h-cdn.com/m2i1/TNN24.stream_720p/chunkslist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"NEW TV",
+"image":"https://i.postimg.cc/hvTfTLgW/sd-new.png",
+"url":"https://edge6a.v2h-cdn.com/m2i1/NEW.stream_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"Nation TV",
+"image":"https://i.postimg.cc/d1zhhWbj/sd-nation.png",
+"url":"https://edge6a.v2h-cdn.com/m2i1/Nation.stream_720p/chunkslist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Workpoint TV",
+"image":"https://i.postimg.cc/6Qp2g4Vn/hd-workpoint.png",
+"url":"https://edge6a.v2h-cdn.com/m2i1/Workpoint.stream_720p/chunklist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"True4U",
+"image":"https://i.postimg.cc/N0C9cGbV/sd-24u.png",
+"url":"https://bettopfivemovie.com/true4u",
+"referer": "https://bettopfivemovie.com/tv-online/"
+},	
+{
+"name":"GMM 25",
+"image":"https://i.postimg.cc/FRffstBK/sd-gmm.png",
+"url":"https://we-play.tv/watching/tv/gmm25",
+"referer": "https://we-play.tv/tv/digital-tv"
+},	
+{
+"name":"8 HD ",
+"image":"https://i.postimg.cc/yNL6ZfZS/hd-ch8.png",
+"url":"https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Mono 29 ",
+"image":"https://i.postimg.cc/NLvQcSWZ/hd-mono.png",
+"url":"https://59ffdfa4495c3.streamlock.net/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},	
+{
+"name":"MCOT HD",
+"image":"https://i.postimg.cc/2yZCgrX4/hd-mcot.png",
+"url":"https://bettopfivemovie.com/9-mcot",
+"referer": "https://bettopfivemovie.com/tv-online/"
+},	
+{
+"name":"ONE",
+"image":"https://i.postimg.cc/vBDYLWr2/hd-gmmone.png",
+"url":"https://bettopfivemovie.com/one31",
+"referer": "https://bettopfivemovie.com/tv-online/"
+},	
+{
+"name":"Thairath TV",
+"image":"https://i.postimg.cc/hPVddBPz/hd-thairath.png",
+"url":"https://we-play.tv/watching/tv/thairath-tv",
+"referer": "https://we-play.tv/tv/digital-tv"
+},	
+{
+"name":"3 HD",
+"image":"https://i.postimg.cc/P5kqsvHN/hd-ch3.png",
+"url":"https://bettopfivemovie.com/ch3-hd",
+"referer": "https://bettopfivemovie.com/tv-online/"
+},	
+{
+"name":"Amarin TV",
+"image":"https://i.postimg.cc/wTNBGcSS/hd-amarin.png",
+"url":"https://bettopfivemovie.com/amarin-tv-hd",
+"referer": "https://bettopfivemovie.com/tv-online/"
+},	
+{
+"name":"7 HD",
+"image":"https://i.postimg.cc/9fmFz3rh/hd-ch7.png",
+"url":"https://bit.ly/3tOnsn7",
+"playInNatPlayer": "true"
+},
+{
+"name":"PPTV",
+"image":"https://i.postimg.cc/HWqMnxH1/hd-pptv.png",
+"url":"https://we-play.tv/watching/tv/pptv-hd",
+"referer": "https://we-play.tv/tv/digital-tv"
+},	
+{
+"name":"ALTV",
+"image":"https://i.postimg.cc/Hk2869MT/altv.png",
+"url":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+
+]
+}
