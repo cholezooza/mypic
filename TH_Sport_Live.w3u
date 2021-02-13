@@ -511,15 +511,14 @@
 {
 "name":"UK FreeSports",
 "image":"https://i.postimg.cc/tC1bMpC6/uk-freesport.jpg",
-"url":"https://www.liveballsod.com/tv-online/ch392/",
-"referer": "https://www.liveballsod.com",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 {
 "name":"UK PremiumSport 1",
 "image":"https://i.postimg.cc/ZYf6kqDw/uk-premi-sport.jpg",
 "url":"https://www.liveballsod.com/tv-online/ch380/",
-"referer": "https://www.liveballsod.com",
+"referer": "https://www.liveballsod.com/tv-online/",
 "playInNatPlayer": "true"
 },
 {
