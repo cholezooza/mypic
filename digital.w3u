@@ -1,5 +1,5 @@
 {
-"name": "Digital TV",
+"name": "TH Digital TV",
 "author": "@WHOAMI",
 "image": "https://i.postimg.cc/d17YvT2r/image.jpg",
 "url": "http://doona.cf/digital.w3u",
@@ -8,14 +8,14 @@
 {
 "name":"TV5HD",
 "image":"https://i.postimg.cc/sg9gVffm/hd-ch5.png",
-"url":"https://bettopfivemovie.com/tv5hd1",
-"referer": "https://bettopfivemovie.com/tv-online/"
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"NBT2HD",
 "image":"https://i.postimg.cc/T2LmTbzc/hd-nbt.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/sd-nbt.stream/chunks.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Thai PBS",
@@ -56,32 +56,36 @@
 {
 "name":"True4U",
 "image":"https://i.postimg.cc/N0C9cGbV/sd-24u.png",
-"url":"https://we-play.tv/watching/tv/true4u",
-"referer": "https://we-play.tv/tv/digital-tv"
+"url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
 },	
 {
 "name":"GMM 25",
 "image":"https://i.postimg.cc/FRffstBK/sd-gmm.png",
-"url":"https://we-play.tv/watching/tv/gmm25",
-"referer": "https://we-play.tv/tv/digital-tv"
+"url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
 },	
 {
 "name":"8 HD ",
 "image":"https://i.postimg.cc/yNL6ZfZS/hd-ch8.png",
-"url":"https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
-"playInNatPlayer": "true"
+"url": "https://www.thaich8.com/live?var_link=720p",
+"referer": "https://www.thaich8.com/"
 },
 {
 "name":"Mono 29 ",
 "image":"https://i.postimg.cc/NLvQcSWZ/hd-mono.png",
 "url":"https://59ffdfa4495c3.streamlock.net/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://mono29.com/"
 },	
 {
 "name":"MCOT HD",
 "image":"https://i.postimg.cc/2yZCgrX4/hd-mcot.png",
-"url":"https://bettopfivemovie.com/9-mcot",
-"referer": "https://bettopfivemovie.com/tv-online/"
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"ONE",
@@ -104,8 +108,8 @@
 {
 "name":"Amarin TV",
 "image":"https://i.postimg.cc/wTNBGcSS/hd-amarin.png",
-"url":"https://bettopfivemovie.com/amarin-tv-hd",
-"referer": "https://bettopfivemovie.com/tv-online/"
+"url": "https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/chunks.m3u8",
+"referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"7 HD",
@@ -123,7 +127,7 @@
 "name":"ALTV",
 "image":"https://i.postimg.cc/Hk2869MT/altv.png",
 "url":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
-"playInNatPlayer": "true"
+"referer": "https://www.thaipbs.or.th/"
 },
 
 
