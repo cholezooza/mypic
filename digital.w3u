@@ -20,8 +20,8 @@
 {
 "name":"Thai PBS",
 "image":"https://i.postimg.cc/0yxJGBbt/hd-tpbs.png",
-"url":"https://bettopfivemovie.com/thaipbs",
-"referer": "https://bettopfivemovie.com/tv-online/"
+"url":"https://we-play.tv/watching/tv/thai-pbs",
+"referer": "https://we-play.tv/tv/digital-tv"
 },	
 {
 "name":"TPTV",
@@ -56,8 +56,8 @@
 {
 "name":"True4U",
 "image":"https://i.postimg.cc/N0C9cGbV/sd-24u.png",
-"url":"https://bettopfivemovie.com/true4u",
-"referer": "https://bettopfivemovie.com/tv-online/"
+"url":"https://we-play.tv/watching/tv/true4u",
+"referer": "https://we-play.tv/tv/digital-tv"
 },	
 {
 "name":"GMM 25",
@@ -86,8 +86,8 @@
 {
 "name":"ONE",
 "image":"https://i.postimg.cc/vBDYLWr2/hd-gmmone.png",
-"url":"https://bettopfivemovie.com/one31",
-"referer": "https://bettopfivemovie.com/tv-online/"
+"url":"https://we-play.tv/watching/tv/one-hd",
+"referer": "https://we-play.tv/tv/digital-tv"
 },	
 {
 "name":"Thairath TV",
@@ -98,8 +98,8 @@
 {
 "name":"3 HD",
 "image":"https://i.postimg.cc/P5kqsvHN/hd-ch3.png",
-"url":"https://bettopfivemovie.com/ch3-hd",
-"referer": "https://bettopfivemovie.com/tv-online/"
+"url":"https://we-play.tv/watching/tv/ch3-hd",
+"referer": "https://we-play.tv/tv/digital-tv"
 },	
 {
 "name":"Amarin TV",
@@ -110,8 +110,8 @@
 {
 "name":"7 HD",
 "image":"https://i.postimg.cc/9fmFz3rh/hd-ch7.png",
-"url":"https://bit.ly/3tOnsn7",
-"playInNatPlayer": "true"
+"url":"https://we-play.tv/watching/tv/ch7-hd",
+"referer": "https://we-play.tv/tv/digital-tv"
 },
 {
 "name":"PPTV",
