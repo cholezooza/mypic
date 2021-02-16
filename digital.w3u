@@ -9,13 +9,15 @@
 "name":"TV5HD",
 "image":"https://i.postimg.cc/sg9gVffm/hd-ch5.png",
 "url": "https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"referer": "https://www.doofootball.com/live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"NBT2HD",
 "image":"https://i.postimg.cc/T2LmTbzc/hd-nbt.png",
 "url":"https://doofootball.livestream-cdn.com/iptv/sd-nbt.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"referer": "https://www.doofootball.com/live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"Thai PBS",
@@ -27,7 +29,8 @@
 "name":"TPTV",
 "image":"https://i.postimg.cc/xTVkY4y0/tptv.png",
 "url":"http://live.parliament.go.th/livestream/encoder3/playlist.m3u8",
-"referer": "http://live.parliament.go.th"
+"referer": "http://live.parliament.go.th",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"TNN16",
@@ -52,7 +55,7 @@
 "image":"https://i.postimg.cc/7ZxsncGY/TOP-NEWS.jpg",
 "url": "https://live.topnews.co.th/hls/topnews.m3u8",
 "referer": "https://www.topnews.co.th/",
-"playInNatPlayer": "true"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"Workpoint TV",
@@ -64,16 +67,14 @@
 "name":"True4U",
 "image":"https://i.postimg.cc/N0C9cGbV/sd-24u.png",
 "url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
-"userAgent": "exoplayer_video",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
 "playInNatPlayer": "true"
 },	
 {
 "name":"GMM 25",
 "image":"https://i.postimg.cc/FRffstBK/sd-gmm.png",
 "url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
-"userAgent": "exoplayer_video",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
 "playInNatPlayer": "true"
 },	
 {
@@ -83,16 +84,25 @@
 "referer": "https://www.thaich8.com/"
 },
 {
-"name":"Mono 29 ",
+"name":"Mono 29 (1080) ",
 "image":"https://i.postimg.cc/NLvQcSWZ/hd-mono.png",
-"url":"https://59ffdfa4495c3.streamlock.net/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8",
-"referer": "https://mono29.com/"
+"url":"https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8",
+"referer": "https://mono29.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},	
+{
+"name":"Mono 29 (720) ",
+"image":"https://i.postimg.cc/NLvQcSWZ/hd-mono.png",
+"url":"https://bettopfivemovie.com/mono-29/",
+"referer": "https://bettopfivemovie.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"MCOT HD",
 "image":"https://i.postimg.cc/2yZCgrX4/hd-mcot.png",
 "url": "https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"referer": "https://www.doofootball.com/live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"ONE",
@@ -116,7 +126,8 @@
 "name":"Amarin TV",
 "image":"https://i.postimg.cc/wTNBGcSS/hd-amarin.png",
 "url": "https://doofootball.livestream-cdn.com/iptv/hd-amarin.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"referer": "https://www.doofootball.com/live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"7 HD",
@@ -134,7 +145,8 @@
 "name":"ALTV",
 "image":"https://i.postimg.cc/Hk2869MT/altv.png",
 "url":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
-"referer": "https://www.thaipbs.or.th/"
+"referer": "https://www.thaipbs.or.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 
 
