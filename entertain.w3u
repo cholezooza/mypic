@@ -56,30 +56,30 @@
 },
 {
 "name":"HBO HD",
-"image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/51klb8iti2gw4kcs04.png",
-"url":"https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/hbohd/playlist.m3u8",
-"referer": "https://dootvthai-hd.com/",
+"image":"https://i.postimg.cc/N0kGB34X/hbo-hd.png",
+"url":"https://we-play.tv/watching/tv/hbo-hd",
+"referer": "https://we-play.tv/tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"HBO HITS",
-"image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/or0tslsqtkgoccck4c.png",
-"url":"https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/hitshd/playlist.m3u8",
-"referer": "https://dootvthai-hd.com/",
+"image":"https://i.postimg.cc/HxWYx6Zh/hbo-hits.png",
+"url":"http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8",
+"referer": "https://dootvthai-hd.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"HBO FAMILY MOVIES",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/h1rbooc29jscwo8kww.png",
-"url":"https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/famhd/playlist.m3u8",
-"referer": "https://we-dootvthai-hd.com/",
+"url":"https://we-play.tv/watching/tv/hbo-family",
+"referer": "https://we-play.tv/tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"HBO SIGNATURE",
-"image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/318stcp0hv6s040wo.png",
-"url":"https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/sigshd/playlist.m3u8",
-"referer": "https://dootvthai-hd.com/",
+"image":"https://i.postimg.cc/PqCGF07h/hbo-sig.png",
+"url":"https://we-play.tv/watching/tv/hbo-signature",
+"referer": "https://we-play.tv/tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
