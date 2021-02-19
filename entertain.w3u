@@ -160,13 +160,6 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
-"name":"M Channel",
-"image":"https://i.imgur.com/wNdpnUj.png",
-"url":"http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8",
-"referer": "https://www.m-channel.com",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
-},
-{
 "name":"Channel 8",
 "image":"https://i.postimg.cc/PqTmxLWX/Channel8-Thai.png",
 "url":"https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8",
@@ -207,7 +200,14 @@
 "url":"http://61.19.242.134:80/feed/LC53/index.m3u8",
 "referer": "https://cdn6.goprimetime.info",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
-
+},
+{
+"name":"M Channel",
+"image":"https://i.imgur.com/wNdpnUj.png",
+"url":"http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8",
+"referer": "https://www.m-channel.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
 
 }]
 
