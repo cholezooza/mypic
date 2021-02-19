@@ -141,8 +141,8 @@
 {
 "name":"True Asian Series",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/gs4p5713p8g0w4c4oo.png",
-"url":"https://www.doo2you.com/doballsod/tv/160",
-"referer": "https://we-play.tv/tv/",
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8",
+"referer": "https://www.doo2you.com/doballsod/tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
@@ -175,7 +175,7 @@
 },
 {
 "name":"Sun",
-"image":"https://i.postimg.cc/3rqmpr5T/Samurai.jpg",
+"image":"https://i.postimg.cc/DwkGjCwp/Sun.jpg",
 "url":"http://61.19.242.134:80/feed/LC1/index.m3u8",
 "referer": "https://cdn6.goprimetime.info",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
@@ -206,6 +206,13 @@
 "image":"https://i.imgur.com/wNdpnUj.png",
 "url":"http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8",
 "referer": "https://www.m-channel.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name":"Mangorn",
+"image":"https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_320.png",
+"url":"https://tv.trueid.net/embed/Mangorn",
+"referer": "https://tv.trueid.net/live",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 
 
