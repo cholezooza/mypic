@@ -1,5 +1,5 @@
 {
-"name": "ENTERTAINMENT",
+"name": "ENTERTAINMENT 2",
 "author": "@WHOAMI",
 "image": "https://i.postimg.cc/xT0H87tL/Devil.jpg",
 "url": "http://doona.cf/entertain.w3u",
@@ -18,9 +18,7 @@
 {
 "name":"Fox Life",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/or0tslsqtkgoccck4c.png",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-foxlife.stream/chunks.m3u8",
-"referer": "https://www.doo2you.com/doballsod/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"https://we-play.tv/watching/tv/fox-life"
 },
 {
 "name":"Fox Family Movies",
@@ -30,124 +28,92 @@
 {
 "name":"Fox Action Movies",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/318stcp0hv6s040wo.png",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/chunks.m3u8",
-"referer": "https://www.doo2you.com/doballsod/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"https://we-play.tv/watching/tv/fox-action-movies"
 },
 {
 "name":"AXN HD",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1037hjpkdcb48wk8wk.png",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/chunks.m3u8",
-"referer": "https://www.doo2you.com/doballsod/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/chunks.m3u8"
 },
 {
 "name":"WARNER TV",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/49xsdb3l2mecow8gk.png",
-"url":"https://we-play.tv/watching/tv/warner-tv",
-"referer": "https://we-play.tv/tv/"
+"url":"https://we-play.tv/watching/tv/warner-tv"
 },
 {
 "name":"HBO HD",
 "image":"https://i.postimg.cc/N0kGB34X/hbo-hd.png",
-"url":"https://we-play.tv/watching/tv/hbo-hd",
-"referer": "https://we-play.tv/tv/"
+"url":"https://we-play.tv/watching/tv/hbo-hd"
 },
 {
 "name":"HBO HITS",
 "image":"https://i.postimg.cc/HxWYx6Zh/hbo-hits.png",
-"url":"http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8",
-"referer": "https://dootvthai-hd.com",
-"userAgent": "exoplayer_video"
+"url":"http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8"
 },
 {
 "name":"HBO FAMILY MOVIES",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/h1rbooc29jscwo8kww.png",
-"url":"https://we-play.tv/watching/tv/hbo-family",
-"referer": "https://we-play.tv/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"https://we-play.tv/watching/tv/hbo-family"
 },
 {
 "name":"HBO SIGNATURE",
 "image":"https://i.postimg.cc/PqCGF07h/hbo-sig.png",
-"url":"https://we-play.tv/watching/tv/hbo-signature",
-"referer": "https://we-play.tv/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"https://we-play.tv/watching/tv/hbo-signature"
 },
 {
 "name":"CINEMAX",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/n6ntylzcujkgcok8k.png",
-"url":"https://we-play.tv/watching/tv/cinemax",
-"referer": "https://we-play.tv/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"https://we-play.tv/watching/tv/cinemax"
 },
 {
 "name":"RED BY HBO",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/s8g2529o5hc488cs4w.png",
-"url":"https://we-play.tv/watching/tv/red-by-hbo",
-"referer": "https://we-play.tv/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"https://we-play.tv/watching/tv/red-by-hbo"
 },
 {
 "name":"Blue Entertainment",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/uh1cnix3h4gskwg4c8.png",
-"url":"https://we-play.tv/watching/tv/blueant-entertainment",
-"referer": "https://we-play.tv/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"https://we-play.tv/watching/tv/blueant-entertainment"
 },
 {
 "name":"Blue Extreme",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2qcis2n67rok48wg0o.png",
-"url":"https://we-play.tv/watching/tv/blueant-extreme",
-"referer": "https://we-play.tv/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"https://we-play.tv/watching/tv/blueant-extreme"
 },
 {
 "name":"True Thai Film",
 "image":"https://i.postimg.cc/xqDBkCj1/thaifilm.png",
-"url":"http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8",
-"referer": "https://www.doo2you.com/doballsod/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8"
 },
 {
 "name":"True Series",
 "image":"https://i.postimg.cc/jdhNyGwT/rez-true-serie.png",
-"url":"http://160.119.77.116:8081/iptv/sd-series.stream/playlist.m3u8",
-"referer": "https://www.doo2you.com/doballsod/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"http://160.119.77.116:8081/iptv/sd-series.stream/playlist.m3u8"
 },
 {
 "name":"Film HD",
 "image":"https://i.postimg.cc/wvrCp2SJ/truefilm.png",
-"url":"https://we-play.tv/watching/tv/true-film-hd",
-"referer": "https://we-play.tv/tv/"
+"url":"https://we-play.tv/watching/tv/true-film-hd"
 },
 {
 "name":"Film HD2",
 "image":"https://i.postimg.cc/8c5PBkzW/truefilm2.png",
-"url":"https://we-play.tv/watching/tv/true-film-hd-2",
-"referer": "https://we-play.tv/tv/"
+"url":"https://we-play.tv/watching/tv/true-film-hd-2"
 },
 {
 "name":"True Asian Series",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/gs4p5713p8g0w4c4oo.png",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8",
-"referer": "https://www.doo2you.com/doballsod/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8"
 },
 {
 "name":"Paramount",
 "image":"https://i.postimg.cc/Fsk97dpN/paramount.png",
-"url":"https://we-play.tv/watching/tv/paramount-channel",
-"referer": "https://we-play.tv/tv/"
+"url":"https://we-play.tv/watching/tv/paramount-channel"
 },
 {
 "name":"ZEE NUNG",
 "image":"https://img-cdn.we-play.tv/posters/-poster1602704662.jpeg",
-"url":"http://61.19.242.134:80/feed/LC5/index.m3u8",
-"referer": "https://cdn6.goprimetime.info",
-"userAgent": "exoplayer_video",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"http://61.19.242.134:80/feed/LC5/index.m3u8"
 },
 {
 "name":"Channel 8",
