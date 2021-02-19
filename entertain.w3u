@@ -28,7 +28,7 @@
 },
 {
 "name":"Fox Family Movies",
-"image":"https://www.img07.xyz/assets/img/ch_logo/hd-foxfamily.png",
+"image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/kgkk6oy51dcockck0s.png",
 "url":"https://we-play.tv/watching/tv/fox-family-movies",
 "referer": "https://we-play.tv/tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
@@ -167,13 +167,6 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
-"name":"True Thai Film",
-"image":"https://i.postimg.cc/xqDBkCj1/thaifilm.png",
-"url":"http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8",
-"referer": "https://www.doo2you.com/doballsod/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
-},
-{
 "name":"Channel 8",
 "image":"https://i.postimg.cc/PqTmxLWX/Channel8-Thai.png",
 "url":"https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8",
@@ -189,28 +182,28 @@
 },
 {
 "name":"Sun",
-"image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/gs4p5713p8g0w4c4oo.png",
+"image":"https://i.postimg.cc/3rqmpr5T/Samurai.jpg",
 "url":"http://61.19.242.134:80/feed/LC1/index.m3u8",
 "referer": "https://cdn6.goprimetime.info",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"Samurai",
-"image":"https://i.postimg.cc/Fsk97dpN/paramount.png",
+"image":"https://i.postimg.cc/3rqmpr5T/Samurai.jpg",
 "url":"http://61.19.242.134:80/feed/LC2/index.m3u8",
 "referer": "https://cdn6.goprimetime.info",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"Box Film",
-"image":"https://img-cdn.we-play.tv/posters/-poster1602704662.jpeg",
+"image":"https://i.postimg.cc/pLDfRQnc/Box-Film-edt.png",
 "url":"http://61.19.242.134:80/feed/LC52/index.m3u8",
 "referer": "https://cdn6.goprimetime.info",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"Sanook Movies",
-"image":"https://i.imgur.com/wNdpnUj.png",
+"image":"https://i.postimg.cc/bN2bRXp2/Sanook.jpg",
 "url":"http://61.19.242.134:80/feed/LC53/index.m3u8",
 "referer": "https://cdn6.goprimetime.info",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
