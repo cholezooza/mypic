@@ -8,7 +8,7 @@
 {
 "name":"TV5HD",
 "image":"https://i.postimg.cc/sg9gVffm/hd-ch5.png",
-"url": "http://110.170.117.27:1935/apptv5hd1live/vdo/playlist.m3u8",
+"url": "https://junctv.tk/tv5.html",
 "referer": "https://www.tv5.co.th",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
@@ -36,19 +36,19 @@
 {
 "name":"TNN16",
 "image":"https://i.postimg.cc/XNCZRb5H/sd-tnn.png",
-"url":"https://edge6a.v2h-cdn.com/m2i1/TNN24.stream_720p/chunkslist.m3u8",
+"url":"http://916309128f3e.sn.mynetname.net:1935/aslive/tnn/chunks.m3u8",
 "playInNatPlayer": "true"
 },	
 {
 "name":"NEW TV",
 "image":"https://i.postimg.cc/hvTfTLgW/sd-new.png",
-"url":"https://edge6a.v2h-cdn.com/m2i1/NEW.stream_720p/chunklist.m3u8",
+"url":"http://916309128f3e.sn.mynetname.net:1935/aslive/newtv/chunks.m3u8",
 "playInNatPlayer": "true"
 },	
 {
 "name":"Nation TV",
 "image":"https://i.postimg.cc/d1zhhWbj/sd-nation.png",
-"url":"https://edge6a.v2h-cdn.com/m2i1/Nation.stream_720p/chunkslist.m3u8",
+"url":"http://916309128f3e.sn.mynetname.net:1935/aslive/nationtv/chunks.m3u8",
 "playInNatPlayer": "true"
 },
 {
@@ -61,7 +61,7 @@
 {
 "name":"Workpoint TV",
 "image":"https://i.postimg.cc/6Qp2g4Vn/hd-workpoint.png",
-"url":"https://edge6a.v2h-cdn.com/m2i1/Workpoint.stream_720p/chunklist.m3u8",
+"url":"http://916309128f3e.sn.mynetname.net:1935/aslive/workpoint/chunks.m3u8",
 "playInNatPlayer": "true"
 },	
 {
@@ -88,7 +88,7 @@
 {
 "name":"Mono 29 (1080) ",
 "image":"https://i.postimg.cc/NLvQcSWZ/hd-mono.png",
-"url":"https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8",
+"url":"https://junctv.tk/mono29.html",
 "referer": "https://mono29.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
