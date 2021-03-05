@@ -8,9 +8,8 @@
 {
 "name":"TV5HD",
 "image":"https://i.postimg.cc/sg9gVffm/hd-ch5.png",
-"url": "https://junctv.tk/tv5.html",
-"referer": "https://www.tv5.co.th",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url": "https://live-cdn.allhilight.com/abr_live/tv5/live/tv5_720p/chunks.m3u8",
+"playInNatPlayer": "true"
 },	
 {
 "name":"NBT2HD",
@@ -86,25 +85,24 @@
 "playInNatPlayer": "true"
 },
 {
-"name":"Mono 29 (1080) ",
+"name":"Mono 29",
 "image":"https://i.postimg.cc/NLvQcSWZ/hd-mono.png",
-"url":"https://junctv.tk/mono29.html",
+"url":"https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8",
 "referer": "https://mono29.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
-"name":"Mono 29 (1080) ",
+"name":"Mono 29 ",
 "image":"https://i.postimg.cc/NLvQcSWZ/hd-mono.png",
-"url":"https://sordigitaltv.shortcm.li/MONO29/sorchelsea.m3u8",
-"referer": "https://mono29.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"https://cdn6.goprimetime.info/feed/chmono29/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
+"playInNatPlayer": "true"
 },	
 {
 "name":"MCOT HD",
 "image":"https://i.postimg.cc/2yZCgrX4/hd-mcot.png",
-"url": "https://sordigitaltv.shortcm.li/MCOTHD/sorchelsea.m3u8",
-"referer": "http://www.mcot.net",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url": "https://laos-tech-live.b-cdn.net/hd-mcot_720/index.m3u8",
+"playInNatPlayer": "true"
 },	
 {
 "name":"ONE",
