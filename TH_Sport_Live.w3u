@@ -6,56 +6,61 @@
 "info": "", "stations": 
 [ 
 {
-"name":"True Premier League 1",
+"name":"Premier FHD 1",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
+"url":"https://bit.ly/3rX9oWJ",
+"referer": "https://ballnaka.tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name":"Premier HD 1(88)",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
 "url":"https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8",
 "referer": "https://www.doofree88.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
-"name":"True Premier League 1",
+"name":"Premier HD 1",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8",
-"referer": "https://www.doo2you.com/watch-tv-online/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"https://live.atvlb.com/live/tpf1_480/chunks.m3u8"
 },
 {
-"name":"True Premier League 1",
+"name":"Premier HD 1 (888)",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
 "url":"https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd1/",
 "referer": "https://www.andaman888th.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
-"name":"True Premier League 1+",
+"name":"Premier HD 1+",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
 "url":"https://we-play.tv/watching/tv/true-premier-football-hd-1",
 "referer": "https://we-play.tv/tv/sports",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
-"name":"True Premier League 2",
+"name":"Premier HD 2",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl2.jpg",
 "url":"https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd2/",
 "referer": "https://www.andaman888th.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
-"name":"True Premier League 3",
+"name":"Premier HD 3",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl3.jpg",
 "url":"https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd3/",
 "referer": "https://www.andaman888th.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
-"name":"True Premier League 4",
+"name":"Premier HD 4",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl4.jpg",
 "url":"https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd4/",
 "referer": "https://www.andaman888th.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
-"name":"True Premier League 5",
+"name":"Premier HD 5",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl5.jpg",
 "url":"https://www.andaman888th.com/ดูบอลออนไลน์/truepremierfootballhd5/",
 "referer": "https://www.andaman888th.com",
@@ -632,4 +637,3 @@
 },	
 ]
 }
-
