@@ -82,8 +82,8 @@
 {
 "name":"True Sport HD 1",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport1.jpg",
-"url":"https://www.andaman888th.com/ดูบอลออนไลน์/truesporthd3/",
-"referer": "https://www.andaman888th.com",
+"url":"https://www.doofree88.com/live/sport-hd-1",
+"referer": "https://www.doofree88.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
@@ -96,8 +96,8 @@
 {
 "name":"True Sport HD 2",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport2.jpg",
-"url":"https://www.andaman888th.com/ดูบอลออนไลน์/truesporthd2/",
-"referer": "https://www.andaman888th.com",
+"url":"https://www.doofree88.com/live/sport-hd-2",
+"referer": "https://www.doofree88.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
@@ -110,8 +110,8 @@
 {
 "name":"True Sport HD 3",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport3.jpg",
-"url":"https://www.andaman888th.com/ดูบอลออนไลน์/truesporthd3/",
-"referer": "https://www.andaman888th.com",
+"url":"https://www.doofree88.com/live/sport-hd-3",
+"referer": "https://www.doofree88.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
@@ -124,8 +124,8 @@
 {
 "name":"True Sport HD 4",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/hd-tsport4.jpg",
-"url":"https://www.andaman888th.com/ดูบอลออนไลน์/truesporthd4/",
-"referer": "https://www.andaman888th.com",
+"url":"https://www.doofree88.com/live/sport-hd-4",
+"referer": "https://www.doofree88.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
@@ -138,7 +138,8 @@
 "name":"True Sport 2",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport2.jpg",
 "url":"https://www.doofree88.com/live/sport-2",
-"referer": "https://www.doofree88.com"
+"referer": "https://www.doofree88.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"True Sport 2+",
@@ -150,7 +151,8 @@
 "name":"True Sport 5",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport5.jpg",
 "url":"https://www.doofree88.com/live/sport-5",
-"referer": "https://www.doofree88.com"
+"referer": "https://www.doofree88.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"True Sport 5+",
@@ -162,7 +164,8 @@
 "name":"True Sport 6",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport6.jpg",
 "url":"https://www.doofree88.com/live/sport-6",
-"referer": "https://www.doofree88.com"
+"referer": "https://www.doofree88.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"True Sport 6+",
@@ -174,7 +177,8 @@
 "name":"True Sport 7",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/sd-tsport7.jpg",
 "url":"https://www.doofree88.com/live/sport-7",
-"referer": "https://www.doofree88.com"
+"referer": "https://www.doofree88.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"True Sport 7+",
@@ -265,28 +269,39 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
+"name":"T-SPORT",
+"image":"http://www.tsportschannel.com/Images/logo-t-sport.png",
+"url":"https://www.doofree88.com/live/t-sports",
+"referer": "https://www.doofree88.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},	
+{
 "name":"Sky Sports Arena",
 "image":"https://i.postimg.cc/SQBQy5Xc/sky-arena.png",
-"url":"https://laos-tech-live.b-cdn.net/uk-skysports-arena_720/index.m3u8",
-"referer": "https://www.doofree88.com/"
+"url":"https://www.doofree88.com/live/sky-sports-arena",
+"referer": "https://www.doofree88.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"Sky Sports Football",
 "image":"https://i.postimg.cc/28t6B6XL/sky-ft.png",
-"url":"https://laos-tech-live.b-cdn.net/uk-skysports-football_720/index.m3u8",
-"referer": "https://www.doofree88.com/"
+"url":"https://www.doofree88.com/live/sky-sports-football",
+"referer": "https://www.doofree88.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"Sky Sports Mix",
 "image":"https://i.postimg.cc/Dz8R4vH0/sky-mix.png",
-"url":"https://laos-tech-live.b-cdn.net/uk-skysports-mix_480/index.m3u8",
-"referer": "https://www.doofree88.com/"
+"url":"https://www.doofree88.com/live/sky-sports-mix",
+"referer": "https://www.doofree88.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"Sky Sports Premier League",
 "image":"https://i.postimg.cc/mDT2GFhJ/sky-epl.png",
-"url":"https://laos-tech-live.b-cdn.net/uk-skysports-epl_720/index.m3u8",
-"referer": "https://www.doofree88.com/"
+"url":"https://www.doofree88.com/live/sky-sports-premier-league",
+"referer": "https://www.doofree88.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"Sky Sports Premier League FHD",
@@ -296,8 +311,9 @@
 {
 "name":"Sky Sports F1",
 "image":"https://i.postimg.cc/YjKsJQCm/sky-f1.png",
-"url":"https://laos-tech-live.b-cdn.net/uk-skysports-f1_720/index.m3u8",
-"referer": "https://www.doofree88.com/"
+"url":"https://www.doofree88.com/live/sky-sports-f1",
+"referer": "https://www.doofree88.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"Sky Sports Main Event",
