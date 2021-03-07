@@ -184,20 +184,17 @@
 {
 "name":"FOX SPORT HD 1",
 "image":"https://i.postimg.cc/SRnp665L/poster1602703682.jpg",
-"url":"https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8",
-"referer": "https://www.doofree88.com/"
+"url":"http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/17107.m3u8"
 },
 {
 "name":"FOX SPORT 2",
 "image":"https://i.postimg.cc/nrNf0sby/poster1602703688.jpg",
-"url":"https://laos-tech-live.b-cdn.net/sd-foxsports2_480/index.m3u8",
-"referer": "https://www.doofree88.com/"
+"url":"http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/17108.m3u8"
 },
 {
 "name":"FOX SPORT 3",
 "image":"https://i.postimg.cc/cHMVfDX8/poster1602703695.jpg",
-"url":"https://laos-tech-live.b-cdn.net/sd-foxsports3_480/index.m3u8",
-"referer": "https://www.doofree88.com/"
+"url":"http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/17109.m3u8"
 },
 {
 "name":"NBA TV",
@@ -363,6 +360,48 @@
 "referer": "https://www.doofootball.com/live/"
 },	
 {
+"name":"Skynet Sport HD",
+"image":"http://ballonlinenew.com/wp-content/uploads/2019/04/skynetsporthd.jpg",
+"url":"https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8",
+"referer": "https://www.livedoomovie.com/"
+},	
+{
+"name":"Skynet Sport 1",
+"image":"http://ballonlinenew.com/wp-content/uploads/2019/04/skynetsport1.jpg",
+"url":"https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8",
+"referer": "https://www.livedoomovie.com/"
+},	
+{
+"name":"Skynet Sport 2",
+"image":"http://ballonlinenew.com/wp-content/uploads/2019/04/skynetsport2.jpg",
+"url":"https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8",
+"referer": "https://www.livedoomovie.com/"
+},	
+{
+"name":"Skynet Sport 3",
+"image":"http://ballonlinenew.com/wp-content/uploads/2019/04/skynetsport3.jpg",
+"url":"https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8",
+"referer": "https://www.livedoomovie.com/"
+},	
+{
+"name":"Skynet Sport 4",
+"image":"http://ballonlinenew.com/wp-content/uploads/2019/04/skynetsport4.jpg",
+"url":"https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8",
+"referer": "https://www.livedoomovie.com/"
+},	
+{
+"name":"Skynet Sport 5",
+"image":"http://ballonlinenew.com/wp-content/uploads/2019/04/chskynetsport5.jpg",
+"url":"https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8",
+"referer": "https://www.livedoomovie.com/"
+},	
+{
+"name":"Skynet Sport 2",
+"image":"http://ballonlinenew.com/wp-content/uploads/2019/04/chskynetsport6.jpg",
+"url":"https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8",
+"referer": "https://www.livedoomovie.com/"
+},	
+{
 "name": "MU TV",  
 "image": "https://i.postimg.cc/cJhJtwxG/MUTV-logo.png",  
 "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/mutv/playlist.m3u8",
@@ -379,30 +418,22 @@
 {
 "name": "ASTRO SPORT 1",  
 "image": "https://i.postimg.cc/VNMvgVtN/831-300.png",  
-"url": "https://bettopfivemovie.com/astro-supersport-1-hd/",
-"referer": "https://bettopfivemovie.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url": "http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/23453.m3u8"
 },
 {
 "name": "ASTRO SPORT 2",  
 "image": "https://i.postimg.cc/9MhMnYPY/832-300.png",  
-"url": "https://bettopfivemovie.com/astro-supersport-2-hd/",
-"referer": "https://bettopfivemovie.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url": "http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/23452.m3u8"
 },
 {
 "name": "ASTRO SPORT 3",  
 "image": "https://i.postimg.cc/4dQdkHBk/833-300.png",  
-"url": "https://bettopfivemovie.com/astro-supersport-3-hd/",
-"referer": "https://bettopfivemovie.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url": "http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/23451.m3u8"
 },
 {
 "name": "ASTRO SPORT 4",  
 "image": "https://i.postimg.cc/L54sH4bq/834-300.png",  
-"url": "https://bettopfivemovie.com/astro-supersport-4-hd/",
-"referer": "https://bettopfivemovie.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url": "http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/33973.m3u8"
 },
 {
 "name":"SPORT TV 1",
@@ -442,16 +473,12 @@
 {
 "name": "ELEVEN SPORT 1",  
 "image": "https://i.postimg.cc/1XyFPRcQ/eleven-1.jpg",  
-"url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/elevensports1pt/playlist.m3u8",
-"referer": "https://pptvhd36live.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url": "http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/28711.m3u8"
 },
 {
 "name": "ELEVEN SPORT 2",  
 "image": "https://i.postimg.cc/CM4D7DSL/eleven-2.png",  
-"url": "http://mags.vip:2086/live/miriam/miriam123/92777.ts",
-"referer": "https://pptvhd36live.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url": "http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/28712.m3u8"
 },
 {
 "name":"TV 3 SPORT",
