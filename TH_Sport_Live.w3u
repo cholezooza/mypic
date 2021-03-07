@@ -15,14 +15,15 @@
 {
 "name":"Premier HD 1(88)",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
-"url":"https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8",
+"url":"https://www.doofree88.com/live/premier-football-hd-1",
 "referer": "https://www.doofree88.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"Premier HD 1",
 "image":"https://bettopfivemovie.com/wp-content/uploads/2020/06/doomovie-epl1.jpg",
-"url":"https://live.atvlb.com/live/tpf1_480/chunks.m3u8"
+"url":"https://live.atvlb.com/live/tpf1_480/chunks.m3u8",
+"playInNatPlayer": "true"
 },
 {
 "name":"Premier HD 1 (888)",
