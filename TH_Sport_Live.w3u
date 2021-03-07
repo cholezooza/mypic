@@ -437,9 +437,7 @@
 {
 "name": "LFC TV",  
 "image": "https://picon-13398.kxcdn.com/liverpoolfctv.jpg",  
-"url": "http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/3568.m3u8",
-"referer": "https://pptvhd36live.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url": "http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/3568.m3u8"
 },
 {
 "name": "ASTRO SPORT 1",  
