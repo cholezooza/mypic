@@ -265,48 +265,49 @@
 },	
 {
 "name":"Sky Sports Arena",
-"image":"https://picon-13398.kxcdn.com/skysportsarenahduk.jpg",
+"image":"https://i.postimg.cc/SQBQy5Xc/sky-arena.png",
 "url":"https://laos-tech-live.b-cdn.net/uk-skysports-arena_720/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"Sky Sports Football",
-"image":"https://picon-13398.kxcdn.com/skysportsfootballuk.jpg",
+"image":"https://i.postimg.cc/28t6B6XL/sky-ft.png",
 "url":"https://laos-tech-live.b-cdn.net/uk-skysports-football_720/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"Sky Sports Mix",
-"image":"https://picon-13398.kxcdn.com/skysportsmixhd.jpg",
+"image":"https://i.postimg.cc/Dz8R4vH0/sky-mix.png",
 "url":"https://laos-tech-live.b-cdn.net/uk-skysports-mix_480/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"Sky Sports Premier League",
-"image":"https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",
+"image":"https://i.postimg.cc/mDT2GFhJ/sky-epl.png",
 "url":"https://laos-tech-live.b-cdn.net/uk-skysports-epl_720/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"Sky Sports Premier League FHD",
-"image":"https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",
-"url":"http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/14655.m3u8",
-"referer": "https://www.doofree88.com/"
+"image":"https://i.postimg.cc/mDT2GFhJ/sky-epl.png",
+"url":"http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/14655.m3u8"
 },
 {
 "name":"Sky Sports F1",
-"image":"https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg",
+"image":"https://i.postimg.cc/YjKsJQCm/sky-f1.png",
 "url":"https://laos-tech-live.b-cdn.net/uk-skysports-f1_720/index.m3u8",
 "referer": "https://www.doofree88.com/"
 },
 {
 "name":"Sky Sports Main Event",
-"image":"https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",
-"url":"http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/14651.m3u8"
+"image":"https://i.postimg.cc/NFzgTJbv/sky-main.png",
+"url":"https://www.warpfootball.games/live/?ch=skysportmainevent",
+"referer": "https://www.warpfootball.games/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"Sky Sports Action",
-"image":"https://picon-13398.kxcdn.com/skysportsactionuk.jpg",
+"image":"https://i.postimg.cc/13DWNg5v/e3-365dm-com-1314-Logo.png",
 "url":"http://tv.iptvstack.net/live/Y21uDILR3H/TnuDSd6554/14653.m3u8"
 },
 {
@@ -503,14 +504,28 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
-"name":"SK Sport 1",
+"name":"Sport Klub 1",
 "image":"https://i.postimg.cc/grbXffGv/SPORT-KLUB-1-HD.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportklub1slovenia/playlist.m3u8",
 "referer": "https://pptvhd36live.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
-"name":"SK Sport 4",
+"name":"Sport Klub 2",
+"image":"https://i.postimg.cc/05F4BxJL/SPORT-KLUB-2-HD.jpg",
+"url":"https://www.warpfootball.games/live/?ch=sportklub2slovenia",
+"referer": "https://www.warpfootball.games/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name":"Sport Klub 3",
+"image":"https://i.postimg.cc/0NVWdqsX/SPORT-KLUB-3-HD.jpg",
+"url":"https://www.warpfootball.games/live/?ch=sportklub3slovenia",
+"referer": "https://www.warpfootball.games/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name":"Sport Klub 4",
 "image":"https://i.postimg.cc/NMLNdPGs/SPORT-KLUB-4-HD.jpg",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportklub4slovenia/playlist.m3u8",
 "referer": "https://pptvhd36live.com/",
