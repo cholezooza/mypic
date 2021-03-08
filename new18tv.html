@@ -1,10 +1,30 @@
+<!DOCTYPE HTML>
 <html>
-	<head>
-	<title>New TV</title>
-	</head>
+<head>
+<title>New 18 TV</title>
+<link rel="stylesheet" href="theme/style.css" type="text/css" media="screen" />
+
+<script type="text/javascript" src="jquery.min.js"></script> <!-- Load jquery -->
+<script type="text/javascript" src="projekktor.min.js"></script> <!-- load projektor -->
+</head>
 <body>
-	<center>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:"720";height:"480";position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://cdn6.goprimetime.info//feed//newtv//index.m3u8" width="720" height="480" allowfullscreen allow="autoplay"> </iframe> </div>
-	</center>
+
+<video id="player_a" class="projekktor" poster="intro.png" title="new18tv" width="640" height="360" controls="controls" />
+	<source src="https://cdn6.goprimetime.info//feed//newtv//index.m3u8" type="video/ogg" />
+	<source src="https://cdn6.goprimetime.info//feed//newtv//index.m3u8" type="video/mp4" />
+</video>
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+	projekktor ("#player_a', {
+		volume: 0.8,
+		playerFlashMP4: "http://www.yourdomain.com/StrobeMediaPlayback.swf',
+		playerFlashMP3: "http://www.yourdomain.com/StrobeMediaPlayback. Swf'
+		});
+});
+</script>
+
+
 </body>
 </html>
