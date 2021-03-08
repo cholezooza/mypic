@@ -329,63 +329,65 @@
 },
 {
 "name":"Bein Sports 1 AR",
-"image":"https://i.postimg.cc/rphSKqSg/beinsport1.jpg",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia1hd/playlist.m3u8",
-"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
+"image":"https://i.postimg.cc/v8XQ12c3/be-IN-SPORTS1-DIGITAL-Mono.png",
+"url":"http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/14980.m3u8"
 },	
 {
 "name":"Bein Sports 2 AR",
-"image":"https://i.postimg.cc/1tfDFbBS/beinsport2.jpg",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia2hd/playlist.m3u8",
-"referer": "https://xn--72c0aax6cd9aw3ducxk.com/"
+"image":"https://i.postimg.cc/Wz9jQzQQ/be-IN-SPORTS2-DIGITAL-Mono.png",
+"url":"http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/14982.m3u8"
 },	
 {
 "name":"Bein Sports 3 AR",
-"image":"https://i.postimg.cc/0QFD0ZXw/beinsport3.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein3.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"image":"https://i.postimg.cc/x8jnxMFv/be-IN-SPORTS3-DIGITAL-Mono.png",
+"url":"http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/14984.m3u8"
 },	
 {
 "name":"Bein Sports 4 AR",
-"image":"https://i.postimg.cc/kGS818Lh/beinsport4.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein4.stream/chunks.m3u8",
+"image":"https://i.postimg.cc/nzGnG0TV/be-IN-SPORTS4-DIGITAL-Mono.png",
+"url":"http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/14986.m3u8",
 "referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Bein Sports 5 AR",
-"image":"https://i.postimg.cc/BZPxn9tc/beinsport5.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein5.stream/chunks.m3u8",
+"image":"https://i.postimg.cc/9XBfdFNP/be-IN-SPORTS5-DIGITAL-Mono.png",
+"url":"http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/14988.m3u8",
 "referer": "https://www.doofootball.com/live/"
 },	
 {
 "name":"Bein Sports 6 AR",
-"image":"https://i.postimg.cc/kXrWV1br/beinsport6.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein6.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"image":"https://i.postimg.cc/5NN2ndZh/be-IN-SPORTS6-DIGITAL-Mono.png",
+"url":"http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/14990.m3u8"
 },	
 {
 "name":"Bein Sports 7 AR",
-"image":"https://i.postimg.cc/pXDzKffm/beinsport7.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein7.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"image":"https://i.postimg.cc/3xNWJ51X/be-IN-SPORTS7-DIGITAL-Mono.png",
+"url":"http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/14992.m3u8"
 },	
 {
-"name":"Bein Sports 8 AR",
-"image":"https://i.postimg.cc/8z4v0TnD/beinsport8.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein8.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"name":"Bein Sports 1 Premium",
+"image":"https://i.postimg.cc/qMjzTMsB/be-IN-SPORTS1-PREMIUM-Digital-Mono.png",
+"url":"http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/14994.m3u8"
 },	
 {
-"name":"Bein Sports 9 AR",
-"image":"https://i.postimg.cc/433cCjrc/beinsport9.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein9.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"name":"Bein Sports 2 Premium",
+"image":"https://i.postimg.cc/xjGX6Pqz/be-IN-SPORTS2-PREMIUM-Digital-Mono.png",
+"url":"http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/14996.m3u8"
 },	
 {
-"name":"Bein Sports 10 AR",
-"image":"https://i.postimg.cc/HLPyTBgh/beinsport10.jpg",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-bein10.stream/chunks.m3u8",
-"referer": "https://www.doofootball.com/live/"
+"name":"Bein Sports 3 Premium",
+"image":"https://i.postimg.cc/wMk339nV/be-IN-SPORTS3-PREMIUM-Digital-Mono.png",
+"url":"http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/14998.m3u8"
+},	
+{
+"name":"Bein Sports 1 English",
+"image":"https://i.postimg.cc/8CFFwQrp/be-IN-SPORTS1-ENGLISH-Digital-Mono.png",
+"url":"http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/15000.m3u8"
+},	
+{
+"name":"Bein Sports 2 English",
+"image":"https://i.postimg.cc/DwpJqy0p/be-IN-SPORTS2-ENGLISH-Digital-Mono.png",
+"url":"http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/15001.m3u8"
 },	
 {
 "name":"Skynet Sport HD",
