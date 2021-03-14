@@ -81,7 +81,6 @@
 "image":"https://i.postimg.cc/yNL6ZfZS/hd-ch8.png",
 "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
-"playInNatPlayer": "true"
 },
 {
 "name":"Mono 29 (480p)",
@@ -91,11 +90,10 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
-"name":"Mono 29 (720) ",
+"name":"Mono 29 (720)",
 "image":"https://i.postimg.cc/NLvQcSWZ/hd-mono.png",
 "url":"https://cdn6.goprimetime.info/feed/chmono29/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
-"playInNatPlayer": "true"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"MCOT HD",
@@ -223,7 +221,6 @@
 "referer": "https://we-play.tv",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
-
 
 ]
 }
