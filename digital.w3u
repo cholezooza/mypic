@@ -37,22 +37,19 @@
 "name":"TNN16",
 "image":"https://i.postimg.cc/XNCZRb5H/sd-tnn.png",
 "url": "https://cdn6.goprimetime.info/feed/chtnn/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
-"playInNatPlayer": "true"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"NEW TV",
 "image":"https://i.postimg.cc/hvTfTLgW/sd-new.png",
 "url": "https://cdn6.goprimetime.info/feed/newtv/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
-"playInNatPlayer": "true"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"Nation TV",
 "image":"https://i.postimg.cc/d1zhhWbj/sd-nation.png",
 "url": "https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
-"playInNatPlayer": "true"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"TOP NEWS",
@@ -65,28 +62,25 @@
 "name":"Workpoint TV",
 "image":"https://i.postimg.cc/6Qp2g4Vn/hd-workpoint.png",
 "url": "https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
-"playInNatPlayer": "true"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"True4U",
 "image":"https://i.postimg.cc/N0C9cGbV/sd-24u.png",
 "url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
-"playInNatPlayer": "true"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"GMM 25",
 "image":"https://i.postimg.cc/FRffstBK/sd-gmm.png",
 "url": "https://cdn6.goprimetime.info/feed/chgmm/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
-"playInNatPlayer": "true"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
 },	
 {
 "name":"8 HD ",
 "image":"https://i.postimg.cc/yNL6ZfZS/hd-ch8.png",
 "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 "playInNatPlayer": "true"
 },
 {
@@ -100,7 +94,7 @@
 "name":"Mono 29 (720) ",
 "image":"https://i.postimg.cc/NLvQcSWZ/hd-mono.png",
 "url":"https://cdn6.goprimetime.info/feed/chmono29/index.m3u8",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
 "playInNatPlayer": "true"
 },	
 {
