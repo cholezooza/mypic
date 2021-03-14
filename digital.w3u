@@ -8,14 +8,15 @@
 {
 "name":"TV5HD",
 "image":"https://i.postimg.cc/sg9gVffm/hd-ch5.png",
-"url": "https://live-cdn.allhilight.com/abr_live/tv5/live/tv5_720p/chunks.m3u8",
-"playInNatPlayer": "true"
+"url": "https://www.doofree88.com/live/ช่อง-5-hd",
+"referer": "https://www.doofree88.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"NBT2HD",
 "image":"https://i.postimg.cc/T2LmTbzc/hd-nbt.png",
-"url":"http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8",
-"referer": "http://live2.dootvde.com/live/",
+"url":"https://www.doofree88.com/live/nbt",
+"referer": "https://www.doofree88.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
@@ -35,32 +36,36 @@
 {
 "name":"TNN16",
 "image":"https://i.postimg.cc/XNCZRb5H/sd-tnn.png",
-"url":"http://916309128f3e.sn.mynetname.net:1935/aslive/tnn/chunks.m3u8",
+"url": "https://cdn6.goprimetime.info/feed/chtnn/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
 "playInNatPlayer": "true"
 },	
 {
 "name":"NEW TV",
 "image":"https://i.postimg.cc/hvTfTLgW/sd-new.png",
-"url":"http://916309128f3e.sn.mynetname.net:1935/aslive/newtv/chunks.m3u8",
+"url": "https://cdn6.goprimetime.info/feed/newtv/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
 "playInNatPlayer": "true"
 },	
 {
 "name":"Nation TV",
 "image":"https://i.postimg.cc/d1zhhWbj/sd-nation.png",
-"url":"http://916309128f3e.sn.mynetname.net:1935/aslive/nationtv/chunks.m3u8",
+"url": "https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
 "playInNatPlayer": "true"
 },
 {
 "name":"TOP NEWS",
 "image":"https://i.postimg.cc/7ZxsncGY/TOP-NEWS.jpg",
-"url": "https://live.topnews.co.th/hls/topnews.m3u8",
+"url": "https://www.topnews.co.th/",
 "referer": "https://www.topnews.co.th/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"Workpoint TV",
 "image":"https://i.postimg.cc/6Qp2g4Vn/hd-workpoint.png",
-"url":"http://916309128f3e.sn.mynetname.net:1935/aslive/workpoint/chunks.m3u8",
+"url": "https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
 "playInNatPlayer": "true"
 },	
 {
@@ -81,18 +86,18 @@
 "name":"8 HD ",
 "image":"https://i.postimg.cc/yNL6ZfZS/hd-ch8.png",
 "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
-"referer": "https://www.thaich8.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
 "playInNatPlayer": "true"
 },
 {
-"name":"Mono 29",
+"name":"Mono 29 (480p)",
 "image":"https://i.postimg.cc/NLvQcSWZ/hd-mono.png",
-"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/mono_480p/chunks.m3u8",
-"referer": "https://mono29.com/",
+"url":https://we-play.tv/watching/tv/mono29",
+"referer": "https://we-play.tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
-"name":"Mono 29 ",
+"name":"Mono 29 (720) ",
 "image":"https://i.postimg.cc/NLvQcSWZ/hd-mono.png",
 "url":"https://cdn6.goprimetime.info/feed/chmono29/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null", 
@@ -101,21 +106,22 @@
 {
 "name":"MCOT HD",
 "image":"https://i.postimg.cc/2yZCgrX4/hd-mcot.png",
-"url": "https://laos-tech-live.b-cdn.net/hd-mcot_720/index.m3u8",
-"playInNatPlayer": "true"
+"url": "https://www.doofree88.com/live/mcot-hd",
+"referer": "https://www.doofree88.com,
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"ONE",
 "image":"https://i.postimg.cc/vBDYLWr2/hd-gmmone.png",
 "url":"https://we-play.tv/watching/tv/one-hd",
-"referer": "https://we-play.tv/tv/digital-tv",
+"referer": "https://we-play.tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"Thairath TV",
 "image":"https://i.postimg.cc/hPVddBPz/hd-thairath.png",
-"url":"https://live.thairath.co.th/trtv2/playlist.m3u8",
-"referer": "https://www.thairath.co.th",
+"url":"https://www.doofree88.com/live/ไทยรัฐทีวี",
+"referer": "https://www.doofree88.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
@@ -128,21 +134,29 @@
 {
 "name":"Amarin TV",
 "image":"https://i.postimg.cc/wTNBGcSS/hd-amarin.png",
-"url": "http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8",
-"referer": "http://live2.dootvde.com/live/",
+"url": "https://www.doofree88.com/live/amarin-hd",
+"referer": "https://www.doofree88.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
 "name":"7 HD",
 "image":"https://i.postimg.cc/9fmFz3rh/hd-ch7.png",
 "url":"https://we-play.tv/watching/tv/ch7-hd",
-"referer": "https://we-play.tv/tv/digital-tv"
+"referer": "https://we-play.tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"PPTV",
-"image":"https://i.postimg.cc/HWqMnxH1/hd-pptv.png",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
 "url":"https://www.andaman888th.com/ดูบอลออนไลน์/pptvhd/",
 "referer": "https://www.andaman888th.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},	
+{
+"name":"PPTV",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
+"url":"https://www.doofree88.com/live/pptv",
+"referer": "https://www.doofree88.com",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
@@ -159,7 +173,62 @@
 "referer": "https://pptvhd36live.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
-
+{
+"name":"Discovery Asia",
+"image":"https://img-cdn.we-play.tv/posters/discovery-asia-poster1602705589.jpeg",
+"url":"https://www.doofree88.com/live/discovery-asia",
+"referer": "https://www.doofree88.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},	
+{
+"name":"Discovery Channel",
+"image":"https://img-cdn.we-play.tv/posters/discovery-channel-poster1602705554.jpeg",
+"url":"https://www.doofree88.com/live/discovery-channel",
+"referer": "https://www.doofree88.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name":"Nation Geographic",
+"image":"https://img-cdn.we-play.tv/posters/national-geographic-poster1602705795.jpeg",
+"url":"https://www.doofree88.com/live/national-geographic",
+"referer": "https://www.doofree88.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name":"History",
+"image":"https://img-cdn.we-play.tv/posters/history-hd-poster1602705667.jpeg",
+"url":"https://www.doofree88.com/live/history",
+"referer": "https://www.doofree88.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name":"Love Nature 4K",
+"image":"https://img-cdn.we-play.tv/posters/lovenature-4k-poster1602705702.jpeg",
+"url":"https://we-play.tv/watching/tv/lovenature-4k",
+"referer": "https://we-play.tv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name":"Fox Thai",
+"image":"https://img-cdn.we-play.tv/posters/-poster1602704474.jpeg",
+"url":"https://we-play.tv/watching/tv/fox-thai",
+"referer": "https://we-play.tv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name":"HBO HD",
+"image":"https://img-cdn.we-play.tv/posters/-poster1602704474.jpeg",
+"url":"https://we-play.tv/watching/tv/hbo-hd",
+"referer": "https://we-play.tv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name":"Fox Movies Premium",
+"image":"https://img-cdn.we-play.tv/posters/-poster1602704489.jpeg",
+"url":"https://we-play.tv/watching/tv/fox-movies",
+"referer": "https://we-play.tv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
 
 
 ]
