@@ -186,10 +186,24 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
-"name": "Hostory",
+"name": "Nat GEO Wild",
+"image": "https://img-cdn.we-play.tv/posters/nat-geo-wild-poster1602705760.jpeg",
+"url": "https://we-play.tv/watching/tv/nat-geo-wild",
+"referer": "https://we-play.tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name": "History HD",
 "image": "https://img-cdn.we-play.tv/posters/history-hd-poster1602705667.jpeg",
 "url": "https://www.doofree88.com/live/history",
 "referer": " https://www.doofree88.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name": "H2",
+"image": "https://img-cdn.we-play.tv/posters/history-h2-poster1602705634.jpeg",
+"url": "https://we-play.tv/watching/tv/history-h2",
+"referer": "https://we-play.tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
