@@ -15,7 +15,7 @@
 {
 "name":"NBT2HD",
 "image":"https://i.postimg.cc/T2LmTbzc/hd-nbt.png",
-"url":"https://cdn6.goprimetime.info/feed/chtnbt/index.m3u8",
+"url":"https://cdn6.goprimetime.info/feed/chnbt/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
@@ -47,7 +47,7 @@
 {
 "name":"Nation TV",
 "image":"https://i.postimg.cc/d1zhhWbj/sd-nation.png",
-"url": "https://cdn6.goprimetime.info/feed/chtnation/index.m3u8",
+"url": "https://cdn6.goprimetime.info/feed/chnation/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
@@ -112,8 +112,7 @@
 {
 "name":"Thairath TV",
 "image":"https://i.postimg.cc/hPVddBPz/hd-thairath.png",
-"url":"https://live.thairath.co.th/trtv2/playlist.m3u8",
-"referer": "https://www.thairath.co.th",
+"url":"https://cdn6.goprimetime.info/feed/chthairath/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
