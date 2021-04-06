@@ -1,5 +1,5 @@
 {
-"name": "TH Digital TV",
+"name": "05.Digital TV",
 "author": "@WHOAMI",
 "image": "https://dynamic.brandcrowd.com/asset/logo/7aefe30d-5aa5-42d9-9a87-e30b2aa9ad41/logo?v=4",
 "imageScale": "centerCrop",
@@ -98,12 +98,12 @@
 {
 "name":"MCOT HD",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
-"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-mcot&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-mcot&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
 "playInNatPlayer": true },
 {
 "name":"ONE",
 "image":"https://i.postimg.cc/vBDYLWr2/hd-gmmone.png",
-"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-gmmone&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-gmmone&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
 "playInNatPlayer": true },
 {
 "name":"Thairath TV",
@@ -114,12 +114,12 @@
 {
 "name":"3 HD",
 "image":"https://i.postimg.cc/P5kqsvHN/hd-ch3.png",
-"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-ch3&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-ch3&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
 "playInNatPlayer": true },
 {
 "name":"Amarin TV",
 "image":"https://i.postimg.cc/wTNBGcSS/hd-amarin.png",
-"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-amarin&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-amarin&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
 "playInNatPlayer": true },
 {
 "name":"7 HD",
@@ -165,7 +165,7 @@
 {
 "name": "Nation Geographic",
 "image": "https://img-cdn.we-play.tv/posters/national-geographic-poster1602705795.jpeg",
-"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-natgeo&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
 "playInNatPlayer": true },
 {
 "name": "Nat GEO Wild",
@@ -174,7 +174,7 @@
 {
 "name": "History HD",
 "image": "https://img-cdn.we-play.tv/posters/history-hd-poster1602705667.jpeg",
-"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-history&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-history&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
 "playInNatPlayer": true },
 {
 "name": "H2",
