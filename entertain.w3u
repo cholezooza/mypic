@@ -1,5 +1,5 @@
 {
-"name": "ENTERTAINMENT 2",
+"name": "04.ENTERTAINMENT TV",
 "author": "@WHOAMI",
 "image": "https://i.postimg.cc/xT0H87tL/Devil.jpg",
 "url": "http://doona.cf/entertain.w3u",
@@ -11,10 +11,20 @@
 "url":"https://we-play.tv/watching/tv/fox-thai"
 },
 {
+"name":"Fox TH 2",
+"image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/qqgyc1ccpq8ws0osg8.png",
+"url": "https://embed-web.blackboxsys.net/player.php?channel=sd-fox&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"playInNatPlayer": true },
+{
 "name":"Fox Movies Premium",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/51klb8iti2gw4kcs04.png",
 "url":"https://we-play.tv/watching/tv/fox-movies"
 },
+{
+"name":"Fox Movies Premium 2",
+"image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/51klb8iti2gw4kcs04.png",
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-foxpremium&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"playInNatPlayer": true },
 {
 "name":"Fox Life",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/or0tslsqtkgoccck4c.png",
@@ -26,20 +36,20 @@
 "url":"https://we-play.tv/watching/tv/fox-family-movies"
 },
 {
-"name":"Fox Action Movies",
+"name":"Fox Action Movies 2",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/318stcp0hv6s040wo.png",
-"url":"https://we-play.tv/watching/tv/fox-action-movies"
-},
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-foxaction&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"playInNatPlayer": true },
 {
 "name":"AXN HD",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1037hjpkdcb48wk8wk.png",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/chunks.m3u8"
-},
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-axn&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"playInNatPlayer": true },
 {
 "name":"WARNER TV",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/49xsdb3l2mecow8gk.png",
-"url":"https://we-play.tv/watching/tv/warner-tv"
-},
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-warnertv&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"playInNatPlayer": true },
 {
 "name":"HBO HD",
 "image":"https://i.postimg.cc/N0kGB34X/hbo-hd.png",
@@ -48,7 +58,7 @@
 {
 "name":"HBO HITS",
 "image":"https://i.postimg.cc/HxWYx6Zh/hbo-hits.png",
-"url":"http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8"
+"url":"https://we-play.tv/watching/tv/hbo-hits"
 },
 {
 "name":"HBO FAMILY MOVIES",
@@ -83,33 +93,31 @@
 {
 "name":"True Thai Film",
 "image":"https://i.postimg.cc/xqDBkCj1/thaifilm.png",
-"url":"http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8"
+"url":"https://we-play.tv/watching/tv/true-thai-film"
 },
 {
-"name":"True Series",
-"image":"https://i.postimg.cc/jdhNyGwT/rez-true-serie.png",
-"url":"http://160.119.77.116:8081/iptv/sd-series.stream/playlist.m3u8"
-},
-{
-"name":"Film HD",
+"name":"True Film HD",
 "image":"https://i.postimg.cc/wvrCp2SJ/truefilm.png",
-"url":"https://we-play.tv/watching/tv/true-film-hd"
-},
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-tfilm&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"playInNatPlayer": true },
 {
-"name":"Film HD2",
-"image":"https://i.postimg.cc/8c5PBkzW/truefilm2.png",
-"url":"https://we-play.tv/watching/tv/true-film-hd-2"
-},
+"name":"HITS",
+"image":"https://i.postimg.cc/gk9Q0Xdh/hits.png",
+"url":"https://we-play.tv/watching/tv/hits" },
+{
+"name":"HITS MOVIES",
+"image":"https://i.postimg.cc/rFSbRVFP/hits-movies.png",
+"url":"https://we-play.tv/watching/tv/hits-movies" },
 {
 "name":"True Asian Series",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/gs4p5713p8g0w4c4oo.png",
-"url":"https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8"
-},
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-asian&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"playInNatPlayer": true },
 {
 "name":"Paramount",
 "image":"https://i.postimg.cc/Fsk97dpN/paramount.png",
-"url":"https://we-play.tv/watching/tv/paramount-channel"
-},
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-paramount&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"playInNatPlayer": true },
 {
 "name":"ZEE NUNG",
 "image":"https://img-cdn.we-play.tv/posters/-poster1602704662.jpeg",
@@ -172,8 +180,8 @@
 {
 "name":"Mangorn",
 "image":"https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_320.png",
-"url":"https://tv.trueid.net/embed/Mangorn",
-"referer": "https://tv.trueid.net/live",
+"url":"https://www.doomovie-hd.com/?r=tv_view&id=208",
+"referer": "https://www.doomovie-hd.com",
 "userAgent": "exoplayer_video",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 
