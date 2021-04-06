@@ -111,6 +111,11 @@
 "url": "https://embed-web.blackboxsys.net/player.php?channel=hd-asian&api_key=kmf743jnd","referer": "https://ufac4.com/",
 "playInNatPlayer": true },
 {
+"name":"Paramount",
+"image":"https://i.postimg.cc/Fsk97dpN/paramount.png",
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-paramount&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"playInNatPlayer": true },
+{
 "name":"HITS",
 "image":"https://i.postimg.cc/gk9Q0Xdh/hits.png",
 "url":"https://we-play.tv/watching/tv/hits" },
@@ -118,11 +123,6 @@
 "name":"HITS MOVIES",
 "image":"https://i.postimg.cc/rFSbRVFP/hits-movies.png",
 "url":"https://we-play.tv/watching/tv/hits-movies" },
-{
-"name":"Paramount",
-"image":"https://i.postimg.cc/Fsk97dpN/paramount.png",
-"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-paramount&api_key=kmf743jnd","referer": "https://ufac4.com/",
-"playInNatPlayer": true },
 {
 "name":"ZEE NUNG",
 "image":"https://img-cdn.we-play.tv/posters/-poster1602704662.jpeg",
