@@ -81,6 +81,11 @@
 "url":"https://we-play.tv/watching/tv/cinemax"
 },
 {
+"name":"RED BY HBO",
+"image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/s8g2529o5hc488cs4w.png",
+"url":"https://we-play.tv/watching/tv/red-by-hbo"
+},
+{
 "name":"Blue Entertainment",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/uh1cnix3h4gskwg4c8.png",
 "url":"https://we-play.tv/watching/tv/blueant-entertainment"
@@ -89,11 +94,6 @@
 "name":"Blue Extreme",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2qcis2n67rok48wg0o.png",
 "url":"https://we-play.tv/watching/tv/blueant-extreme"
-},
-{
-"name":"RED BY HBO",
-"image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/s8g2529o5hc488cs4w.png",
-"url":"https://we-play.tv/watching/tv/red-by-hbo"
 },
 {
 "name":"True Thai Film",
