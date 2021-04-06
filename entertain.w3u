@@ -36,10 +36,15 @@
 "url":"https://we-play.tv/watching/tv/fox-family-movies"
 },
 {
-"name":"Fox Action Movies 2",
+"name":"Fox Action Movies ",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/318stcp0hv6s040wo.png",
 "url": "https://embed-web.blackboxsys.net/player.php?channel=hd-foxaction&api_key=kmf743jnd","referer": "https://ufac4.com/",
 "playInNatPlayer": true },
+{
+"name":"Fox Action Movies 2",
+"image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/318stcp0hv6s040wo.png",
+"url": "https://we-play.tv/watching/tv/fox-action-movies"
+},
 {
 "name":"AXN HD",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1037hjpkdcb48wk8wk.png",
@@ -76,11 +81,6 @@
 "url":"https://we-play.tv/watching/tv/cinemax"
 },
 {
-"name":"RED BY HBO",
-"image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/s8g2529o5hc488cs4w.png",
-"url":"https://we-play.tv/watching/tv/red-by-hbo"
-},
-{
 "name":"Blue Entertainment",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/uh1cnix3h4gskwg4c8.png",
 "url":"https://we-play.tv/watching/tv/blueant-entertainment"
@@ -89,6 +89,11 @@
 "name":"Blue Extreme",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2qcis2n67rok48wg0o.png",
 "url":"https://we-play.tv/watching/tv/blueant-extreme"
+},
+{
+"name":"RED BY HBO",
+"image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/s8g2529o5hc488cs4w.png",
+"url":"https://we-play.tv/watching/tv/red-by-hbo"
 },
 {
 "name":"True Thai Film",
@@ -101,6 +106,11 @@
 "url": "https://embed-web.blackboxsys.net/player.php?channel=hd-tfilm&api_key=kmf743jnd","referer": "https://ufac4.com/",
 "playInNatPlayer": true },
 {
+"name":"True Asian Series",
+"image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/gs4p5713p8g0w4c4oo.png",
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-asian&api_key=kmf743jnd","referer": "https://ufac4.com/",
+"playInNatPlayer": true },
+{
 "name":"HITS",
 "image":"https://i.postimg.cc/gk9Q0Xdh/hits.png",
 "url":"https://we-play.tv/watching/tv/hits" },
@@ -108,11 +118,6 @@
 "name":"HITS MOVIES",
 "image":"https://i.postimg.cc/rFSbRVFP/hits-movies.png",
 "url":"https://we-play.tv/watching/tv/hits-movies" },
-{
-"name":"True Asian Series",
-"image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/gs4p5713p8g0w4c4oo.png",
-"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-asian&api_key=kmf743jnd","referer": "https://ufac4.com/",
-"playInNatPlayer": true },
 {
 "name":"Paramount",
 "image":"https://i.postimg.cc/Fsk97dpN/paramount.png",
@@ -138,6 +143,14 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
+"name":"Box Film",
+"image":"https://i.postimg.cc/pLDfRQnc/Box-Film-edt.png",
+"url":"http://61.19.242.134:80/feed/LC52/index.m3u8",
+"referer": "https://cdn6.goprimetime.info",
+"userAgent": "exoplayer_video",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
 "name":"Sun",
 "image":"https://i.postimg.cc/DwkGjCwp/Sun.jpg",
 "url":"http://61.19.242.134:80/feed/LC1/index.m3u8",
@@ -149,14 +162,6 @@
 "name":"Samurai",
 "image":"https://i.postimg.cc/3rqmpr5T/Samurai.jpg",
 "url":"http://61.19.242.134:80/feed/LC2/index.m3u8",
-"referer": "https://cdn6.goprimetime.info",
-"userAgent": "exoplayer_video",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
-},
-{
-"name":"Box Film",
-"image":"https://i.postimg.cc/pLDfRQnc/Box-Film-edt.png",
-"url":"http://61.19.242.134:80/feed/LC52/index.m3u8",
 "referer": "https://cdn6.goprimetime.info",
 "userAgent": "exoplayer_video",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
