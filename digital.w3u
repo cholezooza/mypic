@@ -99,7 +99,8 @@
 "name":"MCOT HD",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0008.png",
 "url": "https://embed-web.blackboxsys.net/player.php?channel=hd-mcot&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" 
+},
 {
 "name":"ONE",
 "image":"https://i.postimg.cc/vBDYLWr2/hd-gmmone.png",
