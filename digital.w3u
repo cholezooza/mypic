@@ -18,7 +18,6 @@
 "url": "https://embed-web.blackboxsys.net/player.php?channel=hd-ch5&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
-},	
 {
 "name":"NBT2HD",
 "image":"https://i.postimg.cc/T2LmTbzc/hd-nbt.png",
@@ -32,6 +31,12 @@
 "referer": "https://we-play.tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
+{
+"name":"Thai PBS",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-tpbs&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
 {
 "name":"TPTV",
 "image":"https://i.postimg.cc/xTVkY4y0/tptv.png",
@@ -71,11 +76,23 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
+"name":"Workpoint TV",
+"image":"https://i.postimg.cc/6Qp2g4Vn/hd-workpoint.png",
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
 "name":"True4U",
 "image":"https://i.postimg.cc/N0C9cGbV/sd-24u.png",
 "url": "https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
+{
+"name":"True4U",
+"image":"https://i.postimg.cc/N0C9cGbV/sd-24u.png",
+"url": "https://embed-web.blackboxsys.net/player.php?channel=sd-24u&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
 {
 "name":"GMM 25",
 "image":"https://i.postimg.cc/FRffstBK/sd-gmm.png",
@@ -87,6 +104,12 @@
 "image":"https://i.postimg.cc/yNL6ZfZS/hd-ch8.png",
 "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8",
 "referer": "https://www.thaich8.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name":"8 HD ",
+"image":"https://i.postimg.cc/yNL6ZfZS/hd-ch8.png",
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-ch8&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
