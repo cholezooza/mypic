@@ -104,7 +104,8 @@
 "name":"ONE",
 "image":"https://i.postimg.cc/vBDYLWr2/hd-gmmone.png",
 "url": "https://embed-web.blackboxsys.net/player.php?channel=hd-gmmone&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
-"playInNatPlayer": true },
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
 {
 "name":"Thairath TV",
 "image":"https://i.postimg.cc/hPVddBPz/hd-thairath.png",
@@ -115,12 +116,19 @@
 "name":"3 HD",
 "image":"https://i.postimg.cc/P5kqsvHN/hd-ch3.png",
 "url": "https://embed-web.blackboxsys.net/player.php?channel=hd-ch3&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
-"playInNatPlayer": true },
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name":"3 HD Plus",
+"image":"https://i.postimg.cc/P5kqsvHN/hd-ch3.png",
+"url": "https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8","referer": "https://ch3plus.com/live",
+"playInNatPlayer": "true" },
 {
 "name":"Amarin TV",
 "image":"https://i.postimg.cc/wTNBGcSS/hd-amarin.png",
 "url": "https://embed-web.blackboxsys.net/player.php?channel=hd-amarin&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
-"playInNatPlayer": true },
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
 {
 "name":"7 HD",
 "image":"https://i.postimg.cc/9fmFz3rh/hd-ch7.png",
@@ -138,8 +146,9 @@
 {
 "name": " PPTV",
 "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",
-"url": "https://fifa55u.com/ballsod/ch004/","referer": "https://fifa55u.com/",
-"playInNatPlayer": true },
+"url": "https://embed-web.blackboxsys.net/player.php?channel=hd-pptv&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
 {
 "name":"ALTV",
 "image":"https://i.postimg.cc/Hk2869MT/altv.png",
