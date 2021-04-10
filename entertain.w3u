@@ -3,8 +3,18 @@
 "author": "@WHOAMI",
 "image": "https://i.postimg.cc/xT0H87tL/Devil.jpg",
 "url": "http://doona.cf/entertain.w3u",
-"info": "", "stations": 
-[ 
+"info": "Entertainment TV",
+ "groups": [  
+{
+"name": "Club Friday Series",
+"image": "https://github.com/cholezooza/mypic/raw/main/cfd.jpg",
+"url": "https://raw.githubusercontent.com/cholezooza/kingball/main/CFW.w3u",
+"import": false
+},
+{
+         "name": "Entertainment Channel",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/81ZtkDz95CL._AC_UL600_SR600,600_.png",
+"stations": [ 
 {
 "name":"Fox TH",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/qqgyc1ccpq8ws0osg8.png",
