@@ -12,6 +12,12 @@
 "import": false
 },
 {
+"name": "Big Movies",
+"image": "https://doona.cf/cinema.jpeg",
+"url": "http://doona.cf/H-Movies.w3u",
+"import": false
+},
+{
          "name": "Entertainment Channel",
           "image": "https://doona.cf/media.jpeg",
 "stations": [ 
