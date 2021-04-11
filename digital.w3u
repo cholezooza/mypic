@@ -121,7 +121,6 @@
 "name":"Mono 29 (480)",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
 "url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/mono_480p/chunks.m3u8",
-"referer": "https://mono29.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },	
 {
@@ -214,15 +213,20 @@
 {
 "name": "Discovery Asia",
 "image": "https://img-cdn.we-play.tv/posters/discovery-asia-poster1602705589.jpeg",
-"url": "https://we-play.tv/watching/tv/discovery-asia" },
+"url": "https://mediasv.online/tvchannel_x1/discovery-asia/playlist.m3u8" },
 {
 "name": "Discovery Channel",
 "image": "https://img-cdn.we-play.tv/posters/discovery-channel-poster1602705554.jpeg",
-"url": "https://we-play.tv/watching/tv/discovery-channel" },
+"url": "https://mediasv.online/tvchannel_x1/hd-discovery/playlist.m3u8" },
 {
 "name": "Nation Geographic",
 "image": "https://img-cdn.we-play.tv/posters/national-geographic-poster1602705795.jpeg",
 "url": "https://embed-web.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmcb4rf66f","referer": "https://dooball66.com/",
+"playInNatPlayer": true },
+{
+"name": "สำรวจโลก HD",
+"image": "https://i2.wp.com/www.nextsteptv.com/wp-content/uploads/2018/03/logo_SRL-01-26-03-.png?fit=300%2C100",
+"url": "https://cdn6.goprimetime.info/feed/LC8/index.m3u8",
 "playInNatPlayer": true },
 {
 "name": "Nat GEO Wild",
@@ -252,6 +256,12 @@
 "image": "https://img-cdn.we-play.tv/posters/animal-planet-poster1602705496.jpeg",
 "url": "https://we-play.tv/watching/tv/animal-planet",
 "referer": "https://we-play.tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
+{
+"name": "Animal Playnet",
+"image": "https://img-cdn.we-play.tv/posters/animal-planet-poster1602705496.jpeg",
+"url": "https://mediasv.online/tvchannel_x1/hd-animalplanet/playlist.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
