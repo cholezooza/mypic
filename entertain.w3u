@@ -1,19 +1,19 @@
 {
 "name": "04.ENTERTAINMENT TV",
 "author": "@WHOAMI",
-"image": "https://i.postimg.cc/xT0H87tL/Devil.jpg",
+"image": "https://i.postimg.cc/SQJ3F3mt/Angry-Devil.png",
 "url": "http://doona.cf/entertain.w3u",
 "info": "Entertainment TV",
  "groups": [  
 {
 "name": "Club Friday Series",
-"image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/32b02qevp2qsgocwo4.png",
+"image": "https://doona.cf/cfd.jpeg",
 "url": "https://raw.githubusercontent.com/cholezooza/kingball/main/CFW.w3u",
 "import": false
 },
 {
          "name": "Entertainment Channel",
-          "image": "https://images-na.ssl-images-amazon.com/images/I/81ZtkDz95CL._AC_UL600_SR600,600_.png",
+          "image": "https://doona.cf/media.jpeg",
 "stations": [ 
 {
 "name":"Fox TH",
