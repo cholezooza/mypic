@@ -1,19 +1,31 @@
 {
-"name": "Sunday Night Movies",
+"name": "Big Movies",
 "author": "@WHOAMI",
 "image": "https://i.postimg.cc/CKNKzYRR/h-movies.png",
 "url": "http://doona.cf/H-Movies.w3u",
 "info": "", "stations": 
 [ 
 {
+"name":"Goz vs Kong",
+"image":"https://cdn.majorcineplex.com/uploads/movie/2746/thumb_2746.jpg",
+"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/b6c7c58b8a26cbd37dda6797e117a547/b6c7c58b8a26cbd37dda6797e117a547.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},
+{
+"name":"โครตคนชนเอเลี่ยน",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLeCEBlYrWnRjR5xjc7gzxcqEYKGmlCbbOrA&usqp=CAU",
+"url":"http://sg-6.podzone.org:1935/movie3/Jiu_Jitsu_2020/Jiu_Jitsu_2020_thr_z1.mp4/playlist.m3u8",
+"referer": "https://www.doomovie-hd.com/"
+},
+{
 "name":"เฮ้ยลูกพี่ นี่ลูกพ่อ",
-"image":"https://www.doomovie-hd.com/assets/movie_poster/4/462acaec9f443b75b2c178680f7a2f4c.jpg",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4KUSiQnqvOqqyQxmxMv6NMsa3GZARDumaQ&usqp=CAU",
 "url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/c67a034bcf3ac9766be683fa1257c6e2/c67a034bcf3ac9766be683fa1257c6e2.m3u8",
 "referer": "https://www.doomovie-hd.com/"
 },
 {
 "name":"แฮนค๊อก ฮีโร่ขวางนรก",
-"image":"https://www.doomovie-hd.com/assets/movie_poster/f/f4d75c02a6c91825a0aa5e5dcc7d3084.jpg",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo4XTNCjTjCbHFl36x1ex4zoPEL1lSSEogbA&usqp=CAU",
 "url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/4837f1bee214d4eb8d1ffae66e662914/4837f1bee214d4eb8d1ffae66e662914.m3u8",
 "referer": "https://www.doomovie-hd.com/"
 },
@@ -25,7 +37,7 @@
 },
 {
 "name":"เกมส์เมอร์ เกมส์แม่",
-"image":"https://www.doomovie-hd.com/assets/movie_poster/b/bf85512d941652a770af642ebec0192c.jpg",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTTymqQPaBBHUD0uLfQiiLvI_n1kNc4V0ZFQ&usqp=CAU",
 "url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/3adcf011f4882fd43f8497d3b598d1cd/3adcf011f4882fd43f8497d3b598d1cd.m3u8",
 "referer": "https://www.doomovie-hd.com/"
 },
@@ -50,7 +62,7 @@
 },
 {
 "name":"Outside the Wire (2021) สมรภูมินอกลวดหนาม",
-"image":"https://www.doomovie-hd.com/assets/movie_poster/1/172ed2a74ce8526cfe98ea5568508958.jpg",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8kz2P6lb6v1ikSV_1GGWVw7PGJt7Q3BaqA&usqp=CAU",
 "url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/98dc714266251bd5c26ace8027d65085/98dc714266251bd5c26ace8027d65085.m3u8",
 "referer": "https://www.doomovie-hd.com/"
 },
