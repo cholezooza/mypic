@@ -6,19 +6,25 @@
 "info": "Entertainment TV",
  "groups": [  
 {
-"name": "Club Friday Series",
+"name": "01.Club Friday Series",
 "image": "https://doona.cf/cfd.jpeg",
 "url": "https://raw.githubusercontent.com/cholezooza/kingball/main/CFW.w3u",
 "import": false
 },
 {
-"name": "Big Movies",
+"name": "02.Big Movies",
 "image": "https://doona.cf/cinema.jpeg",
 "url": "http://doona.cf/H-Movies.w3u",
 "import": false
 },
+   {
+"name": "03.FreeSports",
+"image": "https://github.com/cholezooza/dooball/raw/main/moviesch.jpeg",
+"url": "https://dl.dropbox.com/s/hiwatfvv97rw4hy/Freesport.w3u",
+"import": false
+},
 {
-         "name": "Entertainment Channel",
+         "name": "04.Entertainment Channel",
           "image": "https://doona.cf/media.jpeg",
 "stations": [ 
 {
