@@ -1,7 +1,8 @@
 {
          "name": "01.My Style",
           "author": "By WHOAMI",                      
-          "image": "https://i.postimg.cc/SQJ3F3mt/Angry-Devil.png",  
+          "image": "https://doona.cf/tk_tv.png",
+"imageScale": "centerCrop",
           "url": "http://doona.cf/entertain.w3u",          
           "groups": [
 
