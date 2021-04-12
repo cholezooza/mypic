@@ -19,6 +19,13 @@
 "url": "https://raw.githubusercontent.com/cholezooza/streaming/main/We-Play.m3u",
 "import": false
 },
+{
+"name": "02.1 DigitalTV",
+          "author": "@WHOAMI",               
+"image": "https://cholezooza.github.io/mypic/weplay.jpeg",
+"url": "https://docs.google.com/uc?export=download&id=1DFY5Q4oj6HMrcL6FZZEWFbvZSXnCQ9l_",
+"import": false
+},
           
 
    
