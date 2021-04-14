@@ -5,6 +5,21 @@
 "url": "http://doona.cf/H-Movies.w3u",
 "info": "", "stations": 
 [ 
+{
+"name":"THE EXPENDABLES 1 (2010) โคตรคนทีมมหากาฬ 1",
+"image":"https://www.img09.xyz/assets/movie_poster/d/d26b664456f887e88ec1bf262b580916.jpeg",
+"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/df647a21b16cf8a168468b65bdd9c754/df647a21b16cf8a168468b65bdd9c754.m3u8"
+},
+{
+"name":"THE EXPENDABLES 2 (2012) โคตรคนทีมมหากาฬ 2",
+"image":"https://www.img09.xyz/assets/movie_poster/d/d410f46a899c68133e02d565b01183f8.jpg",
+"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/d606f3a4d50edf9eae7cb79f52f62d4b/d606f3a4d50edf9eae7cb79f52f62d4b.m3u8"
+},
+{
+"name":"THE EXPENDABLES 3 (2014) โคตรคนทีมมหากาฬ 3",
+"image":"https://www.img09.xyz/assets/movie_poster/import/poster_53e87a1c12db45_91187564.jpg",
+"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/6bc025da7d7f50028d56f474e3b17283/6bc025da7d7f50028d56f474e3b17283.m3u8"
+},
 
 {
 "url":"https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Red_Eye_2005/Red_Eye_2005_T.mp4/index.m3u8?st=vRdnp89H2rgjSK8EOinvuw&e=1618358774&u=AllMovie",
