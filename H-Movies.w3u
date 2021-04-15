@@ -16,6 +16,18 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEfKOZf38lmb9VlkQFLeRrqtGInaSOK9t2Q&usqp=CAU",
     "stations": [ 
 {
+"name":"XIII: The Conspiracy ล้างแผนบงการยอดจารชน 2008–",
+"image":"https://dooflix.com/wp-content/uploads/2021/03/MV5BZTk2ZTNhOTItZWMxNy00MTIwLWIwODYtNDg5ZGMzMmQ4NmRmXkEyXkFqcGdeQXVyMzI2ODkyNDg@._V1_SX300.jpg",
+"url":"https://dooflix.com/movie/xiii-the-conspiracy/",
+"info":"Action"
+},
+{
+"name":"JCVD ฌอง คล็อด แวน แดมม์ ข้านี่แหละคนมหาประลัย 2008",
+"image":"https://dooflix.com/wp-content/uploads/2021/03/MV5BNDAwMDg5MTY1N15BMl5BanBnXkFtZTcwMTU1MjcwMg@@._V1_SX300.jpg",
+"url":"https://dooflix.com/movie/jcvd/",
+"info":"Action"
+},
+{
 "name":"THE EXPENDABLES 1 (2010) โคตรคนทีมมหากาฬ 1",
 "image":"https://www.img09.xyz/assets/movie_poster/d/d26b664456f887e88ec1bf262b580916.jpeg",
 "url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/df647a21b16cf8a168468b65bdd9c754/df647a21b16cf8a168468b65bdd9c754.m3u8"
@@ -49,6 +61,18 @@
     "name": "Sci-Fi Movies", 
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2Uy43Nn8zbc_--4zKkJbdlKEPEoRBb0bow&usqp=CAU",       
     "stations": [ 
+{
+"name":"Solar Impact ซอมบี้สุริยะ2020",
+"image":"https://dooflix.com/wp-content/uploads/2021/04/MV5BNTk0MGE3MmEtZjEwOC00NWJkLWE3ZmUtNGQwMjgyYjZiYzgwXkEyXkFqcGdeQXVyMTA5NTk2MDA4._V1_SX300.jpg",
+"url":"https://dooflix.com/movie/assassins-creed/"
+"info":"dooflix, Sci-Fi" 
+},
+{
+"name":"Finding Altamira Altamira เดอะ ลาสต์ เวอเมียร์ (2016) [พากย์ไทย บรรยายไทย]",
+"image":"https://nungdeedee.com/uploads/images/2ug11fndweqs8s4kc4.jpg",
+"url":"https://nungdeedee.com/movie/info/16612/finding-altamira-altamira-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%B5-2016-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2",
+"info":"Sci-Fi"
+},
 {
 "name":"Goz vs Kong",
 "image":"https://cdn.majorcineplex.com/uploads/movie/2746/thumb_2746.jpg",
@@ -170,6 +194,18 @@
     "name": "Drama Movies", 
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IslUfi3wb0QO8aOnlgJ2OVQOV7T0HW-jHg&usqp=CAU",       
     "stations": [ 
+{
+"name":"The Last Vermeer เดอะ ลาสต์ เวอเมียร์ (2019) [พากย์ไทย บรรยายไทย]",
+"image":"https://nungdeedee.com/uploads/images/1qmpydcek1gkww4kc4.jpg",
+"url":"https://nungdeedee.com/movie/info/18048/the-last-vermeer-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C-2019-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"info":"Drama"
+},
+{
+"name":"Assassin’s Creed อัสแซสซินส์ครีด 2016",
+"image":"https://dooflix.com/wp-content/uploads/2021/03/MV5BNzE1OTczNTc1OF5BMl5BanBnXkFtZTgwMzgyMDI3MDI@._V1_SX300.jpg",
+"url":"https://dooflix.com/movie/solar-impact/"
+"info":"dooflix, Drama" 
+},
 {
 "name":"Room In Rome ในห้องรักโรมรำลึก (2010) 20+ [พากย์ไทย บรรยายไทย]",
 "image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/ct87x7val7kggookoc.jpg",
