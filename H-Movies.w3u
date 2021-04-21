@@ -187,6 +187,12 @@
 "url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/3adcf011f4882fd43f8497d3b598d1cd/3adcf011f4882fd43f8497d3b598d1cd.m3u8",
 "referer": "https://www.doomovie-hd.com/"
 },    
+{
+"name":"อีเรียมซิ่ง",
+"image":"https://dooflix.com/wp-content/uploads/2021/04/MV5BM2U2N2FjOGEtOGMwNy00YTRlLTllZmItN2M3NDVmM2JiMzcyXkEyXkFqcGdeQXVyNTE4NDk0NQ@@._V1_SX300.jpg",
+"url": "https://dooflix.com/movie/e-riam-sing/",
+"info":"Thai-Movies"
+},
 
 ]
   }, 
