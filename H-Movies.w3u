@@ -193,6 +193,12 @@
 "url": "https://dooflix.com/movie/e-riam-sing/",
 "info":"Thai-Movies"
 },
+{
+"name":"อีเรียมซิ่ง",
+"image":"https://www.img10.xyz/assets/movie_poster/a/ab1115e4938b9dcdfb63866e4648dd7a.jpg",
+"url": "https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/3e11c0d0ca83c5c5c32abb7af8c043a5/3e11c0d0ca83c5c5c32abb7af8c043a5.m3u8" ,
+"info":"Movie-hd"
+},
 
 ]
   }, 
