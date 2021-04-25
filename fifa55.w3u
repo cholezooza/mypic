@@ -8,7 +8,7 @@
             
       {
          "name": "LiveSod88",
-          "image": "https://cholezooza.github.io/dooball/truesport.jpeg",  
+          "image": "https://livesod88.com/wp-content/uploads/2018/09/livesod88.png",  
           "stations": [
            {
                "name": "True Premier Football HD 1",
@@ -117,10 +117,12 @@
               "url": "https://livesod88.com/?id=123456&ch=truesporhd3","referer": "https://livesod88.com/",
      "playInNatPlayer": "true" },
             {
-               "name": "True4U",
-               "image": "https://github.com/cholezooza/junctv.tk/raw/main/sd-24u.jpeg",              
-              "url": "https://livesod88.com/?id=123456&ch=true4u","referer": "https://livesod88.com/",
-     "playInNatPlayer": "true" },
+               "name": "True Sport HD 4",
+               "image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",              
+              "url": "https://embed-web.blackboxsys.net/player.php?channel=hd-tsport4&api_key=mc6Ghb2","referer": "https://www.ufa1919.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null",              
+              "playInNatPlayer": "true" },     
+
              {
                "name": "FOX Sports HD",
                "image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsporthd.jpg",              
@@ -136,6 +138,12 @@
                "image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsport3.jpg",              
               "url": "https://livesod88.com/?id=123456&ch=foxsport3","referer": "https://livesod88.com/",
      "playInNatPlayer": "true" },
+     
+            {
+               "name": "True4U",
+               "image": "https://github.com/cholezooza/junctv.tk/raw/main/sd-24u.jpeg",              
+              "url": "https://livesod88.com/?id=123456&ch=true4u","referer": "https://livesod88.com/",
+     "playInNatPlayer": "true" },     
    
 ]
 }
