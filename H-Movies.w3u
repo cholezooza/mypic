@@ -99,10 +99,36 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2Uy43Nn8zbc_--4zKkJbdlKEPEoRBb0bow&usqp=CAU",       
     "stations": [ 
 {
-"name":"Solar Impact ซอมบี้สุริยะ2020",
-"image":"https://dooflix.com/wp-content/uploads/2021/04/MV5BNTk0MGE3MmEtZjEwOC00NWJkLWE3ZmUtNGQwMjgyYjZiYzgwXkEyXkFqcGdeQXVyMTA5NTk2MDA4._V1_SX300.jpg",
-"url":"https://dooflix.com/movie/solar-impact/",
-"info":"dooflix-Sci-Fi"
+"name":"Netrokronic - ทีมพิฆาตไซเบอร์ 2018",
+"image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/qo2m0ufl77kw4wos8.jpg",
+"url":"https://www.doonung1234.com/movie/view/2002/Nekrotronic-%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B9%84%E0%B8%8B%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C-(2018)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2]",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true",
+"info":"doonung1234-new"
+},
+{
+"name":"The Monster - มันมาเพื่อฉีกโลก 2018",
+"image":"https://nungdeedee.com/uploads/images/1lpzqlkwnsskc4g0sk.jpg",
+"url":"https://nungdeedee.com/movie/info/18617/the-monsters-%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%89%E0%B8%B5%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81-2018-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true",
+"info":"nungdd-new"
+},
+{
+"name":"Skyline - สงครามดูดโลก 2018",
+"image":"https://nungdeedee.com/uploads/images/23x7bohh6x1c40ckww.jpg",
+"url":"https://nungdeedee.com/movie/info/17501/skyline-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81-2010-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true",
+"info":"nungdd-new"
+},
+{
+"name":"Bright- 2017",
+"image":"https://nungdeedee.com/uploads/images/be621do63c8ogko4gc.png",
+"url":"https://nungdeedee.com/movie/info/14579/Bright-%E0%B9%84%E0%B8%9A%E0%B8%A3%E0%B8%97%E0%B9%8C-2017",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true",
+"info":"nungdd-new"
 },
 {
 "name":"Finding Altamira Altamira เดอะ ลาสต์ เวอเมียร์ (2016) [พากย์ไทย บรรยายไทย]",
@@ -270,6 +296,7 @@
 "image": "https://cdn-img.movieclub.tv/img_movies_vertical/1568275203_saving-private-ryan_cover.jpg",
 "url":"http://bit.ly/ryanmovies","referer": "https://all-movie.tv/"
 },
+
 ]
 }
 ]
