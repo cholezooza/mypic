@@ -323,6 +323,21 @@
 "url":"http://bit.ly/ryanmovies","referer": "https://all-movie.tv/"
 },
 ]
+  }, 
+{  
+    "name": "Sequence Movies", 
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5dt5hZksCvGeouNj6tInyHgpaivqzS0esw&usqp=CAU",       
+    "stations": [ 
+{
+"name": "Sequence Movies",
+"author": "@Whoami Creator",           
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5dt5hZksCvGeouNj6tInyHgpaivqzS0esw&usqp=CAU",
+"url": "https://dl.dropbox.com/s/cyk3l3ykcrkaxjo/Sequence_Movies.w3u",
+"import": false
+},    
+    
+
+]
 }
 ]
 }
