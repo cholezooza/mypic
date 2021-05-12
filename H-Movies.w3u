@@ -21,6 +21,26 @@
     "name": "Action Movies",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEfKOZf38lmb9VlkQFLeRrqtGInaSOK9t2Q&usqp=CAU",
     "stations": [ 
+{"name": "ก็อดซิลล่า ปะทะ คอง",
+"url": "https://we-play.tv/watching/movie/godzilla-vs-kong-2021","referer": "https://we-play.tv/movie/",
+"image": "https://www.we-play.tv//uploads/backdrop/godzilla-vs-kong-2021-backdrop-.jpg",
+"playInNatPlayer": "true" },
+
+{"name": "Molly's Game เกม โกง รวย",
+"url":"https://we-play.tv/watching/movie/mollys-game-2017","referer": "https://we-play.tv/movie/",
+"image": "https://www.we-play.tv//uploads/backdrop/molly-s-game-backdrop.jpeg",
+"playInNatPlayer": "true" },
+
+{"name": "The Highwayman-มือปราบล่าพระกาฬ",
+"url":"https://we-play.tv/watching/movie/the-highwaymen-2019","referer": "https://we-play.tv/movie/",
+"image": "https://www.we-play.tv//uploads/backdrop/the-highwaymen-backdrop-1602416996.jpeg",
+"playInNatPlayer": "true" },
+
+{"name": "ปล้น ล่า ท้านรก",
+"url":"https://we-play.tv/watching/movie/triple-frontier-2019","referer": "https://we-play.tv/movie/",
+"image": "https://www.we-play.tv//uploads/backdrop/triple-frontier-backdrop-1602414359.jpeg",
+"playInNatPlayer": "true" },
+
 {
 "name":"Dark Water | 2019 | TH",
 "image":"https://cdn-img.movieclub.tv/img_movies_vertical/1589945263_545.jpg",
