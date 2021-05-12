@@ -28,6 +28,18 @@
     "name": "Action Movies",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEfKOZf38lmb9VlkQFLeRrqtGInaSOK9t2Q&usqp=CAU",
     "stations": [ 
+
+{"name": "Rock N Rolla - หักเหลี่ยมแก๊งชนแก๊ง",
+"url":"https://nungdeedee.com/movie/info/16210/rocknrolla-2008-%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B9%8C",
+"referer": "https://nungdeedee.com/movie/",
+"image": "https://nungdeedee.com/uploads/images/q1cjt9bytf4s0o08sc.jpg","playInNatPlayer": "true" },
+
+{"name": "SEMPERB Fi - แผนระห่ำ ตำรวจพันธุ์เดือด",
+"url":"https://nungdeedee.com/movie/info/16248/semper-fi-%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94-2019-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2",
+"referer": "https://nungdeedee.com/movie/",
+"image": "https://nungdeedee.com/uploads/images/gy0b77noc5k4o04gg.jpg",
+"playInNatPlayer": "true" },
+
 {"name": "ก็อดซิลล่า ปะทะ คอง",
 "url": "https://we-play.tv/watching/movie/godzilla-vs-kong-2021","referer": "https://we-play.tv/movie/",
 "image": "https://www.we-play.tv//uploads/backdrop/godzilla-vs-kong-2021-backdrop-.jpg",
@@ -47,6 +59,7 @@
 "url":"https://we-play.tv/watching/movie/triple-frontier-2019","referer": "https://we-play.tv/movie/",
 "image": "https://www.we-play.tv//uploads/backdrop/triple-frontier-backdrop-1602414359.jpeg",
 "playInNatPlayer": "true" },
+
 {"name": "มัจจุราชไร้เงา 2",
 "url":"https://www.we-play.tv/watching/movie/the-equalizer-2-2018","referer": "https://we-play.tv/movie/",
 "image": "https://www.we-play.tv//uploads/backdrop/the-equalizer-2-backdrop.jpeg","playInNatPlayer": "true" },
