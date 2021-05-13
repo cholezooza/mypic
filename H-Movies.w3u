@@ -158,6 +158,11 @@
     "name": "Sci-Fi Movies", 
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2Uy43Nn8zbc_--4zKkJbdlKEPEoRBb0bow&usqp=CAU",       
     "stations": [ 
+
+{"name":"ยอดมนุษย์สุดโต่ง - 2021",
+"image":"https://www.we-play.tv//uploads/backdrop/super-me-2019-backdrop-.jpg",
+"url":"https://we-play.tv/watching/movie/super-me-2019",
+"referer":"https://we-play.tv/"},
 {
 "name":"Netrokronic - ทีมพิฆาตไซเบอร์ 2018",
 "image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/qo2m0ufl77kw4wos8.jpg",
