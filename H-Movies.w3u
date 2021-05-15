@@ -360,6 +360,28 @@
     "name": "Thai Movies", 
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBseAG-4ZEBZ3GJKDWU1BFmDAqiPkxlnbQbQ&usqp=CAU",       
     "stations": [ 
+
+{
+"name":"Nemesis คืนยุติ-ธรรม",
+"image":"https://moviekub.com/images/movie/0Vz9DCABtFrYZbTsOE1m37I2W5Xostw1922.jpg",
+"url": "https://moviekub.com/Nemesis-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+"referer": "https://moviekub.com/",
+"playInNatPlayer": "true"
+},
+{
+"name":"Bad Genius ฉลาดเกมส์โกง",
+"image":"https://moviekub.com/images/movie/UZMlMVvFuZSRyQLCAyVCTN9nVjt8MaNBad-Genius-%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87-300x390.png",
+"url": "https://moviekub.com/Bad-Genius-%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87",
+"referer": "https://moviekub.com/",
+"playInNatPlayer": "true"
+},
+{
+"name":"Awasarn Lok Suey อวสานโลกสวย",
+"image":"https://moviekub.com/images/movie/imJuR5HXRcB8kB63p7fOYI73qCwLQyKAwasarn-Lok-Suey-.jpg",
+"url": "https://moviekub.com/Awasarn-Lok-Suey-%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%AA%E0%B8%A7%E0%B8%A2",
+"referer": "https://moviekub.com/",
+"playInNatPlayer": "true"
+},
 {
 "name":"เฮ้ยลูกพี่ นี่ลูกพ่อ",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4KUSiQnqvOqqyQxmxMv6NMsa3GZARDumaQ&usqp=CAU",
@@ -373,10 +395,11 @@
 "referer": "https://www.doomovie-hd.com/"
 },    
 {
-"name":"อีเรียมซิ่ง",
-"image":"https://dooflix.com/wp-content/uploads/2021/04/MV5BM2U2N2FjOGEtOGMwNy00YTRlLTllZmItN2M3NDVmM2JiMzcyXkEyXkFqcGdeQXVyNTE4NDk0NQ@@._V1_SX300.jpg",
-"url": "https://dooflix.com/movie/e-riam-sing/",
-"info":"Thai-Movies"
+"name":"1448 Love Among Us รักเราของใคร",
+"image":"https://moviekub.com/images/movie/Qa2qG7CPujPrhEomdVT5tY6k80xPyrv1448_Love_Among_Us_(2014).jpg",
+"url": "https://moviekub.com/1448-Love-Among-Us-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%84%E0%B8%A3",
+"referer": "https://moviekub.com/",
+"playInNatPlayer": "true"
 },
 {
 "name":"อีเรียมซิ่ง",
