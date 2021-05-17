@@ -288,9 +288,19 @@
     "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2020/11/Best-Comedies-Netflix-V3.png",       
     "stations": [ 
 
+{"name":"Like a Boss (2020) เพื่อนรักหักเหลี่ยมรวย พากย์ไทย",
+"image":"https://www.movie4fever.com/wp-content/uploads/2020/11/like-a-boss-2020.jpg",
+"url":"https://www.movie4fever.com/like-a-boss-2020/","refere": "https://www.movie4fever.com/",
+"playInNatPlayer": "true" },
+{"name":"American Virgin (2020) สาวจิ้นอยากลองแอ้ม พากย์ไทย",
+"image":"https://www.movie4fever.com/wp-content/uploads/2021/01/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%88%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B9%89%E0%B8%A1.jpg",
+"url":"https://www.movie4fever.com/american-virgin-2020/","refere": "https://www.movie4fever.com/",
+"playInNatPlayer": "true" },
+
 {"name":"She's The Man 2006",
 "image":"https://cdn-img.movieclub.tv/img_movies_vertical/1620899873_1.jpg",
-"url":"https://www.all-movie.tv/Shes%20the%20Man%20%282006%29"},
+"url":"https://www.all-movie.tv/Shes%20the%20Man%20%282006%29","refere": "http://all-movie.tv/",
+"playInNatPlayer": "true" },
 
 {"name":"American Pie 1 แอ้มสาวให้ได้ก่อนปลายเทอม 1 1999",
 "image":"https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_UY294.jpg",
@@ -322,13 +332,13 @@
 "playInNatPlayer": "true" },
 {"name":"American Pie 7 Presents: The Book of Love อเมริกันพาย 7: คู่มือซ่าส์พลิกตำราแอ้ม",
 "image":"https://moviekub.com/images/movie/gC9OYKzL7kUxsHx2DhkUbpzDzhhLYcF1070.jpg",
-"url":"https://moviekub.com/American-Pie-7-Presents:-The-Book-of-Love-%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B2%E0%B8%A2-7:-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B9%81%E0%B8%AD%E0%B9%89%E0%B8%A1",
-"referer":"https://moviekub.com",
+"url":"https://nungdeedee.com/movie/info/5773/ดูหนัง-American-Pie-7-The-Book-of-Love-คู่มือซ่าส์พลิกตำราแอ้ม-เต็มเรื่อง",
+"referer":"https://nungdeedee.com/",
 "playInNatPlayer": "true" },
 {"name":"American Pie 8 American Reunion คืนสู่เหย้าแก็งค์แอ้มสาว",
 "image":"https://moviekub.com/images/movie/1fljjjZW1enK6OFyqvf2otJJLSzxkzh0787.jpg",
-"url":"https://moviekub.com/American-Pie-8-American-Reunion-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%AB%E0%B8%A2%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B9%87%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B9%81%E0%B8%AD%E0%B9%89%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%A7",
-"referer":"https://moviekub.com",
+"url":"https://www.movie4fever.com/american-pie-8-american-reunion-2012/",
+"referer":"https://www.movie4fever.com/",
 "playInNatPlayer": "true" },
 
 {
