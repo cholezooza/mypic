@@ -288,60 +288,38 @@
     "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2020/11/Best-Comedies-Netflix-V3.png",       
     "stations": [ 
 
-{ "name":"American Pie 1 แอ้มสาวให้ได้ก่อนปลายเทอม 1 1999",
-"image":"https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_UY294.jpg",
-"url":"http://www.all-movie.tv/American%20Pie%201","refere": "http://all-movie.tv/",
-"playInNatPlayer": "true"
+{ 
+"name":"Like a Boss (2020) เพื่อนรักหักเหลี่ยมรวย พากย์ไทย","image":"https://www.movie4fever.com/wp-content/uploads/2020/11/like-a-boss-2020.jpg",
+"url":"https://www.movie4fever.com/like-a-boss-2020/","refere": "https://www.movie4fever.com/",
+"playInNatPlayer": "true" 
 },
-{ "name":"American Pie 2 (2001) - American Pie 2 (2001) จุ๊จุ๊จุ๊ แอ้มสาวให้ได้ก่อนเปิดเทอม",
-"image":"https://www.img05.xyz/assets/movie_poster/e/ea691c7ba4bb542dc5c56ba6fd54742a.jpg",
-"url":"http://www.all-movie.tv/American%20Pie%202","refere": "http://all-movie.tv/",
-"playInNatPlayer": "true"
+{ 
+"name":"American Virgin (2020) สาวจิ้นอยากลองแอ้ม พากย์ไทย",
+"image":"https://www.movie4fever.com/wp-content/uploads/2021/01/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%88%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B9%89%E0%B8%A1.jpg",
+"url":"https://www.movie4fever.com/american-virgin-2020/","refere": "https://www.movie4fever.com/",
+"playInNatPlayer": "true" 
 },
-{ "name":"American Pie 3 The Wedding แผนแอ้มด่วน ป่วนก่อนวิวาห์ (2003)",
-"image":"https://freemovie2020.com/images/movie/0FSsnjpqu6cqvYjTFUWsbS9zFvLbq0614c2eda660dfbef2218360f93e6073bf.jpg",
-"url":"http://www.all-movie.tv/American%20Pie%203%20The%20Wedding",
-"referer":"http://www.all-movie.tv/",
-"playInNatPlayer": "true"
+{ 
+"name":"She's The Man 2006","image":"https://cdn-img.movieclub.tv/img_movies_vertical/1620899873_1.jpg",
+"url":"https://www.all-movie.tv/Shes%20the%20Man%20%282006%29","refere": "http://all-movie.tv/",
+"playInNatPlayer": "true" 
 },
-{ "name":"American Pie 4 Presents Band Camp แผนป่วนแคมป์แล้วแอ้มสาวแท็ก",
-"image":"https://moviekub.com/images/movie/y5io1mB0twULifg7Op4k2cz4Y9JnNCx1445.jpg",
-"url":"http://www.all-movie.tv/American%20Pie%204%20Reunion",
-"referer":"http://www.all-movie.tv/",
-"playInNatPlayer": "true"
+{ 
+"name":"Thunder Force ธันเดอร์ฟอร์ซ ขบวนการฮีโร่ฟาดฟ้า (2021) [พากย์ไทย บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/qyj3n6iwkc0s4c0ow.jpg",
+"url":"https://www.doonung1234.com/movie/view/1924/Thunder-Force-%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%8B-%E0%B8%82%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%9F%E0%B8%B2%E0%B8%94%E0%B8%9F%E0%B9%89%E0%B8%B2-(2021)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]" 
+},    
+{ 
+"name":"แฮนค๊อก ฮีโร่ขวางนรก","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo4XTNCjTjCbHFl36x1ex4zoPEL1lSSEogbA&usqp=CAU",
+"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/4837f1bee214d4eb8d1ffae66e662914/4837f1bee214d4eb8d1ffae66e662914.m3u8","referer": "https://www.doomovie-hd.com/" 
 },
-{ "name":"American Pie 5 Presents: The Naked Mile อเมริกันพาย 5: แอ้มเย้ยฟ้า ท้ามาราธอน",
-"image":"https://moviekub.com/images/movie/zcpSbTwNykjUMCvHVpJiAcONGufFmxe1347.jpg",
-"url":"http://www.all-movie.tv/American%20Pie%205%20Band%20Camp",
-"referer":"http://www.all-movie.tv/",
-"playInNatPlayer": "true"
+{ 
+"name":"Double Dad 2021","image":"https://i.postimg.cc/d0F7xVKd/image.jpg",
+"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/9612a5040ac8795083ef94a0cbc7ee35/9612a5040ac8795083ef94a0cbc7ee35.m3u8","referer": "https://www.doomovie-hd.com/" 
 },
-{ "name":"American Pie 6: Presents Beta House เปิดหอซ่าส์ พลิกตำราแอ้ม",
-"image":"https://moviekub.com/images/movie/ICSrAjieK3FBd0usYHIPGVhdMfCipsM1255.jpg",
-"url":"http://www.all-movie.tv/American%20Pie%206%20The%20Naked%20Mile",
-"referer":"http://www.all-movie.tv/",
-"playInNatPlayer": "true"
+{ 
+"name":"The Last Shift กะสุดท้าย (2020) [พากย์ไทย บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/f5gq5b88o5c0kkkso.jpg", 
+"url":"https://www.doonung1234.com/movie/view/1934/The-Last-Shift-%E0%B8%81%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2-(2020)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]" 
 },
-{ "name":"American Pie 7 Presents: The Book of Love อเมริกันพาย 7: คู่มือซ่าส์พลิกตำราแอ้ม",
-"image":"https://moviekub.com/images/movie/gC9OYKzL7kUxsHx2DhkUbpzDzhhLYcF1070.jpg",
-"url":"https://nungdeedee.com/movie/info/5773/ดูหนัง-American-Pie-7-The-Book-of-Love-คู่มือซ่าส์พลิกตำราแอ้ม-เต็มเรื่อง",
-"referer":"https://nungdeedee.com/",
-"playInNatPlayer": "true"
-},
-{ "name":"American Pie 8 American Reunion คืนสู่เหย้าแก็งค์แอ้มสาว",
-"image":"https://moviekub.com/images/movie/1fljjjZW1enK6OFyqvf2otJJLSzxkzh0787.jpg",
-"url":"https://www.movie4fever.com/american-pie-8-american-reunion-2012/",
-"referer":"https://www.movie4fever.com/",
-"playInNatPlayer": "true"
-},
-
-{ "name":"Like a Boss (2020) เพื่อนรักหักเหลี่ยมรวย พากย์ไทย","image":"https://www.movie4fever.com/wp-content/uploads/2020/11/like-a-boss-2020.jpg","url":"https://www.movie4fever.com/like-a-boss-2020/","refere": "https://www.movie4fever.com/","playInNatPlayer": "true" },
-{ "name":"American Virgin (2020) สาวจิ้นอยากลองแอ้ม พากย์ไทย","image":"https://www.movie4fever.com/wp-content/uploads/2021/01/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%88%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B9%89%E0%B8%A1.jpg","url":"https://www.movie4fever.com/american-virgin-2020/","refere": "https://www.movie4fever.com/","playInNatPlayer": "true" },
-{ "name":"She's The Man 2006","image":"https://cdn-img.movieclub.tv/img_movies_vertical/1620899873_1.jpg","url":"https://www.all-movie.tv/Shes%20the%20Man%20%282006%29","refere": "http://all-movie.tv/","playInNatPlayer": "true" },
-{ "name":"Thunder Force ธันเดอร์ฟอร์ซ ขบวนการฮีโร่ฟาดฟ้า (2021) [พากย์ไทย บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/qyj3n6iwkc0s4c0ow.jpg","url":"https://www.doonung1234.com/movie/view/1924/Thunder-Force-%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%8B-%E0%B8%82%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%9F%E0%B8%B2%E0%B8%94%E0%B8%9F%E0%B9%89%E0%B8%B2-(2021)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]" },    
-{ "name":"แฮนค๊อก ฮีโร่ขวางนรก","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo4XTNCjTjCbHFl36x1ex4zoPEL1lSSEogbA&usqp=CAU","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/4837f1bee214d4eb8d1ffae66e662914/4837f1bee214d4eb8d1ffae66e662914.m3u8","referer": "https://www.doomovie-hd.com/" },
-{ "name":"Double Dad 2021","image":"https://i.postimg.cc/d0F7xVKd/image.jpg","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/9612a5040ac8795083ef94a0cbc7ee35/9612a5040ac8795083ef94a0cbc7ee35.m3u8","referer": "https://www.doomovie-hd.com/" },
-{ "name":"The Last Shift กะสุดท้าย (2020) [พากย์ไทย บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/f5gq5b88o5c0kkkso.jpg", "url":"https://www.doonung1234.com/movie/view/1934/The-Last-Shift-%E0%B8%81%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2-(2020)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]" },
 
 ]
   }, 
@@ -404,18 +382,24 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IslUfi3wb0QO8aOnlgJ2OVQOV7T0HW-jHg&usqp=CAU",       
     "stations": [ 
     
-{"name":"Outcast - อัศวินชิงบัลลังค์ 2014",
+{
+"name":"Outcast - อัศวินชิงบัลลังค์ 2014",
 "image":"https://www.doofree88.com/storage/images/2019/6/zri9ZFfGtGmSKGTCAaQFOWAUFGTM9HnW9T1cfUgW.jpg",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/d351827cd49d6a0b78f0b6f458d90e18/d351827cd49d6a0b78f0b6f458d90e18.m3u8" },
+"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/d351827cd49d6a0b78f0b6f458d90e18/d351827cd49d6a0b78f0b6f458d90e18.m3u8" 
+},
 
-{"name":"If Only ขอสักครั้ง เอ่ยคำว่ารัก 2004",
+{
+"name":"If Only ขอสักครั้ง เอ่ยคำว่ารัก 2004",
 "image":"https://dooflix.com/wp-content/uploads/2021/05/MV5BZjg1ZDg4ZTQtMmFjNS00N2VkLWEzNDUtYzE3YTUxZjU5ZjE2XkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_SX300.jpg",
 "url":"https://dooflix.com/if-only/",
-"playInNatPlayer": "true" },
+"playInNatPlayer": "true" 
+},
 
-{"name":"ส่องปมมรณะ  2021",
+{
+"name":"ส่องปมมรณะ  2021",
 "image":"https://cdn-img.movieclub.tv/img_movies_vertical/1620983444_cover1.png",
-"url":"https://www.all-movie.tv/The%20Woman%20in%20the%20Window%20%282021%29"},
+"url":"https://www.all-movie.tv/The%20Woman%20in%20the%20Window%20%282021%29"
+},
 
 {
 "name":"The Last Vermeer เดอะ ลาสต์ เวอเมียร์ (2019) [พากย์ไทย บรรยายไทย]",
@@ -423,22 +407,27 @@
 "url":"https://nungdeedee.com/movie/info/18048/the-last-vermeer-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C-2019-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
 "info":"Drama"
 },
+
 {
 "name":"Assassin’s Creed อัสแซสซินส์ครีด 2016",
 "image":"https://dooflix.com/wp-content/uploads/2021/03/MV5BNzE1OTczNTc1OF5BMl5BanBnXkFtZTgwMzgyMDI3MDI@._V1_SX300.jpg",
 "url":"https://dooflix.com/movie/solar-impact/",
 "info":"dooflix-Drama" 
 },
+
 {
 "name":"Room In Rome ในห้องรักโรมรำลึก (2010) 20+ [พากย์ไทย บรรยายไทย]",
 "image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/ct87x7val7kggookoc.jpg",
 "url":"https://www.doonung1234.com/movie/view/1784/Room-In-Rome-%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%82%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81-(2010)-20--[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]",
-"info":"20+" },
+"info":"20+" 
+},
+
 {
 "name":"365 Days 365 วัน (2020) 18+ [ บรรยายไทย ]",
 "image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2ivrjyjnu4cgsscg4w.jpg",
 "url":"https://www.doonung1234.com/movie/view/1258/365-Days-365-%E0%B8%A7%E0%B8%B1%E0%B8%99-(2020)-18--[-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-]"
 },
+
 {
 "name": "Saving Private Ryan(1998)",
 "image": "https://cdn-img.movieclub.tv/img_movies_vertical/1568275203_saving-private-ryan_cover.jpg",
