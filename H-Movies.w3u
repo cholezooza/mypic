@@ -288,59 +288,68 @@
     "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2020/11/Best-Comedies-Netflix-V3.png",       
     "stations": [ 
 
-{"name":"Like a Boss (2020) เพื่อนรักหักเหลี่ยมรวย พากย์ไทย",
-"image":"https://www.movie4fever.com/wp-content/uploads/2020/11/like-a-boss-2020.jpg",
-"url":"https://www.movie4fever.com/like-a-boss-2020/","refere": "https://www.movie4fever.com/",
-"playInNatPlayer": "true" },
-{"name":"American Virgin (2020) สาวจิ้นอยากลองแอ้ม พากย์ไทย",
-"image":"https://www.movie4fever.com/wp-content/uploads/2021/01/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%88%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B9%89%E0%B8%A1.jpg",
-"url":"https://www.movie4fever.com/american-virgin-2020/","refere": "https://www.movie4fever.com/",
-"playInNatPlayer": "true" },
-
-{"name":"She's The Man 2006",
-"image":"https://cdn-img.movieclub.tv/img_movies_vertical/1620899873_1.jpg",
-"url":"https://www.all-movie.tv/Shes%20the%20Man%20%282006%29","refere": "http://all-movie.tv/",
-"playInNatPlayer": "true" },
-
 {"name":"American Pie 1 แอ้มสาวให้ได้ก่อนปลายเทอม 1 1999",
 "image":"https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_UY294.jpg",
 "url":"http://www.all-movie.tv/American%20Pie%201","refere": "http://all-movie.tv/",
-"playInNatPlayer": "true" },
+"playInNatPlayer": "true"
+},
 {"name":"American Pie 2 (2001) - American Pie 2 (2001) จุ๊จุ๊จุ๊ แอ้มสาวให้ได้ก่อนเปิดเทอม",
 "image":"https://www.img05.xyz/assets/movie_poster/e/ea691c7ba4bb542dc5c56ba6fd54742a.jpg",
 "url":"http://www.all-movie.tv/American%20Pie%202","refere": "http://all-movie.tv/",
-"playInNatPlayer": "true" },
+"playInNatPlayer": "true"
+},
 {"name":"American Pie 3 The Wedding แผนแอ้มด่วน ป่วนก่อนวิวาห์ (2003)",
 "image":"https://freemovie2020.com/images/movie/0FSsnjpqu6cqvYjTFUWsbS9zFvLbq0614c2eda660dfbef2218360f93e6073bf.jpg",
 "url":"http://www.all-movie.tv/American%20Pie%203%20The%20Wedding",
 "referer":"http://www.all-movie.tv/",
-"playInNatPlayer": "true" },
+"playInNatPlayer": "true"
+},
 {"name":"American Pie 4 Presents Band Camp แผนป่วนแคมป์แล้วแอ้มสาวแท็ก",
 "image":"https://moviekub.com/images/movie/y5io1mB0twULifg7Op4k2cz4Y9JnNCx1445.jpg",
 "url":"http://www.all-movie.tv/American%20Pie%204%20Reunion",
 "referer":"http://www.all-movie.tv/",
-"playInNatPlayer": "true" },
+"playInNatPlayer": "true"
+},
 {"name":"American Pie 5 Presents: The Naked Mile อเมริกันพาย 5: แอ้มเย้ยฟ้า ท้ามาราธอน",
 "image":"https://moviekub.com/images/movie/zcpSbTwNykjUMCvHVpJiAcONGufFmxe1347.jpg",
 "url":"http://www.all-movie.tv/American%20Pie%205%20Band%20Camp",
 "referer":"http://www.all-movie.tv/",
-"playInNatPlayer": "true" },
+"playInNatPlayer": "true"
+},
 {"name":"American Pie 6: Presents Beta House เปิดหอซ่าส์ พลิกตำราแอ้ม",
 "image":"https://moviekub.com/images/movie/ICSrAjieK3FBd0usYHIPGVhdMfCipsM1255.jpg",
 "url":"http://www.all-movie.tv/American%20Pie%206%20The%20Naked%20Mile",
 "referer":"http://www.all-movie.tv/",
-"playInNatPlayer": "true" },
+"playInNatPlayer": "true"
+},
 {"name":"American Pie 7 Presents: The Book of Love อเมริกันพาย 7: คู่มือซ่าส์พลิกตำราแอ้ม",
 "image":"https://moviekub.com/images/movie/gC9OYKzL7kUxsHx2DhkUbpzDzhhLYcF1070.jpg",
 "url":"https://nungdeedee.com/movie/info/5773/ดูหนัง-American-Pie-7-The-Book-of-Love-คู่มือซ่าส์พลิกตำราแอ้ม-เต็มเรื่อง",
 "referer":"https://nungdeedee.com/",
-"playInNatPlayer": "true" },
+"playInNatPlayer": "true"
+},
 {"name":"American Pie 8 American Reunion คืนสู่เหย้าแก็งค์แอ้มสาว",
 "image":"https://moviekub.com/images/movie/1fljjjZW1enK6OFyqvf2otJJLSzxkzh0787.jpg",
 "url":"https://www.movie4fever.com/american-pie-8-american-reunion-2012/",
 "referer":"https://www.movie4fever.com/",
-"playInNatPlayer": "true" },
+"playInNatPlayer": "true"
+},
 
+{"name":"Like a Boss (2020) เพื่อนรักหักเหลี่ยมรวย พากย์ไทย",
+"image":"https://www.movie4fever.com/wp-content/uploads/2020/11/like-a-boss-2020.jpg",
+"url":"https://www.movie4fever.com/like-a-boss-2020/","refere": "https://www.movie4fever.com/",
+"playInNatPlayer": "true"
+},
+{"name":"American Virgin (2020) สาวจิ้นอยากลองแอ้ม พากย์ไทย",
+"image":"https://www.movie4fever.com/wp-content/uploads/2021/01/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%88%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B9%89%E0%B8%A1.jpg",
+"url":"https://www.movie4fever.com/american-virgin-2020/","refere": "https://www.movie4fever.com/",
+"playInNatPlayer": "true"
+},
+{"name":"She's The Man 2006",
+"image":"https://cdn-img.movieclub.tv/img_movies_vertical/1620899873_1.jpg",
+"url":"https://www.all-movie.tv/Shes%20the%20Man%20%282006%29","refere": "http://all-movie.tv/",
+"playInNatPlayer": "true"
+},
 {
 "image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/qyj3n6iwkc0s4c0ow.jpg", 
 "name":"Thunder Force ธันเดอร์ฟอร์ซ ขบวนการฮีโร่ฟาดฟ้า (2021) [พากย์ไทย บรรยายไทย]",
