@@ -29,6 +29,12 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEfKOZf38lmb9VlkQFLeRrqtGInaSOK9t2Q&usqp=CAU",
     "stations": [ 
 {
+"name":"Goz vs Kong HD",
+"image":"https://www.img04.xyz/assets/movie_poster/f/f40af2eb2fc3ade7c27a92f4df63f53f.jpg",
+"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/95153788813f990afa1039b3cfe0861e/95153788813f990afa1039b3cfe0861e.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name":"Centurion (2010) อหังการนักรบแผ่นดินเถื่อน",
 "image":"https://movie24th.com/wp-content/uploads/2020/11/0966-402x603.jpg",
 "url":"https://movie24th.com/centurion-2010-อหังการนักรบแผ่นดินเ/",
