@@ -28,7 +28,26 @@
     "name": "Action Movies",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEfKOZf38lmb9VlkQFLeRrqtGInaSOK9t2Q&usqp=CAU",
     "stations": [ 
-
+{
+"name":"Centurion (2010) อหังการนักรบแผ่นดินเถื่อน",
+"image":"https://movie24th.com/wp-content/uploads/2020/11/0966-402x603.jpg",
+"url":"https://movie24th.com/centurion-2010-อหังการนักรบแผ่นดินเ/",
+"url":"https://movie24th.com/",
+"playInNatPlayer": "true"
+},
+{
+"name":"The Eight Hundred (2020) นักรบ 800",
+"image":"https://movie2du.com/wp-content/uploads/2020/11/e0b899e0b8b1e0b881e0b8a3e0b89a-800.jpg",
+"url":"https://cdn-hls-1.steamplayer.xyz/hls/RKEJub4D1n/file_,1080,.mp4.urlset/master.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name":"Pandorum (2009) แพนดอรัม ลอกชีพ",
+"image":"https://movie24th.com/wp-content/uploads/2020/11/1118.jpg",
+"url":"https://movie24th.com/pandorum-2009-แพนดอรัม-ลอกชีพ/",
+"url":"https://movie24th.com/",
+"playInNatPlayer": "true"
+},
 {"name":"3022 3022 วัน ฝ่าวิกฤติแพนเจีย 2019",
 "image":"https://dooflix.com/wp-content/uploads/2021/05/MV5BNWNhMDdiYzktMjQzNy00NGYwLWIwMTQtMmFiNzZkZGRjOTI3XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SX300.jpg",
 "url":"https://movie222hd.mas-streamingcloud.xyz/view/c890d50d-8ca8-56a6-afcd-bfcf53953317",
@@ -381,7 +400,14 @@
     "name": "Drama Movies", 
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IslUfi3wb0QO8aOnlgJ2OVQOV7T0HW-jHg&usqp=CAU",       
     "stations": [ 
-    
+
+{
+"name":"The Soloist (2009) เดี่ยวข้างถนน ยอดคนผู้ยิ่งใหญ่",
+"image":"https://movie24th.com/wp-content/uploads/2020/11/0966-402x603.jpg",
+"url":"https://movie24th.com/the-soloist-2009-เดี่ยวข้างถนน-ยอดคนผู/",
+"url":"https://movie24th.com/",
+"playInNatPlayer": "true"
+},   
 {
 "name":"Outcast - อัศวินชิงบัลลังค์ 2014",
 "image":"https://www.doofree88.com/storage/images/2019/6/zri9ZFfGtGmSKGTCAaQFOWAUFGTM9HnW9T1cfUgW.jpg",
