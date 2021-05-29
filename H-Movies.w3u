@@ -317,7 +317,9 @@
     "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2020/11/Best-Comedies-Netflix-V3.png",       
     "stations": [ 
 
-{"name":"SHE'S THE MAN (2006) แอบแมน มาปิ๊งแมน 2006","image":"https://youflix4k.com/uploads/jpg/6f666e4131752d7980bf0f0cff7a33b7.jpg","url":"https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/M/Inter/Shes_the_Man_2006/Shes_the_Man_2006_TH.mp4/index.m3u8"},
+{
+"name":"SHE'S THE MAN (2006) แอบแมน มาปิ๊งแมน 2006","image":"https://youflix4k.com/uploads/jpg/6f666e4131752d7980bf0f0cff7a33b7.jpg","url":"https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/M/Inter/Shes_the_Man_2006/Shes_the_Man_2006_TH.mp4/index.m3u8","playInNatPlayer": "true"
+},
 { 
 "name":"Like a Boss (2020) เพื่อนรักหักเหลี่ยมรวย พากย์ไทย","image":"https://www.movie4fever.com/wp-content/uploads/2020/11/like-a-boss-2020.jpg",
 "url":"https://www.movie4fever.com/like-a-boss-2020/","refere": "https://www.movie4fever.com/",
