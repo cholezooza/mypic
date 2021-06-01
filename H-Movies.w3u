@@ -200,6 +200,14 @@
     "name": "Sci-Fi Movies", 
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2Uy43Nn8zbc_--4zKkJbdlKEPEoRBb0bow&usqp=CAU",       
     "stations": [ 
+{"name":"Mortal Kombat (2021) มอร์ทัล คอมแบท",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2021/04/v2-f2876433e3a324b1778bcaaca48f02f5_b-185x278.jpg",
+"url":"https://vod-th8.streammaster.co/vod/mk_2404_720.mp4/playlist.m3u8",
+"playInNatPlayer":"true"},
+{"name":"Nobody (2021) คนธรรมดานรกเรียกพี่",
+"image":"https://bettopfivemovie.com/wp-content/uploads/2021/03/oBgWY00bEFeZ9N25wWVyuQddbAo-185x278.jpg",
+"url":"https://vod-th8.streammaster.co/vod/nd_1804_720.mp4/playlist.m3u8",
+"playInNatPlayer":"true"},
 
 {"name":"ยอดมนุษย์สุดโต่ง - 2021",
 "image":"https://www.we-play.tv//uploads/backdrop/super-me-2019-backdrop-.jpg",
