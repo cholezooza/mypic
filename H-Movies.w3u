@@ -1,9 +1,10 @@
 { 
    "name": "BIG MOVIES",
-   "author": "Whoami creator",
+   "author": "@Whoami creator",
    "url": "http://doona.cf/H-Movies.w3u",
    "image": "https://i.postimg.cc/CKNKzYRR/h-movies.png",
    "groups": [   
+
 {"name":"Premium Movies","image":"https://doona.cf/cinema.jpeg","url": "https://raw.githubusercontent.com/cholezooza/kingball/main/MoviesHD.m3u","info":"MoviesHD","import": false},   
 {"name":"Sequence Movies","author":"@Whoami Creator","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5dt5hZksCvGeouNj6tInyHgpaivqzS0esw&usqp=CAU","url": "https://dl.dropbox.com/s/cyk3l3ykcrkaxjo/Sequence_Movies.w3u","import": false},    
 {"name":"Premium Series","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KwonBnqBiYRYuZBpGOiCyIZ42vQl00bb7w&usqp=CAU","url": "https://mayked.tk/ghostfight","import": false},   
@@ -43,6 +44,7 @@
 {"name":"THE EXPENDABLES 3 (2014) โคตรคนทีมมหากาฬ 3","image":"https://www.img09.xyz/assets/movie_poster/import/poster_53e87a1c12db45_91187564.jpg","url":"https://www.doofree88.com/movie/the-expendables-3%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC-%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%80"},
 {"name":"หน่วยเก็บ 2020","image":"https://123hd-movie.com/nxt-content/uploads/20210106/dfe03ae0e428295add0752e851ab4c99_273x402.jpg","url":"https://we-play.tv/watching/movie/archive-2020","referer": "https://we-play.tv/"},
 {"name":"Fake Bodyguard 2021","image":"https://movie24thai.com/wp-content/uploads/2021/03/5.png","url":"https://movie24thai.com/fake-bodyguard-2021-บอดี้การ์ดพันธุ์เก๊/"},
+
 ]
 }, 
 {  
@@ -59,7 +61,7 @@
 {"name":"The Monster - มันมาเพื่อฉีกโลก 2018","image":"https://nungdeedee.com/uploads/images/1lpzqlkwnsskc4g0sk.jpg","url":"https://nungdeedee.com/movie/info/18617/the-monsters-%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%89%E0%B8%B5%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81-2018-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2","userAgent": "exoplayer_video","playInNatPlayer": "true","info":"nungdd-new"},
 {"name":"Skyline - สงครามดูดโลก 2018","image":"https://nungdeedee.com/uploads/images/23x7bohh6x1c40ckww.jpg","url":"https://nungdeedee.com/movie/info/17501/skyline-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81-2010-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2","userAgent": "exoplayer_video","playInNatPlayer": "true","info":"nungdd-new"},
 {"name":"Bright- 2017","image":"https://nungdeedee.com/uploads/images/be621do63c8ogko4gc.png","url":"https://nungdeedee.com/movie/info/14579/Bright-%E0%B9%84%E0%B8%9A%E0%B8%A3%E0%B8%97%E0%B9%8C-2017","userAgent": "exoplayer_video","playInNatPlayer": "true","info":"nungdd-new"},
-{"name":"Finding Altamira Altamira เดอะ ลาสต์ เวอเมียร์ (2016) [พากย์ไทย บรรยายไทย]","image":"https://nungdeedee.com/uploads/images/2ug11fndweqs8s4kc4.jpg""url":"https://nungdeedee.com/movie/info/16612/finding-altamira-altamira-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%B5-2016-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2","info":"Sci-Fi"},
+{"name":"Finding Altamira Altamira เดอะ ลาสต์ เวอเมียร์ (2016) [พากย์ไทย บรรยายไทย]","image":"https://nungdeedee.com/uploads/images/2ug11fndweqs8s4kc4.jpg","url":"https://nungdeedee.com/movie/info/16612/finding-altamira-altamira-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%B5-2016-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2","info":"Sci-Fi"},
 {"name":"Goz vs Kong","image":"https://cdn.majorcineplex.com/uploads/movie/2746/thumb_2746.jpg","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/b6c7c58b8a26cbd37dda6797e117a547/b6c7c58b8a26cbd37dda6797e117a547.m3u8","referer": "https://www.doomovie-hd.com/"},
 {"name":"โครตคนชนเอเลี่ยน","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLeCEBlYrWnRjR5xjc7gzxcqEYKGmlCbbOrA&usqp=CAU","url":"http://sg-6.podzone.org:1935/movie3/Jiu_Jitsu_2020/Jiu_Jitsu_2020_thr_z1.mp4/playlist.m3u8"},    
 {"name":"มนุษย์ล่องหน","image":"https://123hd-movie.com/nxt-content/uploads/20200623/57193ee164f8a44a9c7cb3712b2c11d7_273x402.jpg","url":"https://we-play.tv/watching/movie/the-invisible-man-2020","referer": "https://we-play.tv/","playInNatPlayer": "true"},
