@@ -28,7 +28,6 @@
     "name": "Action Movies",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEfKOZf38lmb9VlkQFLeRrqtGInaSOK9t2Q&usqp=CAU",
     "stations": [ 
-
 {"name":"มอร์ทัล-คอมแบท-(2021)-[พากย์ไทย-บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/ql9a1iq0x5wwwkkwgk.jpg","url":"https://www.doonung1234.com/movie/view/2050/Mortal-Kombat-มอร์ทัล-คอมแบท-(2021)-[พากย์ไทย-บรรยายไทย]","playInNatPlayer": "true" },
 {"name":"ส่องปมมรณะ-(2021)-[พากย์ไทย-บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2b583pgde2zo80k8k8.jpg","url":"https://www.doonung1234.com/movie/view/2049/The-Woman-in-the-Window-ส่องปมมรณะ-(2021)-[พากย์ไทย-บรรยายไทย]","playInNatPlayer": "true" },
 {"name":"Boy-Genius-(2019)-HDTV-[พากย์ไทย-บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/9hwyk1tjb38ksws4gg.jpg","url":"https://www.doonung1234.com/movie/view/2058/Boy-Genius-(2019)-HDTV-[พากย์ไทย-บรรยายไทย]","playInNatPlayer": "true" },
@@ -191,8 +190,6 @@
 "image":"https://movie24thai.com/wp-content/uploads/2021/03/5.png",
 "url":"https://movie24thai.com/fake-bodyguard-2021-บอดี้การ์ดพันธุ์เก๊/"
 },
-
-
 ]
   }, 
 {  
@@ -308,7 +305,6 @@
     "name": "COMEDY Movies", 
     "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2020/11/Best-Comedies-Netflix-V3.png",       
     "stations": [ 
-
 {
 "name":"SHE'S THE MAN (2006) แอบแมน มาปิ๊งแมน 2006","image":"https://youflix4k.com/uploads/jpg/6f666e4131752d7980bf0f0cff7a33b7.jpg","url":"https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/M/Inter/Shes_the_Man_2006/Shes_the_Man_2006_TH.mp4/index.m3u8","playInNatPlayer": "true"
 },
@@ -351,7 +347,6 @@
     "name": "Thai Movies", 
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBseAG-4ZEBZ3GJKDWU1BFmDAqiPkxlnbQbQ&usqp=CAU",       
     "stations": [ 
-
 {
 "name":"Nemesis คืนยุติ-ธรรม",
 "image":"https://moviekub.com/images/movie/0Vz9DCABtFrYZbTsOE1m37I2W5Xostw1922.jpg",
@@ -405,11 +400,8 @@
     "name": "Drama Movies", 
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IslUfi3wb0QO8aOnlgJ2OVQOV7T0HW-jHg&usqp=CAU",       
     "stations": [ 
-
-{"name":"Exodus: Gods And Kings",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt7RbOKnJUytHS592MmGRksXQW3xGaL589CQ&usqp=CAU",
-"url":"https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/bd6785411a85aac18da6efb2e6afa647/bd6785411a85aac18da6efb2e6afa647.m3u8",
-"playInNatPlayer":"true"},
+{"name":"The Grand Budapest Hotel (2014)","image":"https://www.img03.xyz/assets/movie_poster/import/poster_53bf693c2ddad1_81259243.jpg","url":"https://nungdeedee.com/movie/info/6241/%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87-The-Grand-Budapest-Hotel-%e0%b8%84%e0%b8%94%e0%b8%b5%e0%b8%9e%e0%b8%b4%e0%b8%aa%e0%b8%94%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b9%81%e0%b8%a3%e0%b8%a1%e0%b9%81%e0%b8%81%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%9a%e0%b8%b9%e0%b8%94%e0%b8%b2%e0%b9%80%e0%b8%9b%e0%b8%aa%e0%b8%95%e0%b9%8c-2014-%e0%b9%80%e0%b8%95%e0%b9%87%e0%b8%a1%e0%b9%80%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87/","playInNatPlayer":"true"},
+{"name":"Exodus: Gods And Kings","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt7RbOKnJUytHS592MmGRksXQW3xGaL589CQ&usqp=CAU","url":"https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/bd6785411a85aac18da6efb2e6afa647/bd6785411a85aac18da6efb2e6afa647.m3u8","playInNatPlayer":"true"},
 {
 "name":"The Soloist (2009) เดี่ยวข้างถนน ยอดคนผู้ยิ่งใหญ่",
 "image":"https://movie24th.com/wp-content/uploads/2020/11/0966-402x603.jpg",
@@ -461,10 +453,6 @@
 "image": "https://cdn-img.movieclub.tv/img_movies_vertical/1568275203_saving-private-ryan_cover.jpg",
 "url":"http://bit.ly/ryanmovies","referer": "https://all-movie.tv/"
 },
-
-
-    
-
 ]
 }
 ]
