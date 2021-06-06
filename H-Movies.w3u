@@ -4,194 +4,47 @@
    "url": "http://doona.cf/H-Movies.w3u",
    "image": "https://i.postimg.cc/CKNKzYRR/h-movies.png",
    "groups": [   
-{
-"name": "Premium Movies",
-"image": "https://doona.cf/cinema.jpeg",
-"url": "https://raw.githubusercontent.com/cholezooza/kingball/main/MoviesHD.m3u",
-"info":"MoviesHD",
-"import": false
-},   
-{
-"name": "Sequence Movies",
-"author": "@Whoami Creator",           
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5dt5hZksCvGeouNj6tInyHgpaivqzS0esw&usqp=CAU",
-"url": "https://dl.dropbox.com/s/cyk3l3ykcrkaxjo/Sequence_Movies.w3u",
-"import": false
-},    
-{
-"name": "Premium Series",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KwonBnqBiYRYuZBpGOiCyIZ42vQl00bb7w&usqp=CAU",
-"url": "https://mayked.tk/ghostfight",
-"import": false
-},   
+{"name":"Premium Movies","image":"https://doona.cf/cinema.jpeg","url": "https://raw.githubusercontent.com/cholezooza/kingball/main/MoviesHD.m3u","info":"MoviesHD","import": false},   
+{"name":"Sequence Movies","author":"@Whoami Creator","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5dt5hZksCvGeouNj6tInyHgpaivqzS0esw&usqp=CAU","url": "https://dl.dropbox.com/s/cyk3l3ykcrkaxjo/Sequence_Movies.w3u","import": false},    
+{"name":"Premium Series","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KwonBnqBiYRYuZBpGOiCyIZ42vQl00bb7w&usqp=CAU","url": "https://mayked.tk/ghostfight","import": false},   
    {
     "name": "Action Movies",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYEfKOZf38lmb9VlkQFLeRrqtGInaSOK9t2Q&usqp=CAU",
     "stations": [ 
+{"name":"Ip Man: Kung Fu Master (2019)","image":"https://nungdeedee.com/uploads/images/jqc19dp7stw8sw4c4k.jpg","url":"https://nungdeedee.com/movie/info/18530/ip-man-kung-fu-master-2019-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2","referer":"https://nungdeedee.com","playInNatPlayer":"true"},
 {"name":"มอร์ทัล-คอมแบท-(2021)-[พากย์ไทย-บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/ql9a1iq0x5wwwkkwgk.jpg","url":"https://www.doonung1234.com/movie/view/2050/Mortal-Kombat-มอร์ทัล-คอมแบท-(2021)-[พากย์ไทย-บรรยายไทย]","playInNatPlayer": "true" },
 {"name":"ส่องปมมรณะ-(2021)-[พากย์ไทย-บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2b583pgde2zo80k8k8.jpg","url":"https://www.doonung1234.com/movie/view/2049/The-Woman-in-the-Window-ส่องปมมรณะ-(2021)-[พากย์ไทย-บรรยายไทย]","playInNatPlayer": "true" },
 {"name":"Boy-Genius-(2019)-HDTV-[พากย์ไทย-บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/9hwyk1tjb38ksws4gg.jpg","url":"https://www.doonung1234.com/movie/view/2058/Boy-Genius-(2019)-HDTV-[พากย์ไทย-บรรยายไทย]","playInNatPlayer": "true" },
-{
-"name":"Goz vs Kong HD",
-"image":"https://www.img04.xyz/assets/movie_poster/f/f40af2eb2fc3ade7c27a92f4df63f53f.jpg",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/95153788813f990afa1039b3cfe0861e/95153788813f990afa1039b3cfe0861e.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name":"Centurion (2010) อหังการนักรบแผ่นดินเถื่อน",
-"image":"https://movie24th.com/wp-content/uploads/2020/11/0966-402x603.jpg",
-"url":"https://movie24th.com/centurion-2010-อหังการนักรบแผ่นดินเ/",
-"info":"https://movie24th.com/",
-"playInNatPlayer": "true"
-},
-{
-"name":"The Eight Hundred (2020) นักรบ 800",
-"image":"https://movie2du.com/wp-content/uploads/2020/11/e0b899e0b8b1e0b881e0b8a3e0b89a-800.jpg",
-"url":"https://cdn-hls-1.steamplayer.xyz/hls/RKEJub4D1n/file_,1080,.mp4.urlset/master.m3u8",
-"playInNatPlayer": "true"
-},
-{
-"name":"Pandorum (2009) แพนดอรัม ลอกชีพ",
-"image":"https://movie24th.com/wp-content/uploads/2020/11/1118.jpg",
-"url":"https://movie24th.com/pandorum-2009-แพนดอรัม-ลอกชีพ/",
-"info":"https://movie24th.com/",
-"playInNatPlayer": "true"
-},
-{"name":"3022 3022 วัน ฝ่าวิกฤติแพนเจีย 2019",
-"image":"https://dooflix.com/wp-content/uploads/2021/05/MV5BNWNhMDdiYzktMjQzNy00NGYwLWIwMTQtMmFiNzZkZGRjOTI3XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SX300.jpg",
-"url":"https://movie222hd.mas-streamingcloud.xyz/view/c890d50d-8ca8-56a6-afcd-bfcf53953317",
-"playInNatPlayer": "true"
-},
-{"name":"Hard Kill 2020",
-"image":"https://cdn-img.movieclub.tv/img_movies_vertical/1598871334_cover1.jpg",
-"url":"https://www.all-movie.tv/Hard%20Kill%20%282020%29"
-},
-{"name":"The Hurt Locker 2008",
-"image":"https://cdn-img.movieclub.tv/img_movies_vertical/1620900307_1.jpg",
-"url":"https://www.all-movie.tv/The%20Hurt%20Locker%20%282008%29"
-},
-{"name": "Bullet to The Head- กระสุนเดนตาย",
-"url":"https://nungdeedee.com/movie/info/13719/Bullet-to-the-Head-2012-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2",
-"referer": "https://nungdeedee.com/movie/",
-"image": "https://nungdeedee.com/uploads/images/s2yktbxng9w0s00wg.jpg","playInNatPlayer": "true" 
-},
-{"name": "First Kill",
-"url":"https://nungdeedee.com/movie/info/12422/First-Kill-%E0%B9%80%E0%B8%9F%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%84%E0%B8%B4%E0%B8%A5-2017",
-"referer": "https://nungdeedee.com/movie/",
-"image": "https://nungdeedee.com/uploads/images/npuy6bqu9c04s8wgc0.png",
-"playInNatPlayer": "true" 
-},
-{"name": "Rock N Rolla - หักเหลี่ยมแก๊งชนแก๊ง",
-"url":"https://nungdeedee.com/movie/info/16210/rocknrolla-2008-%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B9%8C",
-"referer": "https://nungdeedee.com/movie/",
-"image": "https://nungdeedee.com/uploads/images/q1cjt9bytf4s0o08sc.jpg","playInNatPlayer": "true"
-},
-{"name": "SEMPERB Fi - แผนระห่ำ ตำรวจพันธุ์เดือด",
-"url":"https://nungdeedee.com/movie/info/16248/semper-fi-%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94-2019-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2",
-"referer": "https://nungdeedee.com/movie/",
-"image": "https://nungdeedee.com/uploads/images/gy0b77noc5k4o04gg.jpg",
-"playInNatPlayer": "true" 
-},
-{"name": "ก็อดซิลล่า ปะทะ คอง",
-"url": "https://we-play.tv/watching/movie/godzilla-vs-kong-2021","referer": "https://we-play.tv/movie/",
-"image": "https://www.we-play.tv//uploads/backdrop/godzilla-vs-kong-2021-backdrop-.jpg",
-"playInNatPlayer": "true" 
-},
-{"name": "Molly's Game เกม โกง รวย",
-"url":"https://we-play.tv/watching/movie/mollys-game-2017","referer": "https://we-play.tv/movie/",
-"image": "https://www.we-play.tv//uploads/backdrop/molly-s-game-backdrop.jpeg",
-"playInNatPlayer": "true" 
-},
-{"name": "The Highwayman-มือปราบล่าพระกาฬ",
-"url":"https://we-play.tv/watching/movie/the-highwaymen-2019","referer": "https://we-play.tv/movie/",
-"image": "https://www.we-play.tv//uploads/backdrop/the-highwaymen-backdrop-1602416996.jpeg",
-"playInNatPlayer": "true" 
-},
-{"name": "ปล้น ล่า ท้านรก",
-"url":"https://we-play.tv/watching/movie/triple-frontier-2019","referer": "https://we-play.tv/movie/",
-"image": "https://www.we-play.tv//uploads/backdrop/triple-frontier-backdrop-1602414359.jpeg",
-"playInNatPlayer": "true" 
-},
-{"name": "มัจจุราชไร้เงา 2",
-"url":"https://www.we-play.tv/watching/movie/the-equalizer-2-2018","referer": "https://we-play.tv/movie/",
-"image": "https://www.we-play.tv//uploads/backdrop/the-equalizer-2-backdrop.jpeg","playInNatPlayer": "true"
-},
-{
-"name":"Dark Water | 2019 | TH",
-"image":"https://cdn-img.movieclub.tv/img_movies_vertical/1589945263_545.jpg",
-"url":"http://all-movie.tv/Dark Waters (2019)","referer": "http://all-movie.tv/",
-"playInNatPlayer": true
-},               
-{
-"name":"คิง-อาร์เธอร์-ตำนานแห่งดาบราชันย์-| 2017| TH",
-"image":"https://cdn-img.movieclub.tv/img_movies_vertical/dfc0155fc7724a9f232c860e7ebab2ca.jpg",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/0eeaa5eb5f5bdebd9903c578f8dff5e9/0eeaa5eb5f5bdebd9903c578f8dff5e9.m3u8",
-"playInNatPlayer": true
-},               
-{
-"name":"Helen of Troy | 2003 | TH",
-"image":"https://cdn-img.movieclub.tv/img_movies_vertical/1614878872_helen.jpg",
-"url":"https://www.all-movie.tv/Helen%20of%20Troy","referer": "http://all-movie.tv/",
-"playInNatPlayer": true
-},               
-{
-"name":"Escape Plan 1 | 2018| TH",
-"image":"https://www.img03.xyz/assets/movie_poster/2/287b9141d3dd2c673fd369eedbe2519b.jpg",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/0ee6d77f4244ba3fde3b8273d3b2d8cf/0ee6d77f4244ba3fde3b8273d3b2d8cf.m3u8",
-"playInNatPlayer": true
-},               
-{
-"name":"Escape Plan 2 | 2018| TH",
-"image":"https://www.img03.xyz/assets/movie_poster/b/bc73e72b51354c740db4542046f8e532.jpg",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/d2fc4dfecc94b2a32d72c539a4e3cf88/d2fc4dfecc94b2a32d72c539a4e3cf88.m3u8",
-"playInNatPlayer": true
-},               
-{
-"name":"Escape Plan 3 | 2018| TH",
-"image":"https://www.img03.xyz/assets/movie_poster/c/c142aa72d901b389f5f9cf1fb7ae6acd.jpg",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/193db98fe7e963274fbd5aa00191b078/193db98fe7e963274fbd5aa00191b078.m3u8",
-"playInNatPlayer": true
-},
-{             
-"name":"XIII: The Conspiracy ล้างแผนบงการยอดจารชน 2008–",
-"image":"https://dooflix.com/wp-content/uploads/2021/03/MV5BZTk2ZTNhOTItZWMxNy00MTIwLWIwODYtNDg5ZGMzMmQ4NmRmXkEyXkFqcGdeQXVyMzI2ODkyNDg@._V1_SX300.jpg",
-"url":"https://dooflix.com/movie/xiii-the-conspiracy/",
-"info":"Action"
-},
-{
-"name":"JCVD ฌอง คล็อด แวน แดมม์ ข้านี่แหละคนมหาประลัย 2008",
-"image":"https://dooflix.com/wp-content/uploads/2021/03/MV5BNDAwMDg5MTY1N15BMl5BanBnXkFtZTcwMTU1MjcwMg@@._V1_SX300.jpg",
-"url":"https://dooflix.com/movie/jcvd/",
-"info":"Action"
-},
-{
-"name":"THE EXPENDABLES 1 (2010) โคตรคนทีมมหากาฬ 1",
-"image":"https://www.img09.xyz/assets/movie_poster/d/d26b664456f887e88ec1bf262b580916.jpeg",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/df647a21b16cf8a168468b65bdd9c754/df647a21b16cf8a168468b65bdd9c754.m3u8"
-},
-{
-"name":"THE EXPENDABLES 2 (2012) โคตรคนทีมมหากาฬ 2",
-"image":"https://www.img09.xyz/assets/movie_poster/d/d410f46a899c68133e02d565b01183f8.jpg",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/d606f3a4d50edf9eae7cb79f52f62d4b/d606f3a4d50edf9eae7cb79f52f62d4b.m3u8"
-},
-{
-"name":"THE EXPENDABLES 3 (2014) โคตรคนทีมมหากาฬ 3",
-"image":"https://www.img09.xyz/assets/movie_poster/import/poster_53e87a1c12db45_91187564.jpg",
-"url":"https://www.doofree88.com/movie/the-expendables-3%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC-%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%80"
-},
-{
-"name":"หน่วยเก็บ 2020",
-"image":"https://123hd-movie.com/nxt-content/uploads/20210106/dfe03ae0e428295add0752e851ab4c99_273x402.jpg",
-"url":"https://we-play.tv/watching/movie/archive-2020",
-"referer": "https://we-play.tv/"
-},
-{
-"name":"Fake Bodyguard 2021",
-"image":"https://movie24thai.com/wp-content/uploads/2021/03/5.png",
-"url":"https://movie24thai.com/fake-bodyguard-2021-บอดี้การ์ดพันธุ์เก๊/"
-},
+{"name":"Goz vs Kong HD","image":"https://www.img04.xyz/assets/movie_poster/f/f40af2eb2fc3ade7c27a92f4df63f53f.jpg","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/95153788813f990afa1039b3cfe0861e/95153788813f990afa1039b3cfe0861e.m3u8","playInNatPlayer": "true"},
+{"name":"Centurion (2010) อหังการนักรบแผ่นดินเถื่อน","image":"https://movie24th.com/wp-content/uploads/2020/11/0966-402x603.jpg","url":"https://movie24th.com/centurion-2010-อหังการนักรบแผ่นดินเ/","info":"https://movie24th.com/","playInNatPlayer": "true"},
+{"name":"The Eight Hundred (2020) นักรบ 800","image":"https://movie2du.com/wp-content/uploads/2020/11/e0b899e0b8b1e0b881e0b8a3e0b89a-800.jpg","url":"https://cdn-hls-1.steamplayer.xyz/hls/RKEJub4D1n/file_,1080,.mp4.urlset/master.m3u8","playInNatPlayer": "true"},
+{"name":"Pandorum (2009) แพนดอรัม ลอกชีพ","image":"https://movie24th.com/wp-content/uploads/2020/11/1118.jpg","url":"https://movie24th.com/pandorum-2009-แพนดอรัม-ลอกชีพ/","info":"https://movie24th.com/","playInNatPlayer": "true"},
+{"name":"3022 3022 วัน ฝ่าวิกฤติแพนเจีย 2019","image":"https://dooflix.com/wp-content/uploads/2021/05/MV5BNWNhMDdiYzktMjQzNy00NGYwLWIwMTQtMmFiNzZkZGRjOTI3XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SX300.jpg","url":"https://movie222hd.mas-streamingcloud.xyz/view/c890d50d-8ca8-56a6-afcd-bfcf53953317","playInNatPlayer": "true"},
+{"name":"Hard Kill 2020","image":"https://cdn-img.movieclub.tv/img_movies_vertical/1598871334_cover1.jpg","url":"https://www.all-movie.tv/Hard%20Kill%20%282020%29"},
+{"name":"The Hurt Locker 2008","image":"https://cdn-img.movieclub.tv/img_movies_vertical/1620900307_1.jpg","url":"https://www.all-movie.tv/The%20Hurt%20Locker%20%282008%29"},
+{"name": "Bullet to The Head- กระสุนเดนตาย","url":"https://nungdeedee.com/movie/info/13719/Bullet-to-the-Head-2012-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2","referer": "https://nungdeedee.com/movie/","image": "https://nungdeedee.com/uploads/images/s2yktbxng9w0s00wg.jpg","playInNatPlayer": "true" },
+{"name": "First Kill","url":"https://nungdeedee.com/movie/info/12422/First-Kill-%E0%B9%80%E0%B8%9F%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%84%E0%B8%B4%E0%B8%A5-2017","referer": "https://nungdeedee.com/movie/","image": "https://nungdeedee.com/uploads/images/npuy6bqu9c04s8wgc0.png","playInNatPlayer": "true" },{"name": "Rock N Rolla - หักเหลี่ยมแก๊งชนแก๊ง","url":"https://nungdeedee.com/movie/info/16210/rocknrolla-2008-%E0%B8%AB%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B9%8C","referer": "https://nungdeedee.com/movie/","image": "https://nungdeedee.com/uploads/images/q1cjt9bytf4s0o08sc.jpg","playInNatPlayer": "true"},
+{"name": "SEMPERB Fi - แผนระห่ำ ตำรวจพันธุ์เดือด","url":"https://nungdeedee.com/movie/info/16248/semper-fi-%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94-2019-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2","referer": "https://nungdeedee.com/movie/","image": "https://nungdeedee.com/uploads/images/gy0b77noc5k4o04gg.jpg","playInNatPlayer": "true" },
+{"name": "ก็อดซิลล่า ปะทะ คอง","url": "https://we-play.tv/watching/movie/godzilla-vs-kong-2021","referer": "https://we-play.tv/movie/","image": "https://www.we-play.tv//uploads/backdrop/godzilla-vs-kong-2021-backdrop-.jpg","playInNatPlayer": "true" },
+{"name": "Molly's Game เกม โกง รวย","url":"https://we-play.tv/watching/movie/mollys-game-2017","referer": "https://we-play.tv/movie/","image": "https://www.we-play.tv//uploads/backdrop/molly-s-game-backdrop.jpeg","playInNatPlayer": "true" },
+{"name": "The Highwayman-มือปราบล่าพระกาฬ","url":"https://we-play.tv/watching/movie/the-highwaymen-2019","referer": "https://we-play.tv/movie/","image": "https://www.we-play.tv//uploads/backdrop/the-highwaymen-backdrop-1602416996.jpeg","playInNatPlayer": "true" },
+{"name": "ปล้น ล่า ท้านรก","url":"https://we-play.tv/watching/movie/triple-frontier-2019","referer": "https://we-play.tv/movie/","image": "https://www.we-play.tv//uploads/backdrop/triple-frontier-backdrop-1602414359.jpeg","playInNatPlayer": "true" },
+{"name": "มัจจุราชไร้เงา 2","url":"https://www.we-play.tv/watching/movie/the-equalizer-2-2018","referer": "https://we-play.tv/movie/","image": "https://www.we-play.tv//uploads/backdrop/the-equalizer-2-backdrop.jpeg","playInNatPlayer": "true"},
+{"name":"Dark Water | 2019 | TH","image":"https://cdn-img.movieclub.tv/img_movies_vertical/1589945263_545.jpg","url":"http://all-movie.tv/Dark Waters (2019)","referer": "http://all-movie.tv/","playInNatPlayer": true},               
+{"name":"คิง-อาร์เธอร์-ตำนานแห่งดาบราชันย์-| 2017| TH","image":"https://cdn-img.movieclub.tv/img_movies_vertical/dfc0155fc7724a9f232c860e7ebab2ca.jpg","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/0eeaa5eb5f5bdebd9903c578f8dff5e9/0eeaa5eb5f5bdebd9903c578f8dff5e9.m3u8","playInNatPlayer": true},               
+{"name":"Helen of Troy | 2003 | TH","image":"https://cdn-img.movieclub.tv/img_movies_vertical/1614878872_helen.jpg","url":"https://www.all-movie.tv/Helen%20of%20Troy","referer": "http://all-movie.tv/","playInNatPlayer": true},               
+{"name":"Escape Plan 1 | 2018| TH","image":"https://www.img03.xyz/assets/movie_poster/2/287b9141d3dd2c673fd369eedbe2519b.jpg","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/0ee6d77f4244ba3fde3b8273d3b2d8cf/0ee6d77f4244ba3fde3b8273d3b2d8cf.m3u8","playInNatPlayer": true},               
+{"name":"Escape Plan 2 | 2018| TH","image":"https://www.img03.xyz/assets/movie_poster/b/bc73e72b51354c740db4542046f8e532.jpg","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/d2fc4dfecc94b2a32d72c539a4e3cf88/d2fc4dfecc94b2a32d72c539a4e3cf88.m3u8","playInNatPlayer": true},               
+{"name":"Escape Plan 3 | 2018| TH","image":"https://www.img03.xyz/assets/movie_poster/c/c142aa72d901b389f5f9cf1fb7ae6acd.jpg","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/193db98fe7e963274fbd5aa00191b078/193db98fe7e963274fbd5aa00191b078.m3u8","playInNatPlayer": true},
+{"name":"XIII: The Conspiracy ล้างแผนบงการยอดจารชน 2008–","image":"https://dooflix.com/wp-content/uploads/2021/03/MV5BZTk2ZTNhOTItZWMxNy00MTIwLWIwODYtNDg5ZGMzMmQ4NmRmXkEyXkFqcGdeQXVyMzI2ODkyNDg@._V1_SX300.jpg","url":"https://dooflix.com/movie/xiii-the-conspiracy/","info":"Action"},
+{"name":"JCVD ฌอง คล็อด แวน แดมม์ ข้านี่แหละคนมหาประลัย 2008","image":"https://dooflix.com/wp-content/uploads/2021/03/MV5BNDAwMDg5MTY1N15BMl5BanBnXkFtZTcwMTU1MjcwMg@@._V1_SX300.jpg","url":"https://dooflix.com/movie/jcvd/","info":"Action"},
+{"name":"THE EXPENDABLES 1 (2010) โคตรคนทีมมหากาฬ 1","image":"https://www.img09.xyz/assets/movie_poster/d/d26b664456f887e88ec1bf262b580916.jpeg","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/df647a21b16cf8a168468b65bdd9c754/df647a21b16cf8a168468b65bdd9c754.m3u8"},
+{"name":"THE EXPENDABLES 2 (2012) โคตรคนทีมมหากาฬ 2","image":"https://www.img09.xyz/assets/movie_poster/d/d410f46a899c68133e02d565b01183f8.jpg","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/d606f3a4d50edf9eae7cb79f52f62d4b/d606f3a4d50edf9eae7cb79f52f62d4b.m3u8"},
+{"name":"THE EXPENDABLES 3 (2014) โคตรคนทีมมหากาฬ 3","image":"https://www.img09.xyz/assets/movie_poster/import/poster_53e87a1c12db45_91187564.jpg","url":"https://www.doofree88.com/movie/the-expendables-3%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC-%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%80"},
+{"name":"หน่วยเก็บ 2020","image":"https://123hd-movie.com/nxt-content/uploads/20210106/dfe03ae0e428295add0752e851ab4c99_273x402.jpg","url":"https://we-play.tv/watching/movie/archive-2020","referer": "https://we-play.tv/"},
+{"name":"Fake Bodyguard 2021","image":"https://movie24thai.com/wp-content/uploads/2021/03/5.png","url":"https://movie24thai.com/fake-bodyguard-2021-บอดี้การ์ดพันธุ์เก๊/"},
 ]
-  }, 
+}, 
 {  
     "name": "Sci-Fi Movies", 
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2Uy43Nn8zbc_--4zKkJbdlKEPEoRBb0bow&usqp=CAU",       
@@ -203,256 +56,70 @@
 {"name":"Nobody (2021) คนธรรมดานรกเรียกพี่","image":"https://bettopfivemovie.com/wp-content/uploads/2021/03/oBgWY00bEFeZ9N25wWVyuQddbAo-185x278.jpg","url":"https://vod-th8.streammaster.co/vod/nd_1804_720.mp4/playlist.m3u8","playInNatPlayer":"true"},
 {"name":"ยอดมนุษย์สุดโต่ง - 2021","image":"https://www.we-play.tv//uploads/backdrop/super-me-2019-backdrop-.jpg","url":"https://we-play.tv/watching/movie/super-me-2019","referer":"https://we-play.tv/"},
 {"name":"Netrokronic - ทีมพิฆาตไซเบอร์ 2018","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/qo2m0ufl77kw4wos8.jpg","url":"https://www.doonung1234.com/movie/view/2002/Nekrotronic-%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B9%84%E0%B8%8B%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C-(2018)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2]","userAgent": "exoplayer_video","playInNatPlayer": "true","info":"doonung1234-new"},
-{
-"name":"The Monster - มันมาเพื่อฉีกโลก 2018",
-"image":"https://nungdeedee.com/uploads/images/1lpzqlkwnsskc4g0sk.jpg",
-"url":"https://nungdeedee.com/movie/info/18617/the-monsters-%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%89%E0%B8%B5%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81-2018-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2",
-"userAgent": "exoplayer_video",
-"playInNatPlayer": "true",
-"info":"nungdd-new"
-},
-{
-"name":"Skyline - สงครามดูดโลก 2018",
-"image":"https://nungdeedee.com/uploads/images/23x7bohh6x1c40ckww.jpg",
-"url":"https://nungdeedee.com/movie/info/17501/skyline-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81-2010-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
-"userAgent": "exoplayer_video",
-"playInNatPlayer": "true",
-"info":"nungdd-new"
-},
-{
-"name":"Bright- 2017",
-"image":"https://nungdeedee.com/uploads/images/be621do63c8ogko4gc.png",
-"url":"https://nungdeedee.com/movie/info/14579/Bright-%E0%B9%84%E0%B8%9A%E0%B8%A3%E0%B8%97%E0%B9%8C-2017",
-"userAgent": "exoplayer_video",
-"playInNatPlayer": "true",
-"info":"nungdd-new"
-},
-{
-"name":"Finding Altamira Altamira เดอะ ลาสต์ เวอเมียร์ (2016) [พากย์ไทย บรรยายไทย]",
-"image":"https://nungdeedee.com/uploads/images/2ug11fndweqs8s4kc4.jpg",
-"url":"https://nungdeedee.com/movie/info/16612/finding-altamira-altamira-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%B5-2016-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2",
-"info":"Sci-Fi"
-},
-{
-"name":"Goz vs Kong",
-"image":"https://cdn.majorcineplex.com/uploads/movie/2746/thumb_2746.jpg",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/b6c7c58b8a26cbd37dda6797e117a547/b6c7c58b8a26cbd37dda6797e117a547.m3u8",
-"referer": "https://www.doomovie-hd.com/"
-},
-{
-"name":"โครตคนชนเอเลี่ยน",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLeCEBlYrWnRjR5xjc7gzxcqEYKGmlCbbOrA&usqp=CAU",
-"url":"http://sg-6.podzone.org:1935/movie3/Jiu_Jitsu_2020/Jiu_Jitsu_2020_thr_z1.mp4/playlist.m3u8"
-},    
-{
-"name":"มนุษย์ล่องหน",
-"image":"https://123hd-movie.com/nxt-content/uploads/20200623/57193ee164f8a44a9c7cb3712b2c11d7_273x402.jpg",
-"url":"https://we-play.tv/watching/movie/the-invisible-man-2020",
-"referer": "https://we-play.tv/",
-"playInNatPlayer": "true"
-},
-{
-"name":"สุภาพบุรุษสดขั้ว",
-"image":"https://cdn-img.movieclub.tv/img_movies_vertical/1609649309_1.jpg",
-"url":"https://cache-movie.all-movie.tv/hls/content/nas06/mvc/M/Asia/What_Happened_to_Mr_Cha_2021/What_Happened_to_Mr_Cha_ST.mp4/index.m3u8?st=pMDdeDTEEBI_EKhDACbiKw&e=1611203286&u=AllMovie",
-"referer": "https://all-movie.tv/"
-},
-{
-"name":"Outside the Wire (2021) สมรภูมินอกลวดหนาม",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8kz2P6lb6v1ikSV_1GGWVw7PGJt7Q3BaqA&usqp=CAU",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/98dc714266251bd5c26ace8027d65085/98dc714266251bd5c26ace8027d65085.m3u8",
-"referer": "https://www.doomovie-hd.com/"
-},
-{
-"image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/b8tt9y387i0wo0ggso.jpg", 
-"name":"The Operative ปฏิบัติการจารชนเจาะเตหะราน (2019) [พากย์ไทย บรรยายไทย]",
-"url":"https://www.doonung1234.com/movie/view/1921/The-Operative-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%95%E0%B8%AB%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%99-(2019)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]" },
-{
-"image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/39y3fx4aft6o888ksw.jpg", 
-"name":"Kingdom {Kingudamu} สงครามบัลลังก์ผงาดจิ๋นซี (2019) [พากย์ไทย บรรยายไทย]",
-"url":"https://www.doonung1234.com/movie/view/1933/Kingdom-%7BKingudamu%7D-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%99%E0%B8%8B%E0%B8%B5-(2019)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]"
-},
-{
-"url":"https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Red_Eye_2005/Red_Eye_2005_T.mp4/index.m3u8?st=vRdnp89H2rgjSK8EOinvuw&e=1618358774&u=AllMovie",
-"name":"Red Eye เที่ยวบินระทึก",
-"image":"https://cdn-img.movieclub.tv/img_movies_vertical/5646.jpg",
-"info":"all-movie.tv" },
-{
-"url":"http://www.all-movie.tv/Red%20Eye%20%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B6%E0%B8%81",
-"name":"Red Eye เที่ยวบินระทึก",
-"image":"https://cdn-img.movieclub.tv/img_movies_vertical/5646.jpg",
-"info":"all-movie.tv" },
-{
-"url":"https://www.doofree88.com/movie/widows-2018หม้ายสาวล้างบัญชีหนี-21a7Pv09zA",
-"name":"Widows (2018):หม้ายสาวล้างบัญชีหนี้",
-"image":"https://www.doofree88.com/storage/images/2019/6/9K9kurodx9qWlmtkDJRUAjvTtCGepSyf3t0LtA0J.jpg",
-"info":"doofree88" },
-{
-"url":"https://www.doofree88.com/movie/geostormเมฆาถล่มโลก-hd",
-"name":"Geostorm เมฆาถล่มโลก",
-"image":"https://www.doofree88.com/storage/images/2021/1/7zxhdEmQyzFCNfjNPgIC2tKqF5B3OndHUv2a5R6G.jpg",
-"info":"doofree88" },
-{
-"image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/v73l896kpmsgcww440.jpg",
-"name":"Night in Paradise คืนดับแดนสวรรค์ (2020) [พากย์ไทย บรรยายไทย]",
-"url":"https://www.doonung1234.com/movie/view/1926/Night-in-Paradise-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C-(2020)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]"
-},
-
+{"name":"The Monster - มันมาเพื่อฉีกโลก 2018","image":"https://nungdeedee.com/uploads/images/1lpzqlkwnsskc4g0sk.jpg","url":"https://nungdeedee.com/movie/info/18617/the-monsters-%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%89%E0%B8%B5%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81-2018-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2","userAgent": "exoplayer_video","playInNatPlayer": "true","info":"nungdd-new"},
+{"name":"Skyline - สงครามดูดโลก 2018","image":"https://nungdeedee.com/uploads/images/23x7bohh6x1c40ckww.jpg","url":"https://nungdeedee.com/movie/info/17501/skyline-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81-2010-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2","userAgent": "exoplayer_video","playInNatPlayer": "true","info":"nungdd-new"},
+{"name":"Bright- 2017","image":"https://nungdeedee.com/uploads/images/be621do63c8ogko4gc.png","url":"https://nungdeedee.com/movie/info/14579/Bright-%E0%B9%84%E0%B8%9A%E0%B8%A3%E0%B8%97%E0%B9%8C-2017","userAgent": "exoplayer_video","playInNatPlayer": "true","info":"nungdd-new"},
+{"name":"Finding Altamira Altamira เดอะ ลาสต์ เวอเมียร์ (2016) [พากย์ไทย บรรยายไทย]","image":"https://nungdeedee.com/uploads/images/2ug11fndweqs8s4kc4.jpg""url":"https://nungdeedee.com/movie/info/16612/finding-altamira-altamira-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%B5-2016-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2","info":"Sci-Fi"},
+{"name":"Goz vs Kong","image":"https://cdn.majorcineplex.com/uploads/movie/2746/thumb_2746.jpg","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/b6c7c58b8a26cbd37dda6797e117a547/b6c7c58b8a26cbd37dda6797e117a547.m3u8","referer": "https://www.doomovie-hd.com/"},
+{"name":"โครตคนชนเอเลี่ยน","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLeCEBlYrWnRjR5xjc7gzxcqEYKGmlCbbOrA&usqp=CAU","url":"http://sg-6.podzone.org:1935/movie3/Jiu_Jitsu_2020/Jiu_Jitsu_2020_thr_z1.mp4/playlist.m3u8"},    
+{"name":"มนุษย์ล่องหน","image":"https://123hd-movie.com/nxt-content/uploads/20200623/57193ee164f8a44a9c7cb3712b2c11d7_273x402.jpg","url":"https://we-play.tv/watching/movie/the-invisible-man-2020","referer": "https://we-play.tv/","playInNatPlayer": "true"},
+{"name":"สุภาพบุรุษสดขั้ว","image":"https://cdn-img.movieclub.tv/img_movies_vertical/1609649309_1.jpg","url":"https://cache-movie.all-movie.tv/hls/content/nas06/mvc/M/Asia/What_Happened_to_Mr_Cha_2021/What_Happened_to_Mr_Cha_ST.mp4/index.m3u8?st=pMDdeDTEEBI_EKhDACbiKw&e=1611203286&u=AllMovie","referer": "https://all-movie.tv/"},
+{"name":"Outside the Wire (2021) สมรภูมินอกลวดหนาม","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY8kz2P6lb6v1ikSV_1GGWVw7PGJt7Q3BaqA&usqp=CAU","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/98dc714266251bd5c26ace8027d65085/98dc714266251bd5c26ace8027d65085.m3u8","referer": "https://www.doomovie-hd.com/"},
+{"image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/b8tt9y387i0wo0ggso.jpg","name":"The Operative ปฏิบัติการจารชนเจาะเตหะราน (2019) [พากย์ไทย บรรยายไทย]","url":"https://www.doonung1234.com/movie/view/1921/The-Operative-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%95%E0%B8%AB%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%99-(2019)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]"},
+{"image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/39y3fx4aft6o888ksw.jpg", "name":"Kingdom {Kingudamu} สงครามบัลลังก์ผงาดจิ๋นซี (2019) [พากย์ไทย บรรยายไทย]","url":"https://www.doonung1234.com/movie/view/1933/Kingdom-%7BKingudamu%7D-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%99%E0%B8%8B%E0%B8%B5-(2019)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]"},
+{"url":"https://cache-movie.all-movie.tv/hls/content/nas05/mvc/M/Inter/Red_Eye_2005/Red_Eye_2005_T.mp4/index.m3u8?st=vRdnp89H2rgjSK8EOinvuw&e=1618358774&u=AllMovie","name":"Red Eye เที่ยวบินระทึก","image":"https://cdn-img.movieclub.tv/img_movies_vertical/5646.jpg","info":"all-movie.tv"},
+{"url":"http://www.all-movie.tv/Red%20Eye%20%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B6%E0%B8%81","name":"Red Eye เที่ยวบินระทึก","image":"https://cdn-img.movieclub.tv/img_movies_vertical/5646.jpg","info":"all-movie.tv"},
+{"url":"https://www.doofree88.com/movie/widows-2018หม้ายสาวล้างบัญชีหนี-21a7Pv09zA","name":"Widows (2018):หม้ายสาวล้างบัญชีหนี้","image":"https://www.doofree88.com/storage/images/2019/6/9K9kurodx9qWlmtkDJRUAjvTtCGepSyf3t0LtA0J.jpg","info":"doofree88"},
+{"url":"https://www.doofree88.com/movie/geostormเมฆาถล่มโลก-hd","name":"Geostorm เมฆาถล่มโลก","image":"https://www.doofree88.com/storage/images/2021/1/7zxhdEmQyzFCNfjNPgIC2tKqF5B3OndHUv2a5R6G.jpg","info":"doofree88"},
+{"image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/v73l896kpmsgcww440.jpg","name":"Night in Paradise คืนดับแดนสวรรค์ (2020) [พากย์ไทย บรรยายไทย]","url":"https://www.doonung1234.com/movie/view/1926/Night-in-Paradise-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C-(2020)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]"},
 
 ]
-  }, 
+}, 
 {  
     "name": "COMEDY Movies", 
     "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2020/11/Best-Comedies-Netflix-V3.png",       
     "stations": [ 
-{
-"name":"SHE'S THE MAN (2006) แอบแมน มาปิ๊งแมน 2006","image":"https://youflix4k.com/uploads/jpg/6f666e4131752d7980bf0f0cff7a33b7.jpg","url":"https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/M/Inter/Shes_the_Man_2006/Shes_the_Man_2006_TH.mp4/index.m3u8","playInNatPlayer": "true"
-},
-{ 
-"name":"Like a Boss (2020) เพื่อนรักหักเหลี่ยมรวย พากย์ไทย","image":"https://www.movie4fever.com/wp-content/uploads/2020/11/like-a-boss-2020.jpg",
-"url":"https://www.movie4fever.com/like-a-boss-2020/","refere": "https://www.movie4fever.com/",
-"playInNatPlayer": "true" 
-},
-{ 
-"name":"American Virgin (2020) สาวจิ้นอยากลองแอ้ม พากย์ไทย",
-"image":"https://www.movie4fever.com/wp-content/uploads/2021/01/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%88%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B9%89%E0%B8%A1.jpg",
-"url":"https://www.movie4fever.com/american-virgin-2020/","refere": "https://www.movie4fever.com/",
-"playInNatPlayer": "true" 
-},
-{ 
-"name":"She's The Man 2006","image":"https://cdn-img.movieclub.tv/img_movies_vertical/1620899873_1.jpg",
-"url":"https://www.all-movie.tv/Shes%20the%20Man%20%282006%29","refere": "http://all-movie.tv/",
-"playInNatPlayer": "true" 
-},
-{ 
-"name":"Thunder Force ธันเดอร์ฟอร์ซ ขบวนการฮีโร่ฟาดฟ้า (2021) [พากย์ไทย บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/qyj3n6iwkc0s4c0ow.jpg",
-"url":"https://www.doonung1234.com/movie/view/1924/Thunder-Force-%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%8B-%E0%B8%82%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%9F%E0%B8%B2%E0%B8%94%E0%B8%9F%E0%B9%89%E0%B8%B2-(2021)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]" 
-},    
-{ 
-"name":"แฮนค๊อก ฮีโร่ขวางนรก","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo4XTNCjTjCbHFl36x1ex4zoPEL1lSSEogbA&usqp=CAU",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/4837f1bee214d4eb8d1ffae66e662914/4837f1bee214d4eb8d1ffae66e662914.m3u8","referer": "https://www.doomovie-hd.com/" 
-},
-{ 
-"name":"Double Dad 2021","image":"https://i.postimg.cc/d0F7xVKd/image.jpg",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/9612a5040ac8795083ef94a0cbc7ee35/9612a5040ac8795083ef94a0cbc7ee35.m3u8","referer": "https://www.doomovie-hd.com/" 
-},
-{ 
-"name":"The Last Shift กะสุดท้าย (2020) [พากย์ไทย บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/f5gq5b88o5c0kkkso.jpg", 
-"url":"https://www.doonung1234.com/movie/view/1934/The-Last-Shift-%E0%B8%81%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2-(2020)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]" 
-},
+{"name":"SHE'S THE MAN (2006) แอบแมน มาปิ๊งแมน 2006","image":"https://youflix4k.com/uploads/jpg/6f666e4131752d7980bf0f0cff7a33b7.jpg","url":"https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/M/Inter/Shes_the_Man_2006/Shes_the_Man_2006_TH.mp4/index.m3u8","playInNatPlayer": "true"},
+{"name":"Like a Boss (2020) เพื่อนรักหักเหลี่ยมรวย พากย์ไทย","image":"https://www.movie4fever.com/wp-content/uploads/2020/11/like-a-boss-2020.jpg","url":"https://www.movie4fever.com/like-a-boss-2020/","refere": "https://www.movie4fever.com/","playInNatPlayer": "true"},
+{"name":"American Virgin (2020) สาวจิ้นอยากลองแอ้ม พากย์ไทย","image":"https://www.movie4fever.com/wp-content/uploads/2021/01/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%88%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B9%89%E0%B8%A1.jpg","url":"https://www.movie4fever.com/american-virgin-2020/","refere": "https://www.movie4fever.com/","playInNatPlayer": "true"},
+{"name":"She's The Man 2006","image":"https://cdn-img.movieclub.tv/img_movies_vertical/1620899873_1.jpg","url":"https://www.all-movie.tv/Shes%20the%20Man%20%282006%29","refere": "http://all-movie.tv/","playInNatPlayer": "true"},
+{"name":"Thunder Force ธันเดอร์ฟอร์ซ ขบวนการฮีโร่ฟาดฟ้า (2021) [พากย์ไทย บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/qyj3n6iwkc0s4c0ow.jpg","url":"https://www.doonung1234.com/movie/view/1924/Thunder-Force-%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%8B-%E0%B8%82%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%9F%E0%B8%B2%E0%B8%94%E0%B8%9F%E0%B9%89%E0%B8%B2-(2021)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]" },    
+{"name":"แฮนค๊อก ฮีโร่ขวางนรก","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo4XTNCjTjCbHFl36x1ex4zoPEL1lSSEogbA&usqp=CAU","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/4837f1bee214d4eb8d1ffae66e662914/4837f1bee214d4eb8d1ffae66e662914.m3u8","referer": "https://www.doomovie-hd.com/" },
+{"name":"Double Dad 2021","image":"https://i.postimg.cc/d0F7xVKd/image.jpg","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/9612a5040ac8795083ef94a0cbc7ee35/9612a5040ac8795083ef94a0cbc7ee35.m3u8","referer": "https://www.doomovie-hd.com/" },
+{"name":"The Last Shift กะสุดท้าย (2020) [พากย์ไทย บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/f5gq5b88o5c0kkkso.jpg", "url":"https://www.doonung1234.com/movie/view/1934/The-Last-Shift-%E0%B8%81%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2-(2020)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]" },
 
 ]
-  }, 
+}, 
 {  
     "name": "Thai Movies", 
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBseAG-4ZEBZ3GJKDWU1BFmDAqiPkxlnbQbQ&usqp=CAU",       
     "stations": [ 
-{
-"name":"Nemesis คืนยุติ-ธรรม",
-"image":"https://moviekub.com/images/movie/0Vz9DCABtFrYZbTsOE1m37I2W5Xostw1922.jpg",
-"url": "https://moviekub.com/Nemesis-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
-"referer": "https://moviekub.com/",
-"playInNatPlayer": "true"
-},
-{
-"name":"Bad Genius ฉลาดเกมส์โกง",
-"image":"https://moviekub.com/images/movie/UZMlMVvFuZSRyQLCAyVCTN9nVjt8MaNBad-Genius-%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87-300x390.png",
-"url": "https://moviekub.com/Bad-Genius-%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87",
-"referer": "https://moviekub.com/",
-"playInNatPlayer": "true"
-},
-{
-"name":"Awasarn Lok Suey อวสานโลกสวย",
-"image":"https://moviekub.com/images/movie/imJuR5HXRcB8kB63p7fOYI73qCwLQyKAwasarn-Lok-Suey-.jpg",
-"url": "https://moviekub.com/Awasarn-Lok-Suey-%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%AA%E0%B8%A7%E0%B8%A2",
-"referer": "https://moviekub.com/",
-"playInNatPlayer": "true"
-},
-{
-"name":"เฮ้ยลูกพี่ นี่ลูกพ่อ",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4KUSiQnqvOqqyQxmxMv6NMsa3GZARDumaQ&usqp=CAU",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/c67a034bcf3ac9766be683fa1257c6e2/c67a034bcf3ac9766be683fa1257c6e2.m3u8",
-"referer": "https://www.doomovie-hd.com/"
-},
-{
-"name":"เกมส์เมอร์ เกมส์แม่",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTTymqQPaBBHUD0uLfQiiLvI_n1kNc4V0ZFQ&usqp=CAU",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/3adcf011f4882fd43f8497d3b598d1cd/3adcf011f4882fd43f8497d3b598d1cd.m3u8",
-"referer": "https://www.doomovie-hd.com/"
-},    
-{
-"name":"1448 Love Among Us รักเราของใคร",
-"image":"https://moviekub.com/images/movie/Qa2qG7CPujPrhEomdVT5tY6k80xPyrv1448_Love_Among_Us_(2014).jpg",
-"url": "https://moviekub.com/1448-Love-Among-Us-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%84%E0%B8%A3",
-"referer": "https://moviekub.com/",
-"playInNatPlayer": "true"
-},
-{
-"name":"อีเรียมซิ่ง",
-"image":"https://www.img10.xyz/assets/movie_poster/a/ab1115e4938b9dcdfb63866e4648dd7a.jpg",
-"url": "https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/3e11c0d0ca83c5c5c32abb7af8c043a5/3e11c0d0ca83c5c5c32abb7af8c043a5.m3u8" ,
-"info":"Movie-hd"
-},
+{"name":"Nemesis คืนยุติ-ธรรม","image":"https://moviekub.com/images/movie/0Vz9DCABtFrYZbTsOE1m37I2W5Xostw1922.jpg","url": "https://moviekub.com/Nemesis-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1","referer": "https://moviekub.com/","playInNatPlayer": "true"},
+{"name":"Bad Genius ฉลาดเกมส์โกง","image":"https://moviekub.com/images/movie/UZMlMVvFuZSRyQLCAyVCTN9nVjt8MaNBad-Genius-%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87-300x390.png","url": "https://moviekub.com/Bad-Genius-%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%87","referer": "https://moviekub.com/","playInNatPlayer": "true"},
+{"name":"Awasarn Lok Suey อวสานโลกสวย","image":"https://moviekub.com/images/movie/imJuR5HXRcB8kB63p7fOYI73qCwLQyKAwasarn-Lok-Suey-.jpg","url": "https://moviekub.com/Awasarn-Lok-Suey-%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%AA%E0%B8%A7%E0%B8%A2","referer": "https://moviekub.com/","playInNatPlayer": "true"},
+{"name":"เฮ้ยลูกพี่ นี่ลูกพ่อ","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4KUSiQnqvOqqyQxmxMv6NMsa3GZARDumaQ&usqp=CAU","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/c67a034bcf3ac9766be683fa1257c6e2/c67a034bcf3ac9766be683fa1257c6e2.m3u8","referer": "https://www.doomovie-hd.com/"},
+{"name":"เกมส์เมอร์ เกมส์แม่","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTTymqQPaBBHUD0uLfQiiLvI_n1kNc4V0ZFQ&usqp=CAU","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/3adcf011f4882fd43f8497d3b598d1cd/3adcf011f4882fd43f8497d3b598d1cd.m3u8","referer": "https://www.doomovie-hd.com/"},    
+{"name":"1448 Love Among Us รักเราของใคร","image":"https://moviekub.com/images/movie/Qa2qG7CPujPrhEomdVT5tY6k80xPyrv1448_Love_Among_Us_(2014).jpg","url": "https://moviekub.com/1448-Love-Among-Us-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%84%E0%B8%A3","referer": "https://moviekub.com/","playInNatPlayer": "true"},
+{"name":"อีเรียมซิ่ง","image":"https://www.img10.xyz/assets/movie_poster/a/ab1115e4938b9dcdfb63866e4648dd7a.jpg","url": "https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/3e11c0d0ca83c5c5c32abb7af8c043a5/3e11c0d0ca83c5c5c32abb7af8c043a5.m3u8" ,"info":"Movie-hd"},
 
 ]
-  }, 
+}, 
 {  
     "name": "Drama Movies", 
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IslUfi3wb0QO8aOnlgJ2OVQOV7T0HW-jHg&usqp=CAU",       
     "stations": [ 
 {"name":"The Grand Budapest Hotel (2014)","image":"https://www.img03.xyz/assets/movie_poster/import/poster_53bf693c2ddad1_81259243.jpg","url":"https://nungdeedee.com/movie/info/6241/%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87-The-Grand-Budapest-Hotel-%e0%b8%84%e0%b8%94%e0%b8%b5%e0%b8%9e%e0%b8%b4%e0%b8%aa%e0%b8%94%e0%b8%b2%e0%b8%a3%e0%b9%82%e0%b8%a3%e0%b8%87%e0%b9%81%e0%b8%a3%e0%b8%a1%e0%b9%81%e0%b8%81%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%9a%e0%b8%b9%e0%b8%94%e0%b8%b2%e0%b9%80%e0%b8%9b%e0%b8%aa%e0%b8%95%e0%b9%8c-2014-%e0%b9%80%e0%b8%95%e0%b9%87%e0%b8%a1%e0%b9%80%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87/","playInNatPlayer":"true"},
 {"name":"Exodus: Gods And Kings","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt7RbOKnJUytHS592MmGRksXQW3xGaL589CQ&usqp=CAU","url":"https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/bd6785411a85aac18da6efb2e6afa647/bd6785411a85aac18da6efb2e6afa647.m3u8","playInNatPlayer":"true"},
-{
-"name":"The Soloist (2009) เดี่ยวข้างถนน ยอดคนผู้ยิ่งใหญ่",
-"image":"https://movie24th.com/wp-content/uploads/2020/11/0966-402x603.jpg",
-"url":"https://movie24th.com/the-soloist-2009-เดี่ยวข้างถนน-ยอดคนผู/",
-"info":"https://movie24th.com/",
-"playInNatPlayer": "true"
-},   
-{
-"name":"Outcast - อัศวินชิงบัลลังค์ 2014",
-"image":"https://www.doofree88.com/storage/images/2019/6/zri9ZFfGtGmSKGTCAaQFOWAUFGTM9HnW9T1cfUgW.jpg",
-"url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/d351827cd49d6a0b78f0b6f458d90e18/d351827cd49d6a0b78f0b6f458d90e18.m3u8" 
-},
-{
-"name":"If Only ขอสักครั้ง เอ่ยคำว่ารัก 2004",
-"image":"https://dooflix.com/wp-content/uploads/2021/05/MV5BZjg1ZDg4ZTQtMmFjNS00N2VkLWEzNDUtYzE3YTUxZjU5ZjE2XkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_SX300.jpg",
-"url":"https://dooflix.com/if-only/",
-"playInNatPlayer": "true" 
-},
-{
-"name":"ส่องปมมรณะ  2021",
-"image":"https://cdn-img.movieclub.tv/img_movies_vertical/1620983444_cover1.png",
-"url":"https://www.all-movie.tv/The%20Woman%20in%20the%20Window%20%282021%29"
-},
-{
-"name":"The Last Vermeer เดอะ ลาสต์ เวอเมียร์ (2019) [พากย์ไทย บรรยายไทย]",
-"image":"https://nungdeedee.com/uploads/images/1qmpydcek1gkww4kc4.jpg",
-"url":"https://nungdeedee.com/movie/info/18048/the-last-vermeer-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C-2019-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
-"info":"Drama"
-},
-{
-"name":"Assassin’s Creed อัสแซสซินส์ครีด 2016",
-"image":"https://dooflix.com/wp-content/uploads/2021/03/MV5BNzE1OTczNTc1OF5BMl5BanBnXkFtZTgwMzgyMDI3MDI@._V1_SX300.jpg",
-"url":"https://dooflix.com/movie/solar-impact/",
-"info":"dooflix-Drama" 
-},
-{
-"name":"Room In Rome ในห้องรักโรมรำลึก (2010) 20+ [พากย์ไทย บรรยายไทย]",
-"image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/ct87x7val7kggookoc.jpg",
-"url":"https://www.doonung1234.com/movie/view/1784/Room-In-Rome-%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%82%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81-(2010)-20--[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]",
-"info":"20+" 
-},
-{
-"name":"365 Days 365 วัน (2020) 18+ [ บรรยายไทย ]",
-"image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2ivrjyjnu4cgsscg4w.jpg",
-"url":"https://www.doonung1234.com/movie/view/1258/365-Days-365-%E0%B8%A7%E0%B8%B1%E0%B8%99-(2020)-18--[-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-]"
-},
-{
-"name": "Saving Private Ryan(1998)",
-"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1568275203_saving-private-ryan_cover.jpg",
-"url":"http://bit.ly/ryanmovies","referer": "https://all-movie.tv/"
-},
+{"name":"The Soloist (2009) เดี่ยวข้างถนน ยอดคนผู้ยิ่งใหญ่","image":"https://movie24th.com/wp-content/uploads/2020/11/0966-402x603.jpg","url":"https://movie24th.com/the-soloist-2009-เดี่ยวข้างถนน-ยอดคนผู/","info":"https://movie24th.com/","playInNatPlayer": "true"},   
+{"name":"Outcast - อัศวินชิงบัลลังค์ 2014","image":"https://www.doofree88.com/storage/images/2019/6/zri9ZFfGtGmSKGTCAaQFOWAUFGTM9HnW9T1cfUgW.jpg","url":"https://hlscache.proxy-movie.com/M3USpider_smart-tv/Redirector.php?url=https://cdn.livedoomovies.com/hls/d351827cd49d6a0b78f0b6f458d90e18/d351827cd49d6a0b78f0b6f458d90e18.m3u8" },
+{"name":"If Only ขอสักครั้ง เอ่ยคำว่ารัก 2004","image":"https://dooflix.com/wp-content/uploads/2021/05/MV5BZjg1ZDg4ZTQtMmFjNS00N2VkLWEzNDUtYzE3YTUxZjU5ZjE2XkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_SX300.jpg","url":"https://dooflix.com/if-only/","playInNatPlayer": "true" },
+{"name":"ส่องปมมรณะ  2021","image":"https://cdn-img.movieclub.tv/img_movies_vertical/1620983444_cover1.png","url":"https://www.all-movie.tv/The%20Woman%20in%20the%20Window%20%282021%29"},
+{"name":"The Last Vermeer เดอะ ลาสต์ เวอเมียร์ (2019) [พากย์ไทย บรรยายไทย]","image":"https://nungdeedee.com/uploads/images/1qmpydcek1gkww4kc4.jpg","url":"https://nungdeedee.com/movie/info/18048/the-last-vermeer-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C-2019-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2","info":"Drama"},
+{"name":"Assassin’s Creed อัสแซสซินส์ครีด 2016","image":"https://dooflix.com/wp-content/uploads/2021/03/MV5BNzE1OTczNTc1OF5BMl5BanBnXkFtZTgwMzgyMDI3MDI@._V1_SX300.jpg","url":"https://dooflix.com/movie/solar-impact/","info":"dooflix-Drama" },
+{"name":"Room In Rome ในห้องรักโรมรำลึก (2010) 20+ [พากย์ไทย บรรยายไทย]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/ct87x7val7kggookoc.jpg","url":"https://www.doonung1234.com/movie/view/1784/Room-In-Rome-%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%82%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81-(2010)-20--[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]","info":"20+" },
+{"name":"365 Days 365 วัน (2020) 18+ [ บรรยายไทย ]","image":"https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2ivrjyjnu4cgsscg4w.jpg","url":"https://www.doonung1234.com/movie/view/1258/365-Days-365-%E0%B8%A7%E0%B8%B1%E0%B8%99-(2020)-18--[-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2-]"},
+{"name": "Saving Private Ryan(1998)","image": "https://cdn-img.movieclub.tv/img_movies_vertical/1568275203_saving-private-ryan_cover.jpg","url":"http://bit.ly/ryanmovies","referer": "https://all-movie.tv/"},
+
 ]
 }
 ]
