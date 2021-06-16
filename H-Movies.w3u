@@ -146,9 +146,25 @@
 {"name":"Saving Private Ryan(1998)","image": "https://cdn-img.movieclub.tv/img_movies_vertical/1568275203_saving-private-ryan_cover.jpg","url":"http://bit.ly/ryanmovies","referer": "https://all-movie.tv/"},
 {"name":"ส่องปมมรณะ 2021","image":"https://cdn-img.movieclub.tv/img_movies_vertical/1620983444_cover1.png","url":"https://www.all-movie.tv/The%20Woman%20in%20the%20Window%20%282021%29"},
 {"name":"Assassin’s Creed แอสแซสซินส์ครีด 2016","image":"https://dooflix.com/wp-content/uploads/2021/03/MV5BNzE1OTczNTc1OF5BMl5BanBnXkFtZTgwMzgyMDI3MDI@._V1_SX300.jpg","url":"https://dooflix.com/movie/solar-impact/","info":"dooflix-Drama" },
-{"name":"เวลคัม ทู มาร์เวิ่น (2018)","image":"https://cdn-img.movieclub.tv/img_movies_vertical/1615454321_1.jpg","url":"http://www.all-movie.tv/Welcome%20to%20Marwen%20%282018%29","referer":"https://www.all-movie.tv","playInNatPlayer":"true"},
-{"name":"สู้เพื่ออิสรภาพหัวใจทาส (2007)","image":"https://cdn-img.movieclub.tv/img_movies_vertical/1607160999_1.jpg","url":"http://www.all-movie.tv/Amazing%20Grace%20%282006%29","referer":"https://www.all-movie.tv","playInNatPlayer":"true"},
-{"name":"ดี-ออก สาวปืนโหด (2015)","image":"https://cdn-img.movieclub.tv/img_movies_vertical/1607414740_1.jpg","url":"http://www.all-movie.tv/Everly%20%282015%29","referer":"https://www.all-movie.tv","playInNatPlayer":"true"},
+{
+"name":"เวลคัม ทู มาร์เวิ่น (2018)",
+"image":"https://cdn-img.movieclub.tv/img_movies_vertical/1615454321_1.jpg",
+"url":"http://www.all-movie.tv/Welcome%20to%20Marwen%20%282018%29",
+"referer":"https://www.all-movie.tv",
+"playInNatPlayer":"true"
+},
+{"name":"สู้เพื่ออิสรภาพหัวใจทาส (2007)",
+"image":"https://cdn-img.movieclub.tv/img_movies_vertical/1607160999_1.jpg",
+"url":"http://www.all-movie.tv/Amazing%20Grace%20%282006%29",
+"referer":"https://www.all-movie.tv",
+"playInNatPlayer":"true"
+},
+{"name":"ดี-ออก สาวปืนโหด (2015)",
+"image":"https://cdn-img.movieclub.tv/img_movies_vertical/1607414740_1.jpg",
+"url":"http://www.all-movie.tv/Everly%20%282015%29",
+"referer":"https://www.all-movie.tv",
+"playInNatPlayer":"true"
+},
 
 ]
 }
